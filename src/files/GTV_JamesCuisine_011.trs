@@ -1,0 +1,2264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="lenovo" audio_filename="GTV_JamesCuisine_011" version="8" version_date="200410">
+<Speakers>
+<Speaker id="spk1" name="Man1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk2" name="Woman1" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk5" name="Woman2" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk6" name="Man2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk7" name="Man3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk8" name="Man4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk9" name="Man5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk11" name="Woman3" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk12" name="Woman4" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk13" name="Woman5" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk14" name="Woman7" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk15" name="Woman8" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk16" name="Man7" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk17" name="Man8" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk18" name="Woman9" check="no" type="female" dialect="native" accent="" scope="local"/>
+<Speaker id="spk19" name="Woman10" check="no" type="female" dialect="native" accent="" scope="local"/>
+<Speaker id="spk20" name="Woman11" check="no" type="female" dialect="native" accent="" scope="local"/>
+<Speaker id="spk21" name="Woman12" check="no" type="female" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="2683.112">
+<Turn startTime="0" endTime="4.934" speaker="spk1">
+<Sync time="0"/>
+[music]
+<Sync time="2.893"/>
+你有沒有去過部落？
+</Turn>
+<Turn speaker="spk2" startTime="4.934" endTime="6.036">
+<Sync time="4.934"/>
+没有
+</Turn>
+<Turn speaker="spk1" startTime="6.036" endTime="8.782">
+<Sync time="6.036"/>
+其實我覺得你對台灣真的不熟嘞
+</Turn>
+<Turn speaker="spk2" startTime="8.782" endTime="11.814">
+<Sync time="8.782"/>
+其實我小時候去過台灣很多地方#啊
+</Turn>
+<Turn speaker="spk1" startTime="11.814" endTime="12.194">
+<Sync time="11.814"/>
+#嗯
+</Turn>
+<Turn speaker="spk2" startTime="12.194" endTime="17.893">
+<Sync time="12.194"/>
+因為小時候每個寒暑假爸爸都會帶我去台灣的每個地方去玩
+</Turn>
+<Turn speaker="spk1" startTime="17.893" endTime="19.371">
+<Sync time="17.893"/>
+對#啊，可是部落你沒去過
+</Turn>
+<Turn speaker="spk2" startTime="19.371" endTime="21.888">
+<Sync time="19.371"/>
+部落沒有，因為沒有認識的部落的朋友
+</Turn>
+<Turn speaker="spk1" startTime="21.888" endTime="33.103">
+<Sync time="21.888"/>
+[music]
+<Sync time="25.764"/>
+我們今天比較特殊一點，我們今天要去這個(())，有一個安坡部落
+</Turn>
+<Turn speaker="spk2" startTime="33.103" endTime="33.995">
+<Sync time="33.103"/>
+安坡部落
+</Turn>
+<Turn speaker="spk1" startTime="33.995" endTime="37.891">
+<Sync time="33.995"/>
+對，那我們要去那邊因為那邊的小弟弟小妹妹們吶
+</Turn>
+<Turn speaker="spk2" startTime="37.891" endTime="38.247">
+<Sync time="37.891"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="38.247" endTime="62.173">
+<Sync time="38.247"/>
+想要過一個不同的聖誕節，所以我們這一次來這邊特地來幫他們過一個不同的聖誕節，到了哦
+<Sync time="52.308"/>
+嘿
+<Sync time="52.776"/>
+[overlap]
+<Sync time="61.148"/>
+我是以為(())是小朋友，什麼小朋友都這麼大
+</Turn>
+<Turn speaker="spk5" startTime="62.173" endTime="63.334">
+<Sync time="62.173"/>
+因為長大了
+</Turn>
+<Turn speaker="spk1" startTime="63.334" endTime="65.137">
+<Sync time="63.334"/>
+長得，長得太快了吧
+</Turn>
+<Turn speaker="spk6" startTime="65.137" endTime="67.476">
+<Sync time="65.137"/>
+我們終於等到了
+</Turn>
+<Turn speaker="spk1" startTime="67.476" endTime="69.648">
+<Sync time="67.476"/>
+誒，趕快過來#啊
+</Turn>
+<Turn speaker="spk2" startTime="69.648" endTime="69.957">
+<Sync time="69.648"/>
+嗨
+</Turn>
+<Turn speaker="spk1" startTime="69.957" endTime="71.701">
+<Sync time="69.957"/>
+近鄉情怯哦，這個是(())
+</Turn>
+<Turn speaker="spk2" startTime="71.701" endTime="72.188">
+<Sync time="71.701"/>
+你好
+</Turn>
+<Turn speaker="spk1" startTime="72.188" endTime="74.569">
+<Sync time="72.188"/>
+她也是一個廚師啦，哦
+</Turn>
+<Turn speaker="spk7" startTime="74.569" endTime="78.742">
+<Sync time="74.569"/>
+(())開始之前我們有一個很重要的儀式，是我們的公主
+</Turn>
+<Turn speaker="spk1" startTime="78.742" endTime="90.663">
+<Sync time="78.742"/>
+哦，你是公主哦，公主這樣看不到錄嘞哈哈哈
+<Sync time="83.202"/>
+哈哈哈哈
+<Sync time="84.568"/>
+所以平常你們在黨，來這邊的朋友戴帽子的時候，旁邊都有一個會拿吉他唱歌嗎
+</Turn>
+<Turn speaker="spk7" startTime="90.663" endTime="105.287">
+<Sync time="90.663"/>
+對，我們這個都是基本款，哈哈哈哈
+<Sync time="94.725"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="105.287" endTime="135.876">
+<Sync time="105.287"/>
+你來跟我講(())，(())，(())
+<Sync time="113.421"/>
+[music]
+<Sync time="116.235"/>
+哦吼來咯，追上你咯
+<Sync time="119.239"/>
+[music]
+<Sync time="134.231"/>
+誒，出發咯
+</Turn>
+<Turn speaker="spk8" startTime="135.876" endTime="137.909">
+<Sync time="135.876"/>
+這有介紹嗎，(())介紹
+</Turn>
+<Turn speaker="spk9" startTime="137.909" endTime="138.88">
+<Sync time="137.909"/>
+(())
+</Turn>
+<Turn speaker="spk8" startTime="138.88" endTime="147.848">
+<Sync time="138.88"/>
+大家好，我叫小倩，哈哈哈，倩女幽魂就是我演的，第二集因為太胖了，(())，就沒有(())
+</Turn>
+<Turn speaker="spk1" startTime="147.848" endTime="151.11">
+<Sync time="147.848"/>
+倩女幽魂演兩集了，你是第三集視鏡沒有上
+</Turn>
+<Turn speaker="spk8" startTime="151.11" endTime="151.776">
+<Sync time="151.11"/>
+第一集
+</Turn>
+<Turn speaker="spk1" startTime="151.776" endTime="152.878">
+<Sync time="151.776"/>
+第一集就是你哦
+</Turn>
+<Turn speaker="spk8" startTime="152.878" endTime="153.227">
+<Sync time="152.878"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="153.227" endTime="153.754">
+<Sync time="153.227"/>
+哦
+</Turn>
+<Turn speaker="spk8" startTime="153.754" endTime="155.696">
+<Sync time="153.754"/>
+第二集就換人就是因為
+</Turn>
+<Turn speaker="spk1" startTime="155.696" endTime="160.781">
+<Sync time="155.696"/>
+對我說小倩#啊，你還是沒有回答這到底是什麼族#啊，哈哈哈
+</Turn>
+<Turn speaker="spk8" startTime="160.781" endTime="162.497">
+<Sync time="160.781"/>
+(())族那個
+</Turn>
+<Turn speaker="spk1" startTime="162.497" endTime="168.417">
+<Sync time="162.497"/>
+台灣族
+<Sync time="163.531"/>
+這是台灣族，誒我第一次認識台灣族的朋友，誒，台灣族？(())她們是台灣族#啊
+</Turn>
+<Turn speaker="spk8" startTime="168.417" endTime="169.17">
+<Sync time="168.417"/>
+是
+</Turn>
+<Turn speaker="spk1" startTime="169.17" endTime="171.865">
+<Sync time="169.17"/>
+哦，那我認識她們，(())跟(())我熟#啊
+</Turn>
+<Turn speaker="spk8" startTime="171.865" endTime="172.268">
+<Sync time="171.865"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="172.268" endTime="173.53">
+<Sync time="172.268"/>
+對對對對對
+</Turn>
+<Turn speaker="spk8" startTime="173.53" endTime="174.354">
+<Sync time="173.53"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="174.354" endTime="175.167">
+<Sync time="174.354"/>
+(())
+</Turn>
+<Turn speaker="spk8" startTime="175.167" endTime="178.191">
+<Sync time="175.167"/>
+如果啦啦啦啦啦啦
+</Turn>
+<Turn speaker="spk1" startTime="178.191" endTime="200.214">
+<Sync time="178.191"/>
+你就啦完
+<Sync time="179.594"/>
+哈哈哈哈哈哈
+<Sync time="182.118"/>
+安坡部落位在三弟第門鄉，早些是從大社部落分支出來，以童玩為部落的發展特色，這次#啊我跟昭蓉來到這裡，除了要做志工服務，同時也要好好的了解，深入在地
+<Sync time="195.573"/>
+[music]
+<Sync time="198.28"/>
+所以這裡是什麼地方？
+</Turn>
+<Turn speaker="spk7" startTime="200.214" endTime="206.606">
+<Sync time="200.214"/>
+#啊，部落長者聚會的地方，我們希望你能夠簽上你的大名，就像這樣發
+</Turn>
+<Turn speaker="spk1" startTime="206.606" endTime="208.984">
+<Sync time="206.606"/>
+誒，可是(())這邊都有(())
+</Turn>
+<Turn speaker="spk7" startTime="208.984" endTime="213.76">
+<Sync time="208.984"/>
+因為有時候他(())，那這邊是我們部落長者他來這裡
+</Turn>
+<Turn speaker="spk1" startTime="213.76" endTime="215.793">
+<Sync time="213.76"/>
+也就說這個(())好了
+</Turn>
+<Turn speaker="spk7" startTime="215.793" endTime="216.368">
+<Sync time="215.793"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="216.368" endTime="221.116">
+<Sync time="216.368"/>
+他如果這邊寫，(())，就代表他現在在家裡面，沒有來這邊
+</Turn>
+<Turn speaker="spk7" startTime="221.116" endTime="226.954">
+<Sync time="221.116"/>
+對對對，就不在，所以我們就會個別記作資料，讓我們知道他今天的狀況怎麼樣
+</Turn>
+<Turn speaker="spk1" startTime="226.954" endTime="230.196">
+<Sync time="226.954"/>
+所以你們如果他沒有來，你們也回去追蹤看他在家裡幹嘛
+</Turn>
+<Turn speaker="spk7" startTime="230.196" endTime="234.052">
+<Sync time="230.196"/>
+一定的一定的，因為他是我們關懷的一個
+</Turn>
+<Turn speaker="spk1" startTime="234.052" endTime="236.113">
+<Sync time="234.052"/>
+你等於是負責在照顧他們
+</Turn>
+<Turn speaker="spk7" startTime="236.113" endTime="236.719">
+<Sync time="236.113"/>
+是的
+</Turn>
+<Turn speaker="spk1" startTime="236.719" endTime="244.518">
+<Sync time="236.719"/>
+我們先打卡嗎，然後我們要上工了，那個工作在後面，也可以弄的不一樣
+</Turn>
+<Turn speaker="spk7" startTime="244.518" endTime="265.066">
+<Sync time="244.518"/>
+廣告時間，哈哈哈哈
+<Sync time="247.966"/>
+哦喲，(())，我們要做的運動，(())投臂，預備開始，一，二，三，四，(())運動，一，二， 三，四
+<Sync time="260.238"/>
+(())，一，二， 三，四，五，六，七，八
+</Turn>
+<Turn speaker="spk1" startTime="265.066" endTime="266.434">
+<Sync time="265.066"/>
+還蠻舒服的誒
+</Turn>
+<Turn speaker="spk8" startTime="266.434" endTime="270.013">
+<Sync time="266.434"/>
+二，二，三，四，五，六，(())
+</Turn>
+<Turn speaker="spk9" startTime="270.013" endTime="272.165">
+<Sync time="270.013"/>
+你是來(())，還是來(())的
+</Turn>
+<Turn speaker="spk1" startTime="272.165" endTime="307.749">
+<Sync time="272.165"/>
+我要先感受一下
+<Sync time="278.736"/>
+在部落裡，白天子女大多外出工作，只剩長輩#啊獨自在家，缺乏陪伴與關懷，因此成立的年長關懷中心，服務項目很多，
+<Sync time="288.517"/>
+像是家庭拜訪、醫療檢查、課程學習，除了就近照顧#啊，也讓長輩們多出來走走#啊，一起聊聊天，吃吃飯，充實長輩們的生活，
+<Sync time="298.793"/>
+好的，健康操作完了，剛剛我瞄了一下下一個活動，哎喲，是點心時間誒，#嗯，這個#啊，我很擅長了哦
+</Turn>
+<Turn speaker="spk7" startTime="307.749" endTime="310.147">
+<Sync time="307.749"/>
+哦，很重要的那個
+</Turn>
+<Turn speaker="spk1" startTime="310.147" endTime="312.137">
+<Sync time="310.147"/>
+這個是(())勇士包
+</Turn>
+<Turn speaker="spk7" startTime="312.137" endTime="315.07">
+<Sync time="312.137"/>
+看你#啊，你覺得可以勇士就是勇士包
+</Turn>
+<Turn speaker="spk1" startTime="315.07" endTime="316.081">
+<Sync time="315.07"/>
+#啊不然這叫什麼
+</Turn>
+<Turn speaker="spk2" startTime="316.081" endTime="317.123">
+<Sync time="316.081"/>
+熱熱的
+</Turn>
+<Turn speaker="spk7" startTime="317.123" endTime="321.72">
+<Sync time="317.123"/>
+叫(())，(())在台灣族叫包起來的意思
+</Turn>
+<Turn speaker="spk1" startTime="321.72" endTime="323.246">
+<Sync time="321.72"/>
+你猜裡面什麼東西
+</Turn>
+<Turn speaker="spk2" startTime="323.246" endTime="324.851">
+<Sync time="323.246"/>
+飯
+</Turn>
+<Turn speaker="spk7" startTime="324.851" endTime="327.07">
+<Sync time="324.851"/>
+還有呢
+</Turn>
+<Turn speaker="spk2" startTime="327.07" endTime="327.705">
+<Sync time="327.07"/>
+不知道
+</Turn>
+<Turn speaker="spk1" startTime="327.705" endTime="328.965">
+<Sync time="327.705"/>
+它粘醬就可以吃的嗎，對
+</Turn>
+<Turn speaker="spk7" startTime="328.965" endTime="329.441">
+<Sync time="328.965"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="329.441" endTime="330.325">
+<Sync time="329.441"/>
+醬汁就可以吃的
+</Turn>
+<Turn speaker="spk7" startTime="330.325" endTime="332.972">
+<Sync time="330.325"/>
+對，裡面是用芋頭粉跟
+</Turn>
+<Turn speaker="spk1" startTime="332.972" endTime="333.765">
+<Sync time="332.972"/>
+芋頭粉哦
+</Turn>
+<Turn speaker="spk7" startTime="333.765" endTime="339.404">
+<Sync time="333.765"/>
+對，芋頭粉是先，就是小芋頭，然後烤乾
+</Turn>
+<Turn speaker="spk1" startTime="339.404" endTime="339.9">
+<Sync time="339.404"/>
+對
+</Turn>
+<Turn speaker="spk7" startTime="339.9" endTime="344.39">
+<Sync time="339.9"/>
+然後磨成粉這樣，然後裡面可以跟那個
+</Turn>
+<Turn speaker="spk1" startTime="344.39" endTime="344.965">
+<Sync time="344.39"/>
+很好吃哦
+</Turn>
+<Turn speaker="spk7" startTime="344.965" endTime="347.969">
+<Sync time="344.965"/>
+豬肉啦，雞肉#啊，魚肉#啊
+</Turn>
+<Turn speaker="spk1" startTime="347.969" endTime="349.308">
+<Sync time="347.969"/>
+不一樣不一樣不一樣
+</Turn>
+<Turn speaker="spk7" startTime="349.308" endTime="353.371">
+<Sync time="349.308"/>
+這些你都可以吃，那這個葉子叫假酸漿
+</Turn>
+<Turn speaker="spk1" startTime="353.371" endTime="354.156">
+<Sync time="353.371"/>
+假酸漿
+</Turn>
+<Turn speaker="spk7" startTime="354.156" endTime="355.773">
+<Sync time="354.156"/>
+#嗯，叫(())，台灣是叫
+</Turn>
+<Turn speaker="spk1" startTime="355.773" endTime="389.951">
+<Sync time="355.773"/>
+(())，#嗯
+<Sync time="357.33"/>
+(())是台灣族的傳統美食，做法上呢優點類似像包粽子，把豬肉、芋頭粉、小米粉以及#啊適量的水混合攪拌均勻后誒，先鋪上兩到三篇的假酸漿葉
+<Sync time="371.677"/>
+包入適量的餡料，最後#啊再用月桃葉#啊包住而且綁上的麻繩，蒸煮大概哦，四十分鐘它就可以起過了
+<Sync time="380.388"/>
+它的那個葉子，它有個獨特的味道啦，它沒有像你想象中好像什麼香菜、韭菜，沒有沒有沒有，它就是有一個蔬菜的感覺
+</Turn>
+<Turn speaker="spk2" startTime="389.951" endTime="390.488">
+<Sync time="389.951"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="390.488" endTime="394.285">
+<Sync time="390.488"/>
+對不對，哦裡面的這個你說芋頭粉沒有那麼明顯啦
+</Turn>
+<Turn speaker="spk7" startTime="394.285" endTime="394.659">
+<Sync time="394.285"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="394.659" endTime="398.121">
+<Sync time="394.659"/>
+對不對，肉都會蛋白明顯，你有沒有吃過類似的
+</Turn>
+<Turn speaker="spk2" startTime="398.121" endTime="399.865">
+<Sync time="398.121"/>
+沒有
+</Turn>
+<Turn speaker="spk1" startTime="399.865" endTime="400.214">
+<Sync time="399.865"/>
+沒有#啊
+</Turn>
+<Turn speaker="spk2" startTime="400.214" endTime="400.543">
+<Sync time="400.214"/>
+應該是
+</Turn>
+<Turn speaker="spk7" startTime="400.543" endTime="401.229">
+<Sync time="400.543"/>
+第一次吃嘛
+</Turn>
+<Turn speaker="spk2" startTime="401.229" endTime="405.62">
+<Sync time="401.229"/>
+葉，葉子醬是包的，以前我們做都是可能像月桃葉
+</Turn>
+<Turn speaker="spk7" startTime="405.62" endTime="406.02">
+<Sync time="405.62"/>
+#嗯
+</Turn>
+<Turn speaker="spk2" startTime="406.02" endTime="408.117">
+<Sync time="406.02"/>
+就只是給味道，但是葉子沒有要吃
+</Turn>
+<Turn speaker="spk7" startTime="408.117" endTime="412.409">
+<Sync time="408.117"/>
+對對，就是直接就是用葉子去包覆醬，&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk2" startTime="412.409" endTime="413.035">
+<Sync time="412.409"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk1" startTime="413.035" endTime="414.513">
+<Sync time="413.035"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;就是&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;，&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk2" startTime="414.513" endTime="414.87">
+<Sync time="414.513"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk7" startTime="414.87" endTime="421.005">
+<Sync time="414.87"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;就是要&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;，&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;很好吃，&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk2" startTime="421.005" endTime="421.631">
+<Sync time="421.005"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk7" startTime="421.631" endTime="422.998">
+<Sync time="421.631"/>
+就是非常好吃
+</Turn>
+<Turn speaker="spk1" startTime="422.998" endTime="424.504">
+<Sync time="422.998"/>
+哦，&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk7" startTime="424.504" endTime="426.18">
+<Sync time="424.504"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk1" startTime="426.18" endTime="427.488">
+<Sync time="426.18"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk7" startTime="427.488" endTime="428.954">
+<Sync time="427.488"/>
+然後如果更嚴重的話
+</Turn>
+<Turn speaker="spk1" startTime="428.954" endTime="429.747">
+<Sync time="428.954"/>
+還有嚴重哦
+</Turn>
+<Turn speaker="spk7" startTime="429.747" endTime="431.847">
+<Sync time="429.747"/>
+哦，&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk1" startTime="431.847" endTime="432.799">
+<Sync time="431.847"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk7" startTime="432.799" endTime="440.697">
+<Sync time="432.799"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;就是嚴重嘛，嚴重的好吃，&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;，&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;就是嚴重
+</Turn>
+<Turn speaker="spk2" startTime="440.697" endTime="441.648">
+<Sync time="440.697"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk7" startTime="441.648" endTime="442.461">
+<Sync time="441.648"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk2" startTime="442.461" endTime="442.968">
+<Sync time="442.461"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk7" startTime="442.968" endTime="444.098">
+<Sync time="442.968"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk1" startTime="444.098" endTime="444.823">
+<Sync time="444.098"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk7" startTime="444.823" endTime="446.032">
+<Sync time="444.823"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk1" startTime="446.032" endTime="448.065">
+<Sync time="446.032"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk7" startTime="448.065" endTime="449.016">
+<Sync time="448.065"/>
+#啊，&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk1" startTime="449.016" endTime="465.803">
+<Sync time="449.016"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+<Sync time="449.741"/>
+這個豬肉#啊，經過燜煮#啊，豬肉味道會燜入了小米當中，加上這個假酸漿葉#啊，蒸煮后淡淡清香，吃起來#啊可是米中有肉香，肉中有米香#啊
+<Sync time="460.481"/>
+味道很不錯#啊，誒，(())老師差不多了哦，要到小朋友下課的時間咯
+</Turn>
+<Turn speaker="spk8" startTime="465.803" endTime="477.922">
+<Sync time="465.803"/>
+嗚呼[noise]
+<Sync time="472.342"/>
+歡迎歡迎，熱烈歡迎，歡迎(())的小朋友回家
+</Turn>
+<Turn speaker="spk11" startTime="477.922" endTime="480.153">
+<Sync time="477.922"/>
+辛苦了小朋友
+</Turn>
+<Turn speaker="spk2" startTime="480.153" endTime="482.254">
+<Sync time="480.153"/>
+小心小心
+</Turn>
+<Turn speaker="spk1" startTime="482.254" endTime="482.821">
+<Sync time="482.254"/>
+小倩
+</Turn>
+<Turn speaker="spk8" startTime="482.821" endTime="483.546">
+<Sync time="482.821"/>
+誒
+</Turn>
+<Turn speaker="spk1" startTime="483.546" endTime="487.133">
+<Sync time="483.546"/>
+他不是說兩個，怎麼現在這麼多人
+</Turn>
+<Turn speaker="spk8" startTime="487.133" endTime="489.067">
+<Sync time="487.133"/>
+你名氣太大了，知道你(())
+</Turn>
+<Turn speaker="spk1" startTime="489.067" endTime="492.705">
+<Sync time="489.067"/>
+怎麼可能，她剛好註冊編好不好，雨蘭是誰，舉手
+</Turn>
+<Turn speaker="spk12" startTime="492.705" endTime="493.101">
+<Sync time="492.705"/>
+我
+</Turn>
+<Turn speaker="spk2" startTime="493.101" endTime="493.727">
+<Sync time="493.101"/>
+雨蘭
+</Turn>
+<Turn speaker="spk1" startTime="493.727" endTime="506.401">
+<Sync time="493.727"/>
+哦，來雨蘭過來，雨蘭過來，好，恩訥是誰，恩訥誰，好，恩訥過來，好，哦你很那個，(())走過來
+<Sync time="505.101"/>
+嘿嘿嘿嘿
+</Turn>
+<Turn speaker="spk11" startTime="506.401" endTime="507.372">
+<Sync time="506.401"/>
+(())大哥
+</Turn>
+<Turn speaker="spk1" startTime="507.372" endTime="507.755">
+<Sync time="507.372"/>
+誒
+</Turn>
+<Turn speaker="spk11" startTime="507.755" endTime="517.284">
+<Sync time="507.755"/>
+我要跟你說，今天就是一個指令就是今天我們(())班的點心由你們來煮
+<Sync time="513.091"/>
+哇塞，哇
+<Sync time="516.379"/>
+我們就是(())
+</Turn>
+<Turn speaker="spk1" startTime="517.284" endTime="521.318">
+<Sync time="517.284"/>
+等一下等一下，他(())應該，哇塞，(())誒
+</Turn>
+<Turn speaker="spk11" startTime="521.318" endTime="522.587">
+<Sync time="521.318"/>
+我們(())
+</Turn>
+<Turn speaker="spk1" startTime="522.587" endTime="543.508">
+<Sync time="522.587"/>
+走走走走
+<Sync time="524.065"/>
+等一下的工作呢就是幫小朋友們做點心，(())說#啊在部落裡#啊，下課後父母還在外工作，應該八年前成立的陪讀班，除了妥善照顧，同時也輔導課業
+<Sync time="536.351"/>
+去陪讀班之前呢，大家說要帶我逛一下部落(())，誒，這就是部落(())嗎
+<Sync time="543.185"/>
+(())大賣
+</Turn>
+<Turn speaker="spk11" startTime="543.508" endTime="545.054">
+<Sync time="543.508"/>
+大賣大賣
+</Turn>
+<Turn speaker="spk13" startTime="545.054" endTime="546.275">
+<Sync time="545.054"/>
+我們(())
+</Turn>
+<Turn speaker="spk1" startTime="546.275" endTime="547.476">
+<Sync time="546.275"/>
+(())是什麼意思
+</Turn>
+<Turn speaker="spk5" startTime="547.476" endTime="548.181">
+<Sync time="547.476"/>
+你要買什麼
+</Turn>
+<Turn speaker="spk1" startTime="548.181" endTime="553.036">
+<Sync time="548.181"/>
+哦，我要買什麼，我要買，等下你要吃什麼，誒，你要吃什麼，你們平常都買什麼
+</Turn>
+<Turn speaker="spk14" startTime="553.036" endTime="554.574">
+<Sync time="553.036"/>
+(())買麵包#啊
+</Turn>
+<Turn speaker="spk1" startTime="554.574" endTime="557.994">
+<Sync time="554.574"/>
+平常買麵包？哎喲，現在吃瓜子也有嘞
+</Turn>
+<Turn speaker="spk2" startTime="557.994" endTime="558.688">
+<Sync time="557.994"/>
+#嗯
+</Turn>
+<Turn speaker="spk5" startTime="558.688" endTime="559.988">
+<Sync time="558.688"/>
+要吃冰
+</Turn>
+<Turn speaker="spk2" startTime="559.988" endTime="560.456">
+<Sync time="559.988"/>
+#嗯？
+</Turn>
+<Turn speaker="spk1" startTime="560.456" endTime="560.725">
+<Sync time="560.456"/>
+你要吃什麼？
+</Turn>
+<Turn speaker="spk15" startTime="560.725" endTime="561.411">
+<Sync time="560.725"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="561.411" endTime="563.008">
+<Sync time="561.411"/>
+(())，然後
+</Turn>
+<Turn speaker="spk2" startTime="563.008" endTime="564.157">
+<Sync time="563.008"/>
+他吃冰嘛？
+</Turn>
+<Turn speaker="spk1" startTime="564.157" endTime="566.614">
+<Sync time="564.157"/>
+好你去拿冰，去拿冰，去拿冰
+</Turn>
+<Turn speaker="spk2" startTime="566.614" endTime="567.506">
+<Sync time="566.614"/>
+吃冰
+</Turn>
+<Turn speaker="spk1" startTime="567.506" endTime="568.338">
+<Sync time="567.506"/>
+還有嘞，哎喲，去拿冰，去拿冰
+</Turn>
+<Turn speaker="spk2" startTime="568.338" endTime="569.626">
+<Sync time="568.338"/>
+叔叔那我也可以吃嘛
+</Turn>
+<Turn speaker="spk1" startTime="569.626" endTime="578.563">
+<Sync time="569.626"/>
+可以可以可以，去去去，去拿冰，還有麵筋這些東西都有誒，哦？這個是什麼
+</Turn>
+<Turn speaker="spk13" startTime="578.563" endTime="580.319">
+<Sync time="578.563"/>
+那個是
+</Turn>
+<Turn speaker="spk2" startTime="580.319" endTime="580.985">
+<Sync time="580.319"/>
+中藥？
+</Turn>
+<Turn speaker="spk13" startTime="580.985" endTime="582.8">
+<Sync time="580.985"/>
+中藥材(())
+</Turn>
+<Turn speaker="spk1" startTime="582.8" endTime="584.742">
+<Sync time="582.8"/>
+所以滷肉的時候用的是不是
+</Turn>
+<Turn speaker="spk13" startTime="584.742" endTime="585.329">
+<Sync time="584.742"/>
+對對對
+</Turn>
+<Turn speaker="spk1" startTime="585.329" endTime="586.233">
+<Sync time="585.329"/>
+可是以前
+</Turn>
+<Turn speaker="spk13" startTime="586.233" endTime="588.444">
+<Sync time="586.233"/>
+燉，燉那個雞肉的
+</Turn>
+<Turn speaker="spk1" startTime="588.444" endTime="590.148">
+<Sync time="588.444"/>
+那以前(())不會會用這個嗎
+</Turn>
+<Turn speaker="spk13" startTime="590.148" endTime="591.357">
+<Sync time="590.148"/>
+沒有沒有，現在(())
+</Turn>
+<Turn speaker="spk1" startTime="591.357" endTime="593.121">
+<Sync time="591.357"/>
+現在還有人會買嗎，很多人
+</Turn>
+<Turn speaker="spk13" startTime="593.121" endTime="593.529">
+<Sync time="593.121"/>
+有#啊有#啊
+</Turn>
+<Turn speaker="spk1" startTime="593.529" endTime="594.421">
+<Sync time="593.529"/>
+真的哦
+</Turn>
+<Turn speaker="spk13" startTime="594.421" endTime="596.315">
+<Sync time="594.421"/>
+冬天的，哈哈哈哈哈
+</Turn>
+<Turn speaker="spk1" startTime="596.315" endTime="598.891">
+<Sync time="596.315"/>
+哦，冬天哦，那這邊有人會羊肉(())嗎
+</Turn>
+<Turn speaker="spk13" startTime="598.891" endTime="599.248">
+<Sync time="598.891"/>
+有有
+</Turn>
+<Turn speaker="spk1" startTime="599.248" endTime="600.248">
+<Sync time="599.248"/>
+有哦
+</Turn>
+<Turn speaker="spk2" startTime="600.248" endTime="601.499">
+<Sync time="600.248"/>
+叔叔你要吃冰嘛
+</Turn>
+<Turn speaker="spk1" startTime="601.499" endTime="603.473">
+<Sync time="601.499"/>
+還有韓國風味的泡麵哦
+</Turn>
+<Turn speaker="spk13" startTime="603.473" endTime="606.18">
+<Sync time="603.473"/>
+有有，有那個(())
+</Turn>
+<Turn speaker="spk1" startTime="606.18" endTime="608.055">
+<Sync time="606.18"/>
+這個是(())吃嘛
+</Turn>
+<Turn speaker="spk13" startTime="608.055" endTime="608.544">
+<Sync time="608.055"/>
+有有
+</Turn>
+<Turn speaker="spk1" startTime="608.544" endTime="648.019">
+<Sync time="608.544"/>
+有哦，奧喲什麼都有嘞，人家說市場可以看到當地文化嘞，我覺得#啊，這家店裡#啊可以看出部落生活的景象，
+<Sync time="618.609"/>
+小小一家店面，賣的東西可是五花八門，除了提供民生必需品#啊，柴米油鹽醬醋茶，
+<Sync time="624.672"/>
+還是小孩們的夢幻零食天堂的(())嘛，聽說哦，居然還可以賒賬哦，哎喲，這也太有人情味了吧
+<Sync time="634.731"/>
+這個，哦，你也看到，((高麗菜))兩顆，姜跟紅蘿蔔，麵條，地瓜，南瓜，我們是今天(())做這個，(())你有沒有什麽想法？
+<Sync time="646.426"/>
+[music]
+</Turn>
+<Turn speaker="spk2" startTime="648.019" endTime="649.398">
+<Sync time="648.019"/>
+炒的嘞
+</Turn>
+<Turn speaker="spk1" startTime="649.398" endTime="652.172">
+<Sync time="649.398"/>
+應該是炒的，湯也可以#啊，但是是炒的啦。
+</Turn>
+<Turn speaker="spk2" startTime="652.172" endTime="652.855">
+<Sync time="652.172"/>
+炒的好了。
+</Turn>
+<Turn speaker="spk1" startTime="652.855" endTime="653.262">
+<Sync time="652.855"/>
+好不好？
+</Turn>
+<Turn speaker="spk2" startTime="653.262" endTime="654.135">
+<Sync time="653.262"/>
+#嗯。
+</Turn>
+<Turn speaker="spk1" startTime="654.135" endTime="656.67">
+<Sync time="654.135"/>
+哦，這個
+<Sync time="655.334"/>
+[music]
+</Turn>
+<Turn speaker="spk2" startTime="656.67" endTime="657.443">
+<Sync time="656.67"/>
+蠻挑戰的。
+</Turn>
+<Turn speaker="spk1" startTime="657.443" endTime="664.989">
+<Sync time="657.443"/>
+#嗯。
+<Sync time="658.037"/>
+[music]
+<Sync time="660.011"/>
+真的蠻挑戰的。
+<Sync time="661.529"/>
+反正就炒吧，我們就做一個南瓜拌麵好了，好吧。
+</Turn>
+<Turn speaker="spk16" startTime="664.989" endTime="685.355">
+<Sync time="664.989"/>
+#呃，現在目前我們所看到的就是只有南瓜，(())菜，然後跟姜，
+<Sync time="673.617"/>
+那面跟蛋，那我覺得，
+<Sync time="677.077"/>
+如果説把他作爲一項麻油(())面，應該營養成分也夠了，然後吃起來也好吃啦。
+</Turn>
+<Turn speaker="spk1" startTime="685.355" endTime="686.833">
+<Sync time="685.355"/>
+哦。
+</Turn>
+<Turn speaker="spk2" startTime="686.833" endTime="689.393">
+<Sync time="686.833"/>
+麻油(())哦，聽起來還不錯。
+</Turn>
+<Turn speaker="spk1" startTime="689.393" endTime="692.784">
+<Sync time="689.393"/>
+對#啊，這個高麗菜顯然是他們自己種的。
+</Turn>
+<Turn speaker="spk2" startTime="692.784" endTime="694.817">
+<Sync time="692.784"/>
+蛋也要達成散蛋嗎？
+</Turn>
+<Turn speaker="spk16" startTime="694.817" endTime="732.263">
+<Sync time="694.817"/>
+#呃對。
+<Sync time="695.552"/>
+[music]
+<Sync time="700.207"/>
+任何東西，要有一個食欲，方便(())，但是炒的時候它的香氣就會更容易出來，
+<Sync time="707.272"/>
+那我覺得(())，很重要的一部分是因爲(())吃起來一直都很好吃，他會一口接一口，如果香氣不足整個都(())
+<Sync time="718.281"/>
+((())蛋煎過了之後跟一般的水煮蛋比起來當然是煎過的比較好，那如果說是像南瓜啦，(())都會很棒。
+<Sync time="727.785"/>
+[noise]
+</Turn>
+<Turn speaker="spk1" startTime="732.263" endTime="733.287">
+<Sync time="732.263"/>
+不都大哎，
+</Turn>
+<Turn speaker="spk2" startTime="733.287" endTime="734.256">
+<Sync time="733.287"/>
+沒有哎，就這樣子。
+</Turn>
+<Turn speaker="spk1" startTime="734.256" endTime="757.51">
+<Sync time="734.256"/>
+(())往下還大。對對對。
+<Sync time="735.98"/>
+[noise]
+<Sync time="738.418"/>
+我跟你説，不要小看這些蛋，這些蛋我會把它炒的它香氣很足。
+<Sync time="743.205"/>
+(())待會兒我放在湯裏面呢那個湯就可以不用加味精或者是((雞精粉))。
+<Sync time="748.708"/>
+因爲一顆蛋她所呈現出來的養分跟蛋白質它可以孵出一隻鷄出來。所以很重要。
+<Sync time="755.933"/>
+[noise]
+</Turn>
+<Turn speaker="spk2" startTime="757.51" endTime="760.899">
+<Sync time="757.51"/>
+聞起來很香哎。
+<Sync time="759.095"/>
+[noise]
+</Turn>
+<Turn speaker="spk1" startTime="760.899" endTime="775.891">
+<Sync time="760.899"/>
+這個就是在家裏面#啊，如果你要熬鷄湯，你不要直接熬，用一個蛋，水冲進去，它就變成(())的鷄湯了。
+<Sync time="767.915"/>
+基本上，今天我用的是香油啦，對，那我要，沙拉油也可以，但是我覺得香油他比較(())。[noise]
+</Turn>
+<Turn speaker="spk17" startTime="775.891" endTime="778.083">
+<Sync time="775.891"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="778.083" endTime="782.707">
+<Sync time="778.083"/>
+然後，然後這個我們把它放進來，姜的部分先進來。
+</Turn>
+<Turn speaker="spk2" startTime="782.707" endTime="784.059">
+<Sync time="782.707"/>
+你要帶一點油嗎
+</Turn>
+<Turn speaker="spk1" startTime="784.059" endTime="786.853">
+<Sync time="784.059"/>
+要，要要要要要。(())不要怕。
+</Turn>
+<Turn speaker="spk2" startTime="786.853" endTime="799.78">
+<Sync time="786.853"/>
+嚇死個人。
+<Sync time="788.181"/>
+我蠻喜歡煮這種(())的哎。煮起來蠻(())。
+<Sync time="793.102"/>
+以前我們在學校煮學生的員工餐，每次大概煮(())
+</Turn>
+<Turn speaker="spk1" startTime="799.78" endTime="800.316">
+<Sync time="799.78"/>
+真的哦？
+</Turn>
+<Turn speaker="spk2" startTime="800.316" endTime="806.053">
+<Sync time="800.316"/>
+真的#啊。就我就是喜歡煮這種大鍋。然後練習熟大鍋，讓他有香氣。
+</Turn>
+<Turn speaker="spk1" startTime="806.053" endTime="810.016">
+<Sync time="806.053"/>
+哦哦哦哦哦，所以我現在做的這些你再熟悉不過了。
+</Turn>
+<Turn speaker="spk2" startTime="810.016" endTime="814.138">
+<Sync time="810.016"/>
+#呃，(())印象，因爲很久沒這樣煮了。
+</Turn>
+<Turn speaker="spk1" startTime="814.138" endTime="818.153">
+<Sync time="814.138"/>
+那個部分要把它炒到什麽，炒到他整個是囘軟。
+</Turn>
+<Turn speaker="spk2" startTime="818.153" endTime="819.105">
+<Sync time="818.153"/>
+熟了已經。
+</Turn>
+<Turn speaker="spk1" startTime="819.105" endTime="823.792">
+<Sync time="819.105"/>
+對，然後在變烹煮的過程中，(())可以溶解，讓他湯變成(())。
+</Turn>
+<Turn speaker="spk2" startTime="823.792" endTime="825.972">
+<Sync time="823.792"/>
+哦，(())的嗎？
+</Turn>
+<Turn speaker="spk1" startTime="825.972" endTime="830.876">
+<Sync time="825.972"/>
+對對對對對。
+<Sync time="826.782"/>
+[noise]
+<Sync time="829.766"/>
+完了沒，還沒完？
+</Turn>
+<Turn speaker="spk2" startTime="830.876" endTime="832.235">
+<Sync time="830.876"/>
+還沒對。
+</Turn>
+<Turn speaker="spk1" startTime="832.235" endTime="887.191">
+<Sync time="832.235"/>
+對，它實際上要比較久，但我們有大量的(())菜，其實在(())菜在下去的時候有點像煮湯的感覺，他的，希望他的(())還在。
+<Sync time="839.23"/>
+[noise](())那個南瓜的那個顔色(())就帶有淡香味的南瓜湯哎。
+<Sync time="849.514"/>
+[noise]
+<Sync time="852.249"/>
+好的，配料炒的差不多了，接下來放入這個高麗菜，炒拌至微軟，加入剛剛炒的蛋蔬，水跟適量的鹽下去微煮，
+<Sync time="861.925"/>
+微煮的同時就可以起第一鍋滾水來煮麵條，等這個麵條煮熟#啊，撈出一干，再放入湯鍋中，微煮一下，就能起鍋了#啊，
+<Sync time="871.307"/>
+#嗯，這個香氣跟濃鬱我非常滿意，希望小朋友也會很愛#啊，你看這個賣相，哎呦誰受得了#啊。
+<Sync time="879.902"/>
+好啦，天色漸漸變了，趕緊送餐去嘍。
+<Sync time="883.0"/>
+老師，(())現在可以吃飯了嗎，還不行？
+</Turn>
+<Turn speaker="spk18" startTime="887.191" endTime="887.817">
+<Sync time="887.191"/>
+可以#啊。
+</Turn>
+<Turn speaker="spk1" startTime="887.817" endTime="888.273">
+<Sync time="887.817"/>
+可以嗎？
+</Turn>
+<Turn speaker="spk18" startTime="888.273" endTime="888.689">
+<Sync time="888.273"/>
+可以
+</Turn>
+<Turn speaker="spk1" startTime="888.689" endTime="889.929">
+<Sync time="888.689"/>
+我會不會太沒有素質打擾到他們
+</Turn>
+<Turn speaker="spk18" startTime="889.929" endTime="891.059">
+<Sync time="889.929"/>
+不會不會他們在寫作業。
+</Turn>
+<Turn speaker="spk1" startTime="891.059" endTime="893.231">
+<Sync time="891.059"/>
+真的，沒有問題吼。
+<Sync time="892.339"/>
+可以你確定吼？
+</Turn>
+<Turn speaker="spk18" startTime="893.231" endTime="893.808">
+<Sync time="893.231"/>
+可以#啊。
+</Turn>
+<Turn speaker="spk1" startTime="893.808" endTime="900.719">
+<Sync time="893.808"/>
+好了來吃飯嘍。
+<Sync time="894.819"/>
+[music][laugh]
+<Sync time="900.082"/>
+飯夠吧。
+</Turn>
+<Turn speaker="spk2" startTime="900.719" endTime="901.583">
+<Sync time="900.719"/>
+#嗯。
+</Turn>
+<Turn speaker="spk1" startTime="901.583" endTime="946.579">
+<Sync time="901.583"/>
+好，今天做的是鷄蛋南瓜面。
+<Sync time="904.482"/>
+[music]
+<Sync time="916.264"/>
+很好(())，剛剛是麥當勞對不對，哦，對面塞給你的，哦，你們怎麽吃這麽慢，你要是(())對不對？
+<Sync time="928.185"/>
+(())這個才叫吃東西，對不對。
+<Sync time="934.587"/>
+你吃完嘍？[noise]
+<Sync time="944.447"/>
+沒有起司，沒有。
+</Turn>
+<Turn speaker="spk2" startTime="946.579" endTime="954.706">
+<Sync time="946.579"/>
+是因爲那個南瓜，煮起來，軟乎乎的，還有蛋的關係。所以有不一樣哎。
+</Turn>
+<Turn speaker="spk1" startTime="954.706" endTime="958.964">
+<Sync time="954.706"/>
+好吃嗎？真的吼，謝謝你。
+<Sync time="957.814"/>
+[noise]
+</Turn>
+<Turn speaker="spk2" startTime="958.964" endTime="961.056">
+<Sync time="958.964"/>
+(())吃南瓜
+</Turn>
+<Turn speaker="spk1" startTime="961.056" endTime="961.94">
+<Sync time="961.056"/>
+你不吃南瓜？
+</Turn>
+<Turn speaker="spk2" startTime="961.94" endTime="965.178">
+<Sync time="961.94"/>
+因爲我不常吃那個大塊的然後切好的南瓜然後((放進來))。
+</Turn>
+<Turn speaker="spk1" startTime="965.178" endTime="980.831">
+<Sync time="965.178"/>
+你看現在有點黃黃的這個就是南瓜，我們花了時間把他炒的讓他化掉，那你就會覺得那個湯很甜。
+<Sync time="972.786"/>
+很甜，就是南瓜那種不同的甜。你總吃呢你，你剛剛吃麥當勞現在又可以吃這個(())。
+<Sync time="980.07"/>
+好啦
+</Turn>
+<Turn speaker="spk2" startTime="980.831" endTime="981.437">
+<Sync time="980.831"/>
+謝謝
+</Turn>
+<Turn speaker="spk1" startTime="981.437" endTime="981.774">
+<Sync time="981.437"/>
+謝謝
+</Turn>
+<Turn speaker="spk2" startTime="981.774" endTime="982.84">
+<Sync time="981.774"/>
+小心拿。
+</Turn>
+<Turn speaker="spk1" startTime="982.84" endTime="985.368">
+<Sync time="982.84"/>
+差不多沒了，好好吃，只剩一點點吧。
+</Turn>
+<Turn speaker="spk2" startTime="985.368" endTime="986.359">
+<Sync time="985.368"/>
+吃光光
+</Turn>
+<Turn speaker="spk1" startTime="986.359" endTime="999.798">
+<Sync time="986.359"/>
+内行人才知道喝這個湯。(())是臨時被抽，抽隨堂考啦。
+<Sync time="993.142"/>
+也算是模擬考，因爲明天呢，才會正式開始我們部落的一天。
+</Turn>
+<Turn speaker="spk2" startTime="999.798" endTime="1017.269">
+<Sync time="999.798"/>
+你叫什麽？
+<Sync time="1000.873"/>
+[noise]
+<Sync time="1002.744"/>
+[music]
+<Sync time="1009.235"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="1017.269" endTime="1019.183">
+<Sync time="1017.269"/>
+&lt;lang:English&gt;hello&lt;/lang:English&gt;，
+</Turn>
+<Turn speaker="spk6" startTime="1019.183" endTime="1021.8">
+<Sync time="1019.183"/>
+我們再次見面，那
+</Turn>
+<Turn speaker="spk1" startTime="1021.8" endTime="1028.642">
+<Sync time="1021.8"/>
+那，等一下等一下
+<Sync time="1022.844"/>
+[music][laugh]
+</Turn>
+<Turn speaker="spk2" startTime="1028.642" endTime="1030.384">
+<Sync time="1028.642"/>
+我剛剛才反應過來哎
+</Turn>
+<Turn speaker="spk1" startTime="1030.384" endTime="1040.415">
+<Sync time="1030.384"/>
+你們是雙胞胎嗎？好，長老，只能看到是你對不對。[laugh][overlap]
+<Sync time="1037.054"/>
+來這邊這邊這邊，來我們，昨天看到你是不是，昨天不是你
+</Turn>
+<Turn speaker="spk6" startTime="1040.415" endTime="1040.902">
+<Sync time="1040.415"/>
+不是
+</Turn>
+<Turn speaker="spk1" startTime="1040.902" endTime="1041.681">
+<Sync time="1040.902"/>
+昨天不是你？
+</Turn>
+<Turn speaker="spk6" startTime="1041.681" endTime="1042.567">
+<Sync time="1041.681"/>
+我昨天去打獵
+</Turn>
+<Turn speaker="spk1" startTime="1042.567" endTime="1051.198">
+<Sync time="1042.567"/>
+你昨天打獵[laugh]不一樣，昨天(())，所以你們是雙胞胎哦？
+</Turn>
+<Turn speaker="spk6" startTime="1051.198" endTime="1052.07">
+<Sync time="1051.198"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="1052.07" endTime="1053.14">
+<Sync time="1052.07"/>
+哦，真的哦
+</Turn>
+<Turn speaker="spk6" startTime="1053.14" endTime="1054.349">
+<Sync time="1053.14"/>
+是
+</Turn>
+<Turn speaker="spk2" startTime="1054.349" endTime="1058.345">
+<Sync time="1054.349"/>
+我剛剛都沒有反應過來，我剛剛就只是看過去我以爲。#嗯？
+</Turn>
+<Turn speaker="spk1" startTime="1058.345" endTime="1063.504">
+<Sync time="1058.345"/>
+今天從這邊開始要融入這邊的生活好不好，我們要先做什麽？
+</Turn>
+<Turn speaker="spk6" startTime="1063.504" endTime="1064.566">
+<Sync time="1063.504"/>
+吃肉。
+</Turn>
+<Turn speaker="spk1" startTime="1064.566" endTime="1070.077">
+<Sync time="1064.566"/>
+啊？(())給我拿出來。
+</Turn>
+<Turn speaker="spk6" startTime="1070.077" endTime="1073.233">
+<Sync time="1070.077"/>
+這個是昨天泡好的糯米。
+</Turn>
+<Turn speaker="spk1" startTime="1073.233" endTime="1074.335">
+<Sync time="1073.233"/>
+昨天哦。
+</Turn>
+<Turn speaker="spk6" startTime="1074.335" endTime="1078.508">
+<Sync time="1074.335"/>
+你看，你看這個嘛。給他摸一下。
+</Turn>
+<Turn speaker="spk1" startTime="1078.508" endTime="1082.273">
+<Sync time="1078.508"/>
+來，我眼睛看不到哎。。
+</Turn>
+<Turn speaker="spk6" startTime="1082.273" endTime="1083.631">
+<Sync time="1082.273"/>
+沒關係，(())。
+</Turn>
+<Turn speaker="spk1" startTime="1083.631" endTime="1089.171">
+<Sync time="1083.631"/>
+我要摸嘍，准備好了，來啦。
+<Sync time="1086.476"/>
+[laugh]
+</Turn>
+<Turn speaker="spk5" startTime="1089.171" endTime="1106.224">
+<Sync time="1089.171"/>
+(())[overlap]
+<Sync time="1103.993"/>
+厨師應該很厲害才對。
+</Turn>
+<Turn speaker="spk1" startTime="1106.224" endTime="1124.216">
+<Sync time="1106.224"/>
+對#啊[overlap][laugh]
+<Sync time="1111.336"/>
+出發嘍，我要摸嘍，準備好#啊，
+<Sync time="1117.094"/>
+[laugh]
+</Turn>
+<Turn speaker="spk2" startTime="1124.216" endTime="1127.999">
+<Sync time="1124.216"/>
+你今天很好笑哎[laugh]
+</Turn>
+<Turn speaker="spk1" startTime="1127.999" endTime="1131.744">
+<Sync time="1127.999"/>
+幹什麽東西，那那那工作好不好。
+</Turn>
+<Turn speaker="spk2" startTime="1131.744" endTime="1133.706">
+<Sync time="1131.744"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1133.706" endTime="1142.338">
+<Sync time="1133.706"/>
+來，那兩個，一人一個
+<Sync time="1139.096"/>
+那我們到的時候，有需要油還是什麽東西嗎
+</Turn>
+<Turn speaker="spk6" startTime="1142.338" endTime="1144.127">
+<Sync time="1142.338"/>
+不用，現在我們先示範
+</Turn>
+<Turn speaker="spk1" startTime="1144.127" endTime="1147.567">
+<Sync time="1144.127"/>
+對#啊，對對對，哎呦，三胞胎出來樓。
+</Turn>
+<Turn speaker="spk6" startTime="1147.567" endTime="1153.385">
+<Sync time="1147.567"/>
+那個是那個(())[laugh]
+</Turn>
+<Turn speaker="spk1" startTime="1153.385" endTime="1156.845">
+<Sync time="1153.385"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk6" startTime="1156.845" endTime="1164.981">
+<Sync time="1156.845"/>
+先讓他跟著，(())，有那個，很深，那個(())
+</Turn>
+<Turn speaker="spk1" startTime="1164.981" endTime="1165.853">
+<Sync time="1164.981"/>
+哦，
+</Turn>
+<Turn speaker="spk6" startTime="1165.853" endTime="1179.101">
+<Sync time="1165.853"/>
+你打下去糯米，打出來的話，這個老人家的意思説，這個，
+<Sync time="1171.79"/>
+因爲他們常在((一個公開的場合))可以做這件事情的時候，他們好像已經在學專業的美食家。
+</Turn>
+<Turn speaker="spk1" startTime="1179.101" endTime="1180.163">
+<Sync time="1179.101"/>
+哦，真的哦，
+</Turn>
+<Turn speaker="spk6" startTime="1180.163" endTime="1187.792">
+<Sync time="1180.163"/>
+對，所以他們在打這個年糕，這個糯米的時候，如果不小心((打出來))的話，你粗心，對對
+</Turn>
+<Turn speaker="spk1" startTime="1187.792" endTime="1195.532">
+<Sync time="1187.792"/>
+那那些老人家都是這樣過來的，會這樣看嗎，這樣看，[laugh]
+</Turn>
+<Turn speaker="spk6" startTime="1195.532" endTime="1197.486">
+<Sync time="1195.532"/>
+沒有啦，這也看你的，
+</Turn>
+<Turn speaker="spk1" startTime="1197.486" endTime="1199.341">
+<Sync time="1197.486"/>
+哦，你很不正經哎長老。
+</Turn>
+<Turn speaker="spk6" startTime="1199.341" endTime="1202.721">
+<Sync time="1199.341"/>
+不是，因爲按照你[laugh]
+</Turn>
+<Turn speaker="spk1" startTime="1202.721" endTime="1205.476">
+<Sync time="1202.721"/>
+什麽叫按照你，是因爲你啦，按照你。
+</Turn>
+<Turn speaker="spk6" startTime="1205.476" endTime="1206.102">
+<Sync time="1205.476"/>
+按照你
+</Turn>
+<Turn speaker="spk1" startTime="1206.102" endTime="1211.025">
+<Sync time="1206.102"/>
+按照我，好。
+<Sync time="1207.43"/>
+哦，要這樣揉喔。，所以兩個人默契要很夠哦。
+</Turn>
+<Turn speaker="spk6" startTime="1211.025" endTime="1211.667">
+<Sync time="1211.025"/>
+是是是。
+</Turn>
+<Turn speaker="spk1" startTime="1211.667" endTime="1227.461">
+<Sync time="1211.667"/>
+過去#啊，只有貴族來訪，或者是慶典的時候，才能夠吃到(())，長老說，早期全家大小都得學會製作，不只是兒時的記憶美味，
+<Sync time="1222.28"/>
+也是非常重要的傳承。好，接下來看樣子是我們該上場啦。
+</Turn>
+<Turn speaker="spk6" startTime="1227.461" endTime="1228.137">
+<Sync time="1227.461"/>
+一上一下
+</Turn>
+<Turn speaker="spk1" startTime="1228.137" endTime="1228.831">
+<Sync time="1228.137"/>
+一上一下
+</Turn>
+<Turn speaker="spk2" startTime="1228.831" endTime="1229.299">
+<Sync time="1228.831"/>
+一上一下。
+</Turn>
+<Turn speaker="spk1" startTime="1229.299" endTime="1231.57">
+<Sync time="1229.299"/>
+很黏耶。
+<Sync time="1230.044"/>
+[music]
+</Turn>
+<Turn speaker="spk2" startTime="1231.57" endTime="1241.252">
+<Sync time="1231.57"/>
+這個粘，沒力了，這個很不容易哎。
+</Turn>
+<Turn speaker="spk1" startTime="1241.252" endTime="1255.294">
+<Sync time="1241.252"/>
+我更你講，你要跟著我，要發音，聲音出來，發聲音出來就不會累，然後要有節奏。你來跟我講(())，知道喔，&lt;lang:English&gt;OK&lt;/lang:English&gt;
+<Sync time="1254.659"/>
+來喔
+</Turn>
+<Turn speaker="spk2" startTime="1255.294" endTime="1260.715">
+<Sync time="1255.294"/>
+&lt;lang:English&gt;OK&lt;/lang:English&gt;(())
+</Turn>
+<Turn speaker="spk1" startTime="1260.715" endTime="1269.553">
+<Sync time="1260.715"/>
+當你吐氣的時候你就啪，就下去就好了。不要出力，用它棍子的力氣，其實我也蠻喘的，好來。
+</Turn>
+<Turn speaker="spk6" startTime="1269.553" endTime="1273.307">
+<Sync time="1269.553"/>
+你們稍微給他整理一下，因爲要趁熱，
+</Turn>
+<Turn speaker="spk1" startTime="1273.307" endTime="1281.205">
+<Sync time="1273.307"/>
+哦，他嚴肅了喔，他嚴肅了，不要開玩笑。要趁它一直在冒烟的狀態嗎？
+</Turn>
+<Turn speaker="spk6" startTime="1281.205" endTime="1298.995">
+<Sync time="1281.205"/>
+對，因爲冷了它就沒有彈性。然後沒有(())
+<Sync time="1290.937"/>
+(())[laugh]
+</Turn>
+<Turn speaker="spk1" startTime="1298.995" endTime="1301.127">
+<Sync time="1298.995"/>
+爲什麽是有肉？
+</Turn>
+<Turn speaker="spk6" startTime="1301.127" endTime="1305.843">
+<Sync time="1301.127"/>
+那個打出來就有肉啦。
+</Turn>
+<Turn speaker="spk1" startTime="1305.843" endTime="1309.152">
+<Sync time="1305.843"/>
+他真的是很用力喔，我們剛剛那是在開玩笑。
+</Turn>
+<Turn speaker="spk6" startTime="1309.152" endTime="1329.928">
+<Sync time="1309.152"/>
+你看那個手抓的時候，如果你打下去你不小心，如果不知道怎麽弄，就會打到這裏，所以你在同時拉的時候，
+<Sync time="1318.002"/>
+就靠腿力，腰力，臂力，打下去然後拉，如果你拉不起來可以用肩膀，等一下，還要和一下。
+</Turn>
+<Turn speaker="spk1" startTime="1329.928" endTime="1332.219">
+<Sync time="1329.928"/>
+要和均匀。
+</Turn>
+<Turn speaker="spk6" startTime="1332.219" endTime="1332.614">
+<Sync time="1332.219"/>
+對。
+</Turn>
+<Turn speaker="spk1" startTime="1332.614" endTime="1340.73">
+<Sync time="1332.614"/>
+他已經打到那個黏性都出來了。天呐。[music]
+</Turn>
+<Turn speaker="spk2" startTime="1340.73" endTime="1342.097">
+<Sync time="1340.73"/>
+不行，好重喔，
+</Turn>
+<Turn speaker="spk1" startTime="1342.097" endTime="1344.337">
+<Sync time="1342.097"/>
+有肉。你要快一點。
+</Turn>
+<Turn speaker="spk2" startTime="1344.337" endTime="1344.924">
+<Sync time="1344.337"/>
+我不行。
+</Turn>
+<Turn speaker="spk1" startTime="1344.924" endTime="1346.382">
+<Sync time="1344.924"/>
+快#啊。
+</Turn>
+<Turn speaker="spk2" startTime="1346.382" endTime="1347.492">
+<Sync time="1346.382"/>
+起不來。
+</Turn>
+<Turn speaker="spk6" startTime="1347.492" endTime="1349.81">
+<Sync time="1347.492"/>
+這個晚上會沒辦法工作。
+</Turn>
+<Turn speaker="spk1" startTime="1349.81" endTime="1356.508">
+<Sync time="1349.81"/>
+有肉。
+<Sync time="1350.999"/>
+喔，嫁不出去了。
+</Turn>
+<Turn speaker="spk6" startTime="1356.508" endTime="1357.145">
+<Sync time="1356.508"/>
+不要嫁。
+</Turn>
+<Turn speaker="spk2" startTime="1357.145" endTime="1358.561">
+<Sync time="1357.145"/>
+我嫁來這裏。
+</Turn>
+<Turn speaker="spk6" startTime="1358.561" endTime="1359.51">
+<Sync time="1358.561"/>
+不嫁了不嫁了。
+</Turn>
+<Turn speaker="spk2" startTime="1359.51" endTime="1360.651">
+<Sync time="1359.51"/>
+我嫁來這裏。
+</Turn>
+<Turn speaker="spk1" startTime="1360.651" endTime="1390.648">
+<Sync time="1360.651"/>
+順勢這樣下去就好。(())有肉，你在混哎，這個(())的做法是將蒸熟的園糯米放入臼中，
+<Sync time="1372.4"/>
+用人力的方式搗至無顆粒狀，嘗試之後發現，那根杵的重量是沒有在開玩笑的。
+<Sync time="1380.043"/>
+每舉起一次，就像是在做重訓，真的是很累，好的，糯米搗好之後，接下來的步驟，放置在桌上，拉成條狀然後壓平。
+</Turn>
+<Turn speaker="spk2" startTime="1390.648" endTime="1393.918">
+<Sync time="1390.648"/>
+[noise]打開
+</Turn>
+<Turn speaker="spk6" startTime="1393.918" endTime="1396.102">
+<Sync time="1393.918"/>
+因爲要準備放那個内餡。
+</Turn>
+<Turn speaker="spk1" startTime="1396.102" endTime="1399.231">
+<Sync time="1396.102"/>
+還藥放内餡喔。
+<Sync time="1397.604"/>
+[music]
+</Turn>
+<Turn speaker="spk2" startTime="1399.231" endTime="1402.154">
+<Sync time="1399.231"/>
+包很多哎，這是花生跟糖嗎？
+</Turn>
+<Turn speaker="spk6" startTime="1402.154" endTime="1405.168">
+<Sync time="1402.154"/>
+對。
+<Sync time="1402.794"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="1405.168" endTime="1407.249">
+<Sync time="1405.168"/>
+接下來是要縫合把它拿起來然後卷嗎
+</Turn>
+<Turn speaker="spk6" startTime="1407.249" endTime="1410.966">
+<Sync time="1407.249"/>
+然後像是，有沒有，就像那個
+</Turn>
+<Turn speaker="spk2" startTime="1410.966" endTime="1411.699">
+<Sync time="1410.966"/>
+辮子。
+</Turn>
+<Turn speaker="spk6" startTime="1411.699" endTime="1413.78">
+<Sync time="1411.699"/>
+水餃那樣給它合起來。
+</Turn>
+<Turn speaker="spk2" startTime="1413.78" endTime="1414.65">
+<Sync time="1413.78"/>
+這樣子
+</Turn>
+<Turn speaker="spk6" startTime="1414.65" endTime="1417.743">
+<Sync time="1414.65"/>
+唇舌之間，矮沙
+</Turn>
+<Turn speaker="spk1" startTime="1417.743" endTime="1427.315">
+<Sync time="1417.743"/>
+有肉，艾莎，有肉，多了多了多了
+<Sync time="1426.283"/>
+矮沙什麽意思#啊
+</Turn>
+<Turn speaker="spk6" startTime="1427.315" endTime="1432.775">
+<Sync time="1427.315"/>
+就是，矮沙就是好像語助詞吧，贊美的那種感覺。
+</Turn>
+<Turn speaker="spk1" startTime="1432.775" endTime="1437.372">
+<Sync time="1432.775"/>
+好，好了，那你們爲什麽不用刀子切
+</Turn>
+<Turn speaker="spk2" startTime="1437.372" endTime="1439.116">
+<Sync time="1437.372"/>
+會黏
+</Turn>
+<Turn speaker="spk1" startTime="1439.116" endTime="1442.418">
+<Sync time="1439.116"/>
+會粘喔。
+<Sync time="1440.384"/>
+[music]
+<Sync time="1441.316"/>
+嗯，
+</Turn>
+<Turn speaker="spk6" startTime="1442.418" endTime="1450.039">
+<Sync time="1442.418"/>
+(())[laugh](())還有呢。
+</Turn>
+<Turn speaker="spk1" startTime="1450.039" endTime="1456.181">
+<Sync time="1450.039"/>
+好吃，他的那個咬勁跟一般我們遲到的麻屬不一樣，他是比較有咬勁的。
+</Turn>
+<Turn speaker="spk2" startTime="1456.181" endTime="1460.588">
+<Sync time="1456.181"/>
+非常有咬勁，都是全米打的，果然就是不一樣。
+</Turn>
+<Turn speaker="spk1" startTime="1460.588" endTime="1492.403">
+<Sync time="1460.588"/>
+這個吃一顆，很好吃耶，可以不用吃午餐了，對，很扎實耶，這個事先拌過砂糖的花生顆粒，
+<Sync time="1470.044"/>
+再加&lt;lang:English&gt;Q&lt;/lang:English&gt;韌的糯米，吃起來可是厚實飽滿，味道很不錯，雖然製作過程耗時費力。卻也因此更能夠感受到誠心待客的用心。
+<Sync time="1480.344"/>
+好的，接下來要跟長老跟小朋友們一起到部落的秘境了解文化傳承了。
+<Sync time="1486.445"/>
+[music]這邊這把刀，這個地方，來，告訴大家，這是什麽地方。
+</Turn>
+<Turn speaker="spk2" startTime="1492.403" endTime="1493.249">
+<Sync time="1492.403"/>
+秘境
+</Turn>
+<Turn speaker="spk1" startTime="1493.249" endTime="1498.863">
+<Sync time="1493.249"/>
+排灣族的秘境，那爲什麽我們要來這個地方，爲什麽呢？
+</Turn>
+<Turn speaker="spk6" startTime="1498.863" endTime="1506.652">
+<Sync time="1498.863"/>
+因爲這邊是我跟宗佑一起玩耍的地方，小時候。
+</Turn>
+<Turn speaker="spk1" startTime="1506.652" endTime="1508.233">
+<Sync time="1506.652"/>
+從小一起玩耍的地方。
+</Turn>
+<Turn speaker="spk6" startTime="1508.233" endTime="1508.265">
+<Sync time="1508.233"/>
+對。
+</Turn>
+<Turn speaker="spk1" startTime="1508.265" endTime="1512.062">
+<Sync time="1508.265"/>
+那我們現在要做的是火把嘛，對不對，那爲什麽要做火把呢？
+</Turn>
+<Turn speaker="spk6" startTime="1512.062" endTime="1539.173">
+<Sync time="1512.062"/>
+因爲我們原住民，通常獵人去山上的時候，會找一個據點，然後這一塊土地，我們要先尊重山靈。
+<Sync time="1523.269"/>
+對，就是我們一檔會先生火，對，起火，生活就是讓這個地方，
+<Sync time="1531.18"/>
+有一種那種强烈，然後表示說你在這裏，而且外面的動物都不會來這邊，
+</Turn>
+<Turn speaker="spk1" startTime="1539.173" endTime="1548.818">
+<Sync time="1539.173"/>
+等於是要先跟他們打聲招呼說我們來這邊，先人家說拜碼頭嘛。
+<Sync time="1545.121"/>
+[music]
+</Turn>
+<Turn speaker="spk6" startTime="1548.818" endTime="1550.741">
+<Sync time="1548.818"/>
+壓一下就可以直接下去了
+</Turn>
+<Turn speaker="spk1" startTime="1550.741" endTime="1559.234">
+<Sync time="1550.741"/>
+這樣差不多吧，對，好。
+</Turn>
+<Turn speaker="spk6" startTime="1559.234" endTime="1561.109">
+<Sync time="1559.234"/>
+不會，差不多，然後插上去，
+</Turn>
+<Turn speaker="spk2" startTime="1561.109" endTime="1562.058">
+<Sync time="1561.109"/>
+這樣子可以嗎？
+</Turn>
+<Turn speaker="spk1" startTime="1562.058" endTime="1580.737">
+<Sync time="1562.058"/>
+傳統火把製作，要先將竹子的前端劈開，在另外拿竹子劈成竹條，最後再把竹條放入竹子内就行了。
+<Sync time="1571.43"/>
+接下來跟著長老的指示，手持火把繞行一圈，氣氛頓時變得神聖，你可以深刻的感受到族人對大自然的崇敬。
+</Turn>
+<Turn speaker="spk6" startTime="1580.737" endTime="1582.612">
+<Sync time="1580.737"/>
+我們每一個人一串
+</Turn>
+<Turn speaker="spk1" startTime="1582.612" endTime="1583.694">
+<Sync time="1582.612"/>
+每個人一串，好。
+</Turn>
+<Turn speaker="spk17" startTime="1583.694" endTime="1584.807">
+<Sync time="1583.694"/>
+給我吧。
+</Turn>
+<Turn speaker="spk1" startTime="1584.807" endTime="1585.711">
+<Sync time="1584.807"/>
+要説謝謝喔。
+</Turn>
+<Turn speaker="spk17" startTime="1585.711" endTime="1586.337">
+<Sync time="1585.711"/>
+謝謝。
+</Turn>
+<Turn speaker="spk6" startTime="1586.337" endTime="1589.904">
+<Sync time="1586.337"/>
+來，給你，好，來，我們一起烤。
+</Turn>
+<Turn speaker="spk17" startTime="1589.904" endTime="1593.562">
+<Sync time="1589.904"/>
+烤焦了。
+</Turn>
+<Turn speaker="spk6" startTime="1593.562" endTime="1595.02">
+<Sync time="1593.562"/>
+這個叫熏肉。
+</Turn>
+<Turn speaker="spk17" startTime="1595.02" endTime="1596.685">
+<Sync time="1595.02"/>
+哦，可以吃了。
+</Turn>
+<Turn speaker="spk1" startTime="1596.685" endTime="1598.595">
+<Sync time="1596.685"/>
+還沒拉，哪那麽快。
+</Turn>
+<Turn speaker="spk17" startTime="1598.595" endTime="1601.817">
+<Sync time="1598.595"/>
+這樣可以嗎？起火了。
+</Turn>
+<Turn speaker="spk2" startTime="1601.817" endTime="1608.17">
+<Sync time="1601.817"/>
+放在裏面會黑哦，會黑麻麻喔，
+</Turn>
+<Turn speaker="spk17" startTime="1608.17" endTime="1610.362">
+<Sync time="1608.17"/>
+這樣烤不到，這樣可以吃嗎？
+</Turn>
+<Turn speaker="spk1" startTime="1610.362" endTime="1611.721">
+<Sync time="1610.362"/>
+還不行還早咧。
+</Turn>
+<Turn speaker="spk17" startTime="1611.721" endTime="1616.962">
+<Sync time="1611.721"/>
+厨師怎麽也烤焦了
+<Sync time="1613.207"/>
+我們又不會用，厨師應該很厲害才對。
+</Turn>
+<Turn speaker="spk1" startTime="1616.962" endTime="1618.757">
+<Sync time="1616.962"/>
+對，對#啊。
+</Turn>
+<Turn speaker="spk6" startTime="1618.757" endTime="1620.151">
+<Sync time="1618.757"/>
+對#啊，教我們嘛。
+</Turn>
+<Turn speaker="spk17" startTime="1620.151" endTime="1624.892">
+<Sync time="1620.151"/>
+對#啊，你怎麽烤焦了？[laugh]他考壞了。
+</Turn>
+<Turn speaker="spk1" startTime="1624.892" endTime="1641.667">
+<Sync time="1624.892"/>
+我跟您們說爲什麽會烤黑黑好不好，因爲呢，如果説我們沒有上面這兩根木頭，我們只是下面燒紅的地方去烤，就不會黑，
+<Sync time="1634.985"/>
+知不知道。因爲上面這個地方沒有完全燃燒，所以會黑黑的，但已經來不及，因爲大家都黑了。
+</Turn>
+<Turn speaker="spk2" startTime="1641.667" endTime="1643.805">
+<Sync time="1641.667"/>
+我覺得我烤的蠻不錯的。
+</Turn>
+<Turn speaker="spk1" startTime="1643.805" endTime="1645.619">
+<Sync time="1643.805"/>
+誰告訴你的。
+</Turn>
+<Turn speaker="spk2" startTime="1645.619" endTime="1651.711">
+<Sync time="1645.619"/>
+這有腌過耶對不對，他其實這樣子剛烤完其實吃起來
+</Turn>
+<Turn speaker="spk6" startTime="1651.711" endTime="1653.129">
+<Sync time="1651.711"/>
+剛剛才和鹽巴而已。
+</Turn>
+<Turn speaker="spk2" startTime="1653.129" endTime="1663.252">
+<Sync time="1653.129"/>
+現在吃起來其實裏面非常的多汁，因爲他是非常高溫的是，讓他短時間讓它收縮，
+<Sync time="1659.384"/>
+讓他熟成，所以其實裏面，都有很多的汁在裏面
+</Turn>
+<Turn speaker="spk6" startTime="1663.252" endTime="1667.524">
+<Sync time="1663.252"/>
+(())那隻借我
+</Turn>
+<Turn speaker="spk1" startTime="1667.524" endTime="1668.472">
+<Sync time="1667.524"/>
+烤麻薯。
+</Turn>
+<Turn speaker="spk6" startTime="1668.472" endTime="1673.588">
+<Sync time="1668.472"/>
+我們叫做微波的(())。
+</Turn>
+<Turn speaker="spk1" startTime="1673.588" endTime="1675.106">
+<Sync time="1673.588"/>
+微波對不對？
+</Turn>
+<Turn speaker="spk17" startTime="1675.106" endTime="1676.307">
+<Sync time="1675.106"/>
+燙嗎？
+</Turn>
+<Turn speaker="spk1" startTime="1676.307" endTime="1678.855">
+<Sync time="1676.307"/>
+超好吃的，好好吃喔。
+</Turn>
+<Turn speaker="spk17" startTime="1678.855" endTime="1680.212">
+<Sync time="1678.855"/>
+還我，燙燙的。
+</Turn>
+<Turn speaker="spk1" startTime="1680.212" endTime="1724.513">
+<Sync time="1680.212"/>
+你要不要吃一口看看。這邊燙喔。好不好吃，好不好吃，好吃喔，你要不要吃一口看看，
+<Sync time="1693.281"/>
+好不好吃，好香喔。
+<Sync time="1696.404"/>
+這個(())烤到表皮微焦，吃起來增加了迷人的焦香，別有一番風味喔。
+<Sync time="1703.034"/>
+既然來到了童玩王國，一定要來體驗一下童玩。這些都是運用隨手可得的食材來製作，像是這個火力彈槍，
+<Sync time="1712.872"/>
+竹片作爲主體，利用橡皮筋的彈力將食材彈出去，就能夠進行射遠比賽，好的，剛剛只是熱身賽，
+<Sync time="1720.83"/>
+接下來就要進入今天的挑戰賽了。這個比賽是什麽？
+</Turn>
+<Turn speaker="spk6" startTime="1724.513" endTime="1735.047">
+<Sync time="1724.513"/>
+滾輪提水，來，這邊有，已經有裝滿水了，[music]也太滿了吧
+</Turn>
+<Turn speaker="spk1" startTime="1735.047" endTime="1740.31">
+<Sync time="1735.047"/>
+哎，長老你現在是在抱怨嗎[laugh]
+</Turn>
+<Turn speaker="spk6" startTime="1740.31" endTime="1744.602">
+<Sync time="1740.31"/>
+好，那爸爸媽媽呢，爲了要讓我們能夠
+</Turn>
+<Turn speaker="spk1" startTime="1744.602" endTime="1746.853">
+<Sync time="1744.602"/>
+你這邊講邊漏哎，
+</Turn>
+<Turn speaker="spk6" startTime="1746.853" endTime="1768.103">
+<Sync time="1746.853"/>
+省力的話呢，我們就這樣子可以走，因爲以前山路不好走，所以提水的時候會很費力，
+<Sync time="1753.734"/>
+然後可能不會提到很多水，所以就用這樣子的方式來提水，提水回家，
+<Sync time="1761.515"/>
+本來一天可以提一桶，這個滾輪提水之後呢，大概要五六桶，甚至十桶。
+</Turn>
+<Turn speaker="spk1" startTime="1768.103" endTime="1828.674">
+<Sync time="1768.103"/>
+要看哦，你要學哦，你不要一直看我。
+<Sync time="1771.147"/>
+早期部落的水資源不足，都是用人力方式到溪邊取水，費時有耗力。因此聰明的族人發明了滾輪提水。
+<Sync time="1779.516"/>
+不但減輕重量，還提高搬運的效率。樂長老將早期生活記憶轉化成童玩，讓孩子們在游戲過程中學習祖先智慧，
+<Sync time="1790.174"/>
+今天的&lt;lang:English&gt;PK&lt;/lang:English&gt;賽規則很簡單，每隊用接力的方式繞部落一圈，剩下最多水量的隊伍就獲勝了。
+<Sync time="1798.91"/>
+而輸傢呢就要用部落食材做聖誕大餐。好的，練習的差不多，我們比賽開始嘍。
+<Sync time="1806.126"/>
+(())
+<Sync time="1810.333"/>
+慢慢來，不要急，慢慢來，水不要漏出來比較重要。
+<Sync time="1813.852"/>
+[music]
+<Sync time="1817.577"/>
+慢慢來慢慢來你水漏太多水了慢慢來慢慢來。好，換我。
+<Sync time="1822.974"/>
+#啊，你不能鬆手#啊
+</Turn>
+<Turn speaker="spk18" startTime="1828.674" endTime="1833.56">
+<Sync time="1828.674"/>
+慢慢走慢慢走，水不要漏出來，慢慢走，
+</Turn>
+<Turn speaker="spk1" startTime="1833.56" endTime="1859.206">
+<Sync time="1833.56"/>
+&lt;lang:English&gt;OK&lt;/lang:English&gt;慢慢走，我來嘍，來嘍來嘍，我追上你嘍。
+<Sync time="1844.273"/>
+來嘍。冲#啊，我來嘍。我看到你了我看到你了。不要急不要急，
+<Sync time="1852.812"/>
+看一下你，我來嘍我來嘍。我來了我來了我來了。
+</Turn>
+<Turn speaker="spk2" startTime="1859.206" endTime="1864.257">
+<Sync time="1859.206"/>
+好，好棒好棒，換我換我，等一下不要放手，好，
+</Turn>
+<Turn speaker="spk17" startTime="1864.257" endTime="1877.638">
+<Sync time="1864.257"/>
+快一點快一點。這裏這裏比較有障礙，好，你不要推我不要推我
+<Sync time="1871.662"/>
+加油，姐姐加油，姐姐加油
+</Turn>
+<Turn speaker="spk1" startTime="1877.638" endTime="1885.274">
+<Sync time="1877.638"/>
+來，給你，小心點慢慢來喔。好，你等一下，慢慢來不要急，慢慢來。好，慢慢來，不要急不要急
+</Turn>
+<Turn speaker="spk2" startTime="1885.274" endTime="1886.614">
+<Sync time="1885.274"/>
+小心點#啊。
+</Turn>
+<Turn speaker="spk1" startTime="1886.614" endTime="1890.122">
+<Sync time="1886.614"/>
+對，很好，你做得很好，當然對，我們是生命，水很重要，
+</Turn>
+<Turn speaker="spk2" startTime="1890.122" endTime="1891.561">
+<Sync time="1890.122"/>
+沒有關係，你那個妹妹很慢，
+</Turn>
+<Turn speaker="spk1" startTime="1891.561" endTime="1898.825">
+<Sync time="1891.561"/>
+很好，再慢一點水在晃。對對對，小心小心。水小心。
+</Turn>
+<Turn speaker="spk2" startTime="1898.825" endTime="1905.899">
+<Sync time="1898.825"/>
+好棒，走得很好。要蹲下來喔。
+</Turn>
+<Turn speaker="spk18" startTime="1905.899" endTime="1909.426">
+<Sync time="1905.899"/>
+那個終點在那邊，走走走走
+</Turn>
+<Turn speaker="spk2" startTime="1909.426" endTime="1910.09">
+<Sync time="1909.426"/>
+好，好棒。
+</Turn>
+<Turn speaker="spk1" startTime="1910.09" endTime="1912.707">
+<Sync time="1910.09"/>
+慢慢老慢慢來，上去輕一點，對。
+</Turn>
+<Turn speaker="spk2" startTime="1912.707" endTime="1913.766">
+<Sync time="1912.707"/>
+跌倒，跌倒，
+</Turn>
+<Turn speaker="spk1" startTime="1913.766" endTime="1923.163">
+<Sync time="1913.766"/>
+好，看到障礙蹲下來，好，來，你小心慢慢來喔。好，來。[overlap]
+<Sync time="1921.09"/>
+[music]好，小心喔。
+</Turn>
+<Turn speaker="spk2" startTime="1923.163" endTime="1924.185">
+<Sync time="1923.163"/>
+小心小心
+</Turn>
+<Turn speaker="spk6" startTime="1924.185" endTime="1933.68">
+<Sync time="1924.185"/>
+來，我們看一下，哪一隊比較多生命水
+<Sync time="1928.655"/>
+[music]
+</Turn>
+<Turn speaker="spk2" startTime="1933.68" endTime="1953.23">
+<Sync time="1933.68"/>
+最後一道用甜點的話我們用冰激淋派，那我手上這個是巧克力的餅乾，我們把它揉成餅乾屑，
+<Sync time="1942.028"/>
+等一下這一道甜點裏面會搭配這邊特別的一個食材是紅藜，那我把紅藜，搭配上爆米花。
+<Sync time="1950.741"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="1953.23" endTime="1958.691">
+<Sync time="1953.23"/>
+哎，出發嘍。
+<Sync time="1954.728"/>
+慢慢來，停，好，小心喔。
+</Turn>
+<Turn speaker="spk2" startTime="1958.691" endTime="1959.682">
+<Sync time="1958.691"/>
+小心小心
+</Turn>
+<Turn speaker="spk6" startTime="1959.682" endTime="1966.824">
+<Sync time="1959.682"/>
+來，我們看一下，哪一隊比較多生命水，
+<Sync time="1964.053"/>
+[music]
+</Turn>
+<Turn speaker="spk2" startTime="1966.824" endTime="1972.098">
+<Sync time="1966.824"/>
+小心倒[music]
+<Sync time="1971.345"/>
+一樣啦。
+</Turn>
+<Turn speaker="spk1" startTime="1972.098" endTime="1972.891">
+<Sync time="1972.098"/>
+怎麽樣，是一樣嗎？
+</Turn>
+<Turn speaker="spk6" startTime="1972.891" endTime="1976.133">
+<Sync time="1972.891"/>
+對，好，一桶。
+</Turn>
+<Turn speaker="spk1" startTime="1976.133" endTime="1986.528">
+<Sync time="1976.133"/>
+應該是我們贏了。耶，我們贏了，耶，來，我們贏了，耶。
+</Turn>
+<Turn speaker="spk6" startTime="1986.528" endTime="1991.454">
+<Sync time="1986.528"/>
+從這邊可以看到，獲勝的是詹姆士大師贏了。
+</Turn>
+<Turn speaker="spk1" startTime="1991.454" endTime="2022.529">
+<Sync time="1991.454"/>
+耶。
+<Sync time="1995.457"/>
+所以我説嘛，薑還是老的辣，但是贏了雖然開心，但其實游戲的意義在於享受過程，
+<Sync time="2003.214"/>
+對於我們一般人來説，這都是沒進到部落無法體驗到的樂趣，至於部落食材要去哪裏找呢，
+<Sync time="2010.603"/>
+印象中昨天有經過一個地方，好像有看到。
+<Sync time="2014.274"/>
+[music]
+</Turn>
+<Turn speaker="spk2" startTime="2022.529" endTime="2027.217">
+<Sync time="2022.529"/>
+這個是我第一次看到，聽説這個是小米嘛，
+</Turn>
+<Turn speaker="spk19" startTime="2027.217" endTime="2030.17">
+<Sync time="2027.217"/>
+(())對，這是小米。
+</Turn>
+<Turn speaker="spk2" startTime="2030.17" endTime="2034.314">
+<Sync time="2030.17"/>
+小米，那爲什麽是這個顔色的？
+</Turn>
+<Turn speaker="spk19" startTime="2034.314" endTime="2036.792">
+<Sync time="2034.314"/>
+他這是黑米，黑米有很多顔色。
+</Turn>
+<Turn speaker="spk2" startTime="2036.792" endTime="2038.726">
+<Sync time="2036.792"/>
+是這個都可以吃的還是
+</Turn>
+<Turn speaker="spk19" startTime="2038.726" endTime="2040.482">
+<Sync time="2038.726"/>
+這個可以釀酒。
+</Turn>
+<Turn speaker="spk2" startTime="2040.482" endTime="2043.724">
+<Sync time="2040.482"/>
+釀酒，一般我們喝到的小米酒是這個釀的。
+</Turn>
+<Turn speaker="spk19" startTime="2043.724" endTime="2046.986">
+<Sync time="2043.724"/>
+對。它也可以煮稀飯。
+</Turn>
+<Turn speaker="spk2" startTime="2046.986" endTime="2050.604">
+<Sync time="2046.986"/>
+直接煮嗎，是吃到的那種小米粥還是？
+</Turn>
+<Turn speaker="spk19" startTime="2050.604" endTime="2054.785">
+<Sync time="2050.604"/>
+對#啊，小米粥，也可以做(())。
+</Turn>
+<Turn speaker="spk2" startTime="2054.785" endTime="2055.142">
+<Sync time="2054.785"/>
+是什麽？
+</Turn>
+<Turn speaker="spk19" startTime="2055.142" endTime="2055.748">
+<Sync time="2055.142"/>
+年糕。
+</Turn>
+<Turn speaker="spk2" startTime="2055.748" endTime="2060.742">
+<Sync time="2055.748"/>
+年糕也可以用這個做，可是爲什麽這邊種的地方這麽少#啊？
+</Turn>
+<Turn speaker="spk19" startTime="2060.742" endTime="2072.556">
+<Sync time="2060.742"/>
+有#啊，我們都有種在田裏，有好幾分地，那是因爲我們收成了以後我們還要(())，
+<Sync time="2070.424"/>
+剛好這邊就長出來啦。
+</Turn>
+<Turn speaker="spk2" startTime="2072.556" endTime="2088.25">
+<Sync time="2072.556"/>
+掉的時候他剛剛好有一顆一顆，剛好撒落在這個地上，之後他就剛剛好，就突然就長出來了，所以我們就直接種在這邊，
+<Sync time="2081.137"/>
+那我們今天，有可以吃的到小米嗎，還是說這邊，部落還有其他的特產是我們可以直接吃的。
+</Turn>
+<Turn speaker="spk19" startTime="2088.25" endTime="2099.828">
+<Sync time="2088.25"/>
+我們這邊很多特產，有你像看咖啡#啊，向我們這邊也有咖啡，有芋頭，也有紅藜。
+</Turn>
+<Turn speaker="spk1" startTime="2099.828" endTime="2121.577">
+<Sync time="2099.828"/>
+部落特色食材真的是很多樣化，昭蓉最後決定選用近期很有話題性的紅藜，作爲超級穀物，不僅營養價值高，
+<Sync time="2109.888"/>
+料理的方式也很多變，不知可以摻在米飯中，也可以入菜，而跟昭蓉這一次要做的甜點也很搭喔。
+<Sync time="2119.303"/>
+[music]
+</Turn>
+<Turn speaker="spk2" startTime="2121.577" endTime="2212.766">
+<Sync time="2121.577"/>
+今天幫小朋友准備的聖誕的餐點，最後一道用甜點的話，我們用冰激淋派，那我手上這個是巧克力的餅乾，
+<Sync time="2133.04"/>
+我們把它揉成餅乾屑之後，裏面要加奶油，它弄成餅乾屑會像現在這樣，這個樣子，
+<Sync time="2142.096"/>
+所以我們吧奶油拌進去，然後再把它搓揉，
+<Sync time="2152.817"/>
+那加奶油是爲了讓這個餅乾屑他可以全部經過冷凍后把它凝結在一起，等一下最後切開的時候才不會散掉，
+<Sync time="2162.669"/>
+就很像我們在吃那個起司蛋糕，它底部的那個餅乾底是一樣的意思，
+<Sync time="2168.566"/>
+[noise]
+<Sync time="2175.85"/>
+餓了，好然後再舖上一層保鮮膜之後，我們把它大力的壓，
+<Sync time="2187.391"/>
+把他壓緊，紅藜的話等一下這一道甜點裏面會搭配這邊比較特別的一個食材是紅藜，
+<Sync time="2197.754"/>
+那我把紅藜搭配上爆米花，去把他乾烙，讓他膨起來，很像是我們一般在吃到的爆米香的感覺，
+<Sync time="2206.75"/>
+所以讓這個冰激淋派上面增加一個脆口的東西。
+</Turn>
+<Turn speaker="spk1" startTime="2212.766" endTime="2419.017">
+<Sync time="2212.766"/>
+餅乾派皮製作完成後，將冰激淋均匀鋪上，放入冰箱冷凍一至兩個小時，擺盤時再淋上焦糖，紅藜，爆米花就完成了。
+<Sync time="2222.512"/>
+昭蓉准備的這道紅藜冰激淋派很有創意喔。接下來就換我大顯身手了。
+<Sync time="2228.449"/>
+[music]
+<Sync time="2237.985"/>
+今天要做的是滑蛋蝦仁，但比較不一樣的是我們的飯，我們用飯糰來做，
+<Sync time="2238.18"/>
+因爲你有時候你在臨時，你需要一些白飯的時候，沒有的話比較麻煩，所以用飯糰其實是個方式。
+<Sync time="2244.912"/>
+我們今天用的是有豬肉跟雞肉的，這樣我們在炒這個飯的時候炒起來比較香。
+<Sync time="2250.738"/>
+勾芡，好，這個，便利超商飯糰滑蛋蝦仁
+<Sync time="2260.102"/>
+哎，出發嘍，今天要做的事滑蛋蝦仁，但比較不一樣的是我們的飯，我們用飯糰來做，
+<Sync time="2267.406"/>
+因爲你有時候你在臨時，你需要一些白飯的時候，沒有的話比較麻煩，所以用飯糰其實是個方式。
+<Sync time="2274.39"/>
+油有點多，因爲我用的是豬油，油有點多倒一點在湯裏面是沒問題的，
+<Sync time="2279.77"/>
+[noise]
+<Sync time="2283.912"/>
+好鍋子熱了之後，這個時候先可以把飯糰先剝開啦，我們今天用的是有豬肉跟鷄肉的，
+<Sync time="2292.878"/>
+這樣我們在炒這個飯的時候呢炒起來會比較香，來，熱了之後第一件事情，蛋先下來，
+<Sync time="2302.625"/>
+因爲蛋放，#呃，我這邊會放一點蛋進去，再把飯放進去，這樣比較容易炒開。鍋子熱了，來
+<Sync time="2308.853"/>
+[noise]
+<Sync time="2316.332"/>
+[noise]
+<Sync time="2324.693"/>
+[noise]
+<Sync time="2333.165"/>
+青菜放進來，
+<Sync time="2335.277"/>
+[noise]
+<Sync time="2344.313"/>
+這個分量就夠了。好，接下來，好，那現在把蝦湯，我預先先准備好的蝦湯倒進來，
+<Sync time="2353.648"/>
+這便是鷄湯，我們剛剛在煮那個葱油雞的鷄湯，然後這邊是我們准備的葱，先進來，
+<Sync time="2366.896"/>
+那再做滑蛋的這一個部分呢，我會稍微比較不一樣的是，我會把海苔放進來，應爲這個既然是飯糰的海苔，就不要浪費，
+<Sync time="2378.087"/>
+好，然後我們再把蝦放進來，大量的蝦，勾芡，
+<Sync time="2391.579"/>
+[noise]
+<Sync time="2399.816"/>
+好，芡汁都放進來了之後，來，淋蛋，
+<Sync time="2402.148"/>
+[noise]
+<Sync time="2408.317"/>
+一點點的香油進來，好，這個，就是今天幫大家准備的便利超商飯糰滑蛋蝦仁。
+</Turn>
+<Turn speaker="spk2" startTime="2419.017" endTime="2423.912">
+<Sync time="2419.017"/>
+今天的甜點是用冰激淋派
+</Turn>
+<Turn speaker="spk1" startTime="2423.912" endTime="2428.943">
+<Sync time="2423.912"/>
+要趕快吃喔，你那個怎麽可能吃的那麽乾净？
+</Turn>
+<Turn speaker="spk2" startTime="2428.943" endTime="2431.255">
+<Sync time="2428.943"/>
+這是甜點。
+</Turn>
+<Turn speaker="spk6" startTime="2431.255" endTime="2432.821">
+<Sync time="2431.255"/>
+你看，好吃到盤子都要吃了。
+</Turn>
+<Turn speaker="spk2" startTime="2432.821" endTime="2436.023">
+<Sync time="2432.821"/>
+好開心喔。好，謝謝。
+</Turn>
+<Turn speaker="spk1" startTime="2436.023" endTime="2460.234">
+<Sync time="2436.023"/>
+哎，出發嘍。一點點的香油進來，好，這個就是今天幫大家准備的便利超商飯糰滑蛋蝦仁。
+<Sync time="2448.511"/>
+[music]
+<Sync time="2454.685"/>
+便利超商飯糰滑蛋蝦仁。(())
+</Turn>
+<Turn speaker="spk20" startTime="2460.234" endTime="2480.558">
+<Sync time="2460.234"/>
+親愛的上帝，我們滿心感謝你，我們感謝你帶領我們所有的人，主#啊，是的，因著你的愛是我們招聚在一起，
+<Sync time="2469.469"/>
+也因著你的愛我們彼此互相交流，主#啊，我相信在這個桌子上的飲食能夠使我們吃得飽足而且健康。求主也紀念在今天
+</Turn>
+<Turn speaker="spk1" startTime="2480.558" endTime="2500.063">
+<Sync time="2480.558"/>
+走訪台灣的各個角落，雖然大家不一定説著相同的語言，但不論到哪都能夠感受到慢慢的溫度跟人情。
+<Sync time="2489.589"/>
+這次剛好趁著聖誕時節，來到了安坡部落，爲孩子們做了料理，也算是完成了我小小的心願。
+<Sync time="2498.22"/>
+阿門
+</Turn>
+<Turn speaker="spk6" startTime="2500.063" endTime="2517.897">
+<Sync time="2500.063"/>
+好，大家平安，我們心裏面要存什麽？感恩，善良然後上進，
+<Sync time="2508.166"/>
+就會有很多慕名未來的善心人士會來幫助我們，來關心我們，所以我們要以排灣族原住民為驕傲好不好？
+</Turn>
+<Turn speaker="spk1" startTime="2517.897" endTime="2519.71">
+<Sync time="2517.897"/>
+好。
+</Turn>
+<Turn speaker="spk6" startTime="2519.71" endTime="2532.491">
+<Sync time="2519.71"/>
+然後我們要謝謝我們的詹姆士師傅，還有我們的昭蓉姐姐，爲我們準備今天晚上的聖誕大餐，
+<Sync time="2528.508"/>
+所以我們要講說謝謝，來，預備來。
+</Turn>
+<Turn speaker="spk19" startTime="2532.491" endTime="2536.655">
+<Sync time="2532.491"/>
+謝謝。
+<Sync time="2534.959"/>
+[laugh]
+</Turn>
+<Turn speaker="spk1" startTime="2536.655" endTime="2544.165">
+<Sync time="2536.655"/>
+對對對，好，這個過去，你有沒有吃菜？吃一口要不要。
+</Turn>
+<Turn speaker="spk21" startTime="2544.165" endTime="2545.453">
+<Sync time="2544.165"/>
+不要我吃過了。
+</Turn>
+<Turn speaker="spk1" startTime="2545.453" endTime="2550.07">
+<Sync time="2545.453"/>
+吃過了嗎？我再看一次。你把菜跟熱狗抱在一起吃很好吃喔，你知不知道，很好吃喔。
+</Turn>
+<Turn speaker="spk21" startTime="2550.07" endTime="2551.925">
+<Sync time="2550.07"/>
+沒有，我直接塞嘴巴。
+</Turn>
+<Turn speaker="spk1" startTime="2551.925" endTime="2583.881">
+<Sync time="2551.925"/>
+真的嗎，那你要不要把它包起來吃，很好吃喔，真的。這個是蝦仁燴飯，這個飯的湯汁我沒有放味精，我是用蝦湯下去做的，
+<Sync time="2561.82"/>
+對，所以那個蝦湯吃起來是很天然的，沒有任何的那個人工甘味料。你吃這樣就好，好不好？要不要吃鷄肉，
+<Sync time="2571.366"/>
+吃一塊鷄肉就好了，鷄肉很好吃耶，真的很好吃。他會不會想説，我問半天她好像要或不要我都會給她，
+<Sync time="2580.532"/>
+對我就是要告訴你，你要或不要我都會給你。
+</Turn>
+<Turn speaker="spk2" startTime="2583.881" endTime="2585.189">
+<Sync time="2583.881"/>
+甜點來嘍。
+</Turn>
+<Turn speaker="spk1" startTime="2585.189" endTime="2588.47">
+<Sync time="2585.189"/>
+還有甜點喔。
+</Turn>
+<Turn speaker="spk2" startTime="2588.47" endTime="2589.56">
+<Sync time="2588.47"/>
+有甜點。
+</Turn>
+<Turn speaker="spk6" startTime="2589.56" endTime="2590.888">
+<Sync time="2589.56"/>
+哇，感謝。
+</Turn>
+<Turn speaker="spk2" startTime="2590.888" endTime="2627.112">
+<Sync time="2590.888"/>
+對，這邊。今天的甜點使用冰激淋派，那他黑色的這個是用我們一般吃到的那個巧克力餅乾，
+<Sync time="2601.399"/>
+把它做成餅乾的脆片之後，裏面是香草冰激淋，跟咖啡色的是焦糖醬，就是我們一般在吃到牛奶糖，
+<Sync time="2611.189"/>
+牛奶糖的味道之後，杏仁跟爆米花，等一下就配著一起吃，最特別的是最上面有配了是你們最常看到的紅藜，
+<Sync time="2621.611"/>
+那我把它做成，把它爆過之後吃起來有點像米果。甜點好吃嗎？
+</Turn>
+<Turn speaker="spk17" startTime="2627.112" endTime="2628.961">
+<Sync time="2627.112"/>
+超好吃。
+</Turn>
+<Turn speaker="spk1" startTime="2628.961" endTime="2663.634">
+<Sync time="2628.961"/>
+我們這次來到這個安坡部落，來跟他們一起生活，時間很短，這是很可惜的，
+<Sync time="2636.072"/>
+但是可以來這邊感受一下他這邊的活力，讓我們感覺到說這邊的傳承。那小孩子在這邊我感覺到他們的活力，
+<Sync time="2645.741"/>
+而且每個人呢在天真有活力的情況之下有非常有規矩，我覺得這是大人教的非常好的，這次來這邊我可以我感受到滿滿的這個充實感，
+<Sync time="2657.308"/>
+我在講的過程當中有人把甜點吃完了
+<Sync time="2661.156"/>
+[laugh]
+</Turn>
+<Turn speaker="spk6" startTime="2663.634" endTime="2664.565">
+<Sync time="2663.634"/>
+不能留#啊。
+</Turn>
+<Turn speaker="spk1" startTime="2664.565" endTime="2671.243">
+<Sync time="2664.565"/>
+對，不能留，要趕快吃喔，你那個怎麽可能吃得那麽乾净。
+</Turn>
+<Turn speaker="spk19" startTime="2671.243" endTime="2683.112">
+<Sync time="2671.243"/>
+這是甜點[overlap]
+<Sync time="2677.96"/>
+[music]
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,2960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="lenovo" audio_filename="GTV_JamesCuisine_006" version="9" version_date="200410">
+<Speakers>
+<Speaker id="spk1" name="Man1" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk2" name="Man2" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk3" name="Woman1" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk4" name="Man3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk5" name="Man4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk6" name="Woman2" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk7" name="Man5" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk8" name="Man6" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk9" name="Man7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk10" name="Waman3" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk11" name="Woman4" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk12" name="Woman5" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk13" name="合" check="no" dialect="native" accent="" scope="local" type="unknown"/>
+<Speaker id="spk14" name="Woman6" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk15" name="Man8" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk16" name="Man9" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk17" name="Man10" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk18" name="Man11" check="no" dialect="native" accent="" scope="local" type="male"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="2669.668">
+<Turn startTime="0" endTime="2.160" speaker="spk1">
+<Sync time="0"/>
+東港是有三寶來的
+</Turn>
+<Turn speaker="spk2" startTime="2.160" endTime="3.705">
+<Sync time="2.160"/>
+什麼三寶說
+</Turn>
+<Turn speaker="spk3" startTime="3.705" endTime="7.431">
+<Sync time="3.705"/>
+烏魚子、櫻花蝦，跟黑鮪魚
+</Turn>
+<Turn speaker="spk2" startTime="7.431" endTime="8.255">
+<Sync time="7.431"/>
+黑鮪魚
+</Turn>
+<Turn speaker="spk3" startTime="8.255" endTime="8.453">
+<Sync time="8.255"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="8.453" endTime="12.646">
+<Sync time="8.453"/>
+哦，其實也不是說黑鮪魚，也有所謂的黃鰭鮪魚#啊，一整年都會有
+</Turn>
+<Turn speaker="spk2" startTime="12.646" endTime="17.988">
+<Sync time="12.646"/>
+哦，很多人在電視上面才看得到整隻黑鮪魚，一般看的都是在日本料理店
+</Turn>
+<Turn speaker="spk3" startTime="17.988" endTime="18.127">
+<Sync time="17.988"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="18.127" endTime="20.616">
+<Sync time="18.127"/>
+哦，我們今天，你應該沒有看到
+</Turn>
+<Turn speaker="spk3" startTime="20.616" endTime="21.955">
+<Sync time="20.616"/>
+也是在電視上看的
+</Turn>
+<Turn speaker="spk1" startTime="21.955" endTime="59.539">
+<Sync time="21.955"/>
+帶你看看什麼叫做釣鮪魚，什麼叫做買鮪魚，什麼叫做殺鮪魚，然後[music]
+<Sync time="27.405"/>
+[music]
+<Sync time="31.282"/>
+東港距離高雄只有四十分鐘的車程，是台灣十大漁港之一，每年漁獲量的總產量#啊超過三萬多噸，也因此被封為海鮮之都
+<Sync time="42.556"/>
+說到東港#啊，我也算是小熟啦，所以這次啊要帶周蓉來好好認識一下，現在#啊，魚市已經開始聚集各路人馬，應該可以開始認真看點東西了#啊
+<Sync time="53.424"/>
+[music]
+<Sync time="55.782"/>
+(())看到魚市場哦，(())鮪魚了
+</Turn>
+<Turn speaker="spk3" startTime="59.539" endTime="60.63">
+<Sync time="59.539"/>
+(())
+</Turn>
+<Turn speaker="spk4" startTime="60.63" endTime="62.66">
+<Sync time="60.63"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="62.66" endTime="63.881">
+<Sync time="62.66"/>
+哦，(())#啊
+</Turn>
+<Turn speaker="spk4" startTime="63.881" endTime="67.425">
+<Sync time="63.881"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="67.425" endTime="69.042">
+<Sync time="67.425"/>
+他現在在寫什麼
+</Turn>
+<Turn speaker="spk2" startTime="69.042" endTime="70.54">
+<Sync time="69.042"/>
+那個，價格
+</Turn>
+<Turn speaker="spk1" startTime="70.54" endTime="73.136">
+<Sync time="70.54"/>
+他在講已經被買走了，#嗯？
+</Turn>
+<Turn speaker="spk3" startTime="73.136" endTime="75.803">
+<Sync time="73.136"/>
+(())推斷，這個是不可能賣的是不是？
+</Turn>
+<Turn speaker="spk1" startTime="75.803" endTime="76.199">
+<Sync time="75.803"/>
+誒
+</Turn>
+<Turn speaker="spk4" startTime="76.199" endTime="77.19">
+<Sync time="76.199"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="77.19" endTime="79.409">
+<Sync time="77.19"/>
+上面有一條肉那就是買好咯
+</Turn>
+<Turn speaker="spk4" startTime="79.409" endTime="83.075">
+<Sync time="79.409"/>
+對，(())
+</Turn>
+<Turn speaker="spk3" startTime="83.075" endTime="85.195">
+<Sync time="83.075"/>
+像現在這樣嘛，他要抽了嘛
+</Turn>
+<Turn speaker="spk4" startTime="85.195" endTime="85.473">
+<Sync time="85.195"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="85.473" endTime="86.154">
+<Sync time="85.473"/>
+他買了
+</Turn>
+<Turn speaker="spk4" startTime="86.154" endTime="88.786">
+<Sync time="86.154"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="88.786" endTime="94.089">
+<Sync time="88.786"/>
+旭#啊歪
+<Sync time="89.594"/>
+[noise]
+<Sync time="92.432"/>
+(())#啊那個
+</Turn>
+<Turn speaker="spk4" startTime="94.089" endTime="98.698">
+<Sync time="94.089"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="98.698" endTime="99.304">
+<Sync time="98.698"/>
+哦
+</Turn>
+<Turn speaker="spk4" startTime="99.304" endTime="101.207">
+<Sync time="99.304"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="101.207" endTime="102.125">
+<Sync time="101.207"/>
+(())
+</Turn>
+<Turn speaker="spk4" startTime="102.125" endTime="111.945">
+<Sync time="102.125"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="111.945" endTime="113.986">
+<Sync time="111.945"/>
+一點點，#嗯
+</Turn>
+<Turn speaker="spk4" startTime="113.986" endTime="115.492">
+<Sync time="113.986"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="115.492" endTime="116.899">
+<Sync time="115.492"/>
+我吃掉咯
+</Turn>
+<Turn speaker="spk1" startTime="116.899" endTime="126.89">
+<Sync time="116.899"/>
+你都已經拿到手上了，(())，我會叫你不要吃嘛
+<Sync time="120.347"/>
+[noise]
+<Sync time="122.955"/>
+他剛剛說啊，我看他在那裝尾巴誒，他為什麼要收尾巴
+</Turn>
+<Turn speaker="spk2" startTime="126.89" endTime="130.398">
+<Sync time="126.89"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="130.398" endTime="131.31">
+<Sync time="130.398"/>
+哦
+</Turn>
+<Turn speaker="spk2" startTime="131.31" endTime="132.015">
+<Sync time="131.31"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="132.015" endTime="134.611">
+<Sync time="132.015"/>
+因為價錢，價錢可以(())
+</Turn>
+<Turn speaker="spk2" startTime="134.611" endTime="154.089">
+<Sync time="134.611"/>
+(())
+<Sync time="144.162"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="154.089" endTime="155.666">
+<Sync time="154.089"/>
+(())
+</Turn>
+<Turn speaker="spk2" startTime="155.666" endTime="160.602">
+<Sync time="155.666"/>
+(())
+</Turn>
+<Turn speaker="spk4" startTime="160.602" endTime="163.963">
+<Sync time="160.602"/>
+(())
+</Turn>
+<Turn speaker="spk2" startTime="163.963" endTime="165.699">
+<Sync time="163.963"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="165.699" endTime="177.64">
+<Sync time="165.699"/>
+成熟一點，(())，
+<Sync time="171.675"/>
+我要是賣魚我一定不會賣給你誒，(())
+</Turn>
+<Turn speaker="spk2" startTime="177.64" endTime="180.862">
+<Sync time="177.64"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="180.862" endTime="181.805">
+<Sync time="180.862"/>
+什麼成就感了你是
+</Turn>
+<Turn speaker="spk1" startTime="181.805" endTime="213.779">
+<Sync time="181.805"/>
+他這是成就，實現自我的感覺啦，(())
+<Sync time="185.946"/>
+(())
+<Sync time="186.335"/>
+每次像，每次都是覺得哦，我最近(())比較厲害
+<Sync time="189.684"/>
+這條魚#啊會不會賺錢，品質好與壞在於個人精準的判斷，所以必須要有多年的經驗才能挑出好貨#啊，得標之後就會立刻在魚身切上標單，貨榜，配送，絲毫不浪費時間
+<Sync time="204.189"/>
+既然來到了有饕客天堂之稱的華僑市場，豈能夠錯過美食呢，好，我們第一站就先去甄老闆的主場走走#啊
+</Turn>
+<Turn speaker="spk5" startTime="213.779" endTime="216.197">
+<Sync time="213.779"/>
+(())
+</Turn>
+<Turn speaker="spk2" startTime="216.197" endTime="221.143">
+<Sync time="216.197"/>
+(())
+</Turn>
+<Turn speaker="spk5" startTime="221.143" endTime="223.369">
+<Sync time="221.143"/>
+我，十三歲
+</Turn>
+<Turn speaker="spk2" startTime="223.369" endTime="226.314">
+<Sync time="223.369"/>
+你看，十三歲#啊
+</Turn>
+<Turn speaker="spk1" startTime="226.314" endTime="230.229">
+<Sync time="226.314"/>
+他剛剛在取的那個是，(())的部分
+</Turn>
+<Turn speaker="spk3" startTime="230.229" endTime="231.478">
+<Sync time="230.229"/>
+什麼東西？
+</Turn>
+<Turn speaker="spk2" startTime="231.478" endTime="232.58">
+<Sync time="231.478"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="232.58" endTime="232.988">
+<Sync time="232.58"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="232.988" endTime="238.021">
+<Sync time="232.988"/>
+中戶和大戶，你看他現在取的是我們講的(())就是背的部分
+</Turn>
+<Turn speaker="spk3" startTime="238.021" endTime="239.349">
+<Sync time="238.021"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="239.349" endTime="250.338">
+<Sync time="239.349"/>
+對，每個人都說鮪魚的話是(())，如果我喜歡吃清爽的，但你選味重一點的，我可能就會(())上面
+</Turn>
+<Turn speaker="spk3" startTime="250.338" endTime="250.885">
+<Sync time="250.338"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="250.885" endTime="254.622">
+<Sync time="250.885"/>
+對，那如果說我要吃油水多的就會是魚的下面的背部分
+</Turn>
+<Turn speaker="spk3" startTime="254.622" endTime="255.553">
+<Sync time="254.622"/>
+背部分，#嗯，(())
+</Turn>
+<Turn speaker="spk1" startTime="255.553" endTime="263.024">
+<Sync time="255.553"/>
+那越往下它的油脂越多，像這個，這個是這一條魚裡面最油的部分，但是在(())它(())很多
+</Turn>
+<Turn speaker="spk3" startTime="263.024" endTime="263.611">
+<Sync time="263.024"/>
+#啊？
+</Turn>
+<Turn speaker="spk1" startTime="263.611" endTime="266.219">
+<Sync time="263.611"/>
+很多人在吃那個，(())
+</Turn>
+<Turn speaker="spk3" startTime="266.219" endTime="266.924">
+<Sync time="266.219"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="266.924" endTime="269.282">
+<Sync time="266.924"/>
+(())就是，(())跟(())打在一起
+</Turn>
+<Turn speaker="spk3" startTime="269.282" endTime="269.817">
+<Sync time="269.282"/>
+然後剁一剁
+</Turn>
+<Turn speaker="spk1" startTime="269.817" endTime="301.796">
+<Sync time="269.817"/>
+他就會把這個用湯匙把它刮刮刮刮，把這個精的部分挑掉，在剁一剁放在一起
+<Sync time="276.337"/>
+(())鮪魚#啊，會因為部位及脂肪含量不同，口感也有所不同，這就是鮪魚的魅力所在#啊，而冬天#啊是漁獲量較大的季節，所以這個時期的魚#啊，
+<Sync time="287.188"/>
+不但富有豐富的油脂，口感呢也很棒，至於在食用順序跟方法上嘞，也有講究，來，我們上菜吧
+<Sync time="295.681"/>
+[music]
+<Sync time="298.229"/>
+今天老闆他已經有自己的醬料弄在魚上面
+</Turn>
+<Turn speaker="spk3" startTime="301.796" endTime="302.168">
+<Sync time="301.796"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="302.168" endTime="307.035">
+<Sync time="302.168"/>
+但不知道我們在吃(())，拿了時候嘞，先翻起來
+</Turn>
+<Turn speaker="spk3" startTime="307.035" endTime="308.355">
+<Sync time="307.035"/>
+#啊？
+</Turn>
+<Turn speaker="spk1" startTime="308.355" endTime="312.152">
+<Sync time="308.355"/>
+翻起來醬沾，沾完之後翻過來，然後(())
+</Turn>
+<Turn speaker="spk3" startTime="312.152" endTime="312.937">
+<Sync time="312.152"/>
+反著就
+</Turn>
+<Turn speaker="spk1" startTime="312.937" endTime="356.875">
+<Sync time="312.937"/>
+魚是在下面，因為魚要襯托出這個飯，我師範(())有醬，但是丸子(())一次，拿的時候是這樣拿，然後翻過來先沾，再翻過來這邊，然後醬收進去
+<Sync time="327.037"/>
+[noise]
+<Sync time="328.801"/>
+嗯
+<Sync time="329.13"/>
+[music]
+<Sync time="331.44"/>
+這樣弄呢(())，多汁都沒有問題
+<Sync time="333.682"/>
+[music]
+<Sync time="340.119"/>
+但這個吃的時候你可能要去分，從顏色淡的，稍微慢慢往顏色深的，油脂少的到油脂多的，根據我的習慣，(())
+<Sync time="349.622"/>
+油脂少的，中間的洗嘴巴用，然後接下來我會(())，這個啦
+</Turn>
+<Turn speaker="spk3" startTime="356.875" endTime="364.422">
+<Sync time="356.875"/>
+(())
+<Sync time="357.592"/>
+[music](())[music]
+</Turn>
+<Turn speaker="spk1" startTime="364.422" endTime="389.877">
+<Sync time="364.422"/>
+任何人都知道#啊，想吃生魚片又不用花大錢的地方#啊，其實就是在市場里，在外邊說#啊，第一時間現做現吃的壽司攤，不僅#啊食材新鮮，價格也很親民
+<Sync time="376.272"/>
+想滿足口腹之慾的朋友們，這裡是很不錯的選擇哦，話說#啊，華僑市場里還有其他值得品嘗的小市，我們繼續覓食去啦
+<Sync time="385.176"/>
+[music]
+<Sync time="387.162"/>
+東港這邊其實有很多很特別東西啦
+</Turn>
+<Turn speaker="spk3" startTime="389.877" endTime="390.63">
+<Sync time="389.877"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="390.63" endTime="396.765">
+<Sync time="390.63"/>
+哦，#呃，因為他的物產#啊，大概偏海鮮居多，哦，(())是有甜點
+</Turn>
+<Turn speaker="spk3" startTime="396.765" endTime="397.807">
+<Sync time="396.765"/>
+甜點，什麼甜點？
+</Turn>
+<Turn speaker="spk2" startTime="397.807" endTime="399.809">
+<Sync time="397.807"/>
+(())說這是麻花卷
+</Turn>
+<Turn speaker="spk1" startTime="399.809" endTime="402.912">
+<Sync time="399.809"/>
+對，他這邊自然就是這個，雙高潤
+</Turn>
+<Turn speaker="spk3" startTime="402.912" endTime="403.17">
+<Sync time="402.912"/>
+什麼是雙高潤
+</Turn>
+<Turn speaker="spk2" startTime="403.17" endTime="405.144">
+<Sync time="403.17"/>
+這些都叫雙高潤嗎
+</Turn>
+<Turn speaker="spk6" startTime="405.144" endTime="408.366">
+<Sync time="405.144"/>
+對對對，(())
+</Turn>
+<Turn speaker="spk1" startTime="408.366" endTime="409.309">
+<Sync time="408.366"/>
+原味
+</Turn>
+<Turn speaker="spk2" startTime="409.309" endTime="410.597">
+<Sync time="409.309"/>
+哦，原味可以買一點
+</Turn>
+<Turn speaker="spk6" startTime="410.597" endTime="412.48">
+<Sync time="410.597"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="412.48" endTime="413.819">
+<Sync time="412.48"/>
+這是用黑糖嗎？
+</Turn>
+<Turn speaker="spk6" startTime="413.819" endTime="415.464">
+<Sync time="413.819"/>
+我們這個(())黑糖
+</Turn>
+<Turn speaker="spk1" startTime="415.464" endTime="416.158">
+<Sync time="415.464"/>
+黑糖的
+</Turn>
+<Turn speaker="spk6" startTime="416.158" endTime="417.022">
+<Sync time="416.158"/>
+採用黑糖
+</Turn>
+<Turn speaker="spk1" startTime="417.022" endTime="417.5">
+<Sync time="417.022"/>
+對#啊
+</Turn>
+<Turn speaker="spk6" startTime="417.5" endTime="419.848">
+<Sync time="417.5"/>
+因為現在的人比較追求健康
+</Turn>
+<Turn speaker="spk1" startTime="419.848" endTime="421.247">
+<Sync time="419.848"/>
+那你最喜歡哪一個
+</Turn>
+<Turn speaker="spk6" startTime="421.247" endTime="422.666">
+<Sync time="421.247"/>
+我喜歡芋頭
+</Turn>
+<Turn speaker="spk1" startTime="422.666" endTime="424.164">
+<Sync time="422.666"/>
+芋頭的，好，那我就吃芋頭
+</Turn>
+<Turn speaker="spk6" startTime="424.164" endTime="426.225">
+<Sync time="424.164"/>
+芋頭(())
+</Turn>
+<Turn speaker="spk1" startTime="426.225" endTime="427.406">
+<Sync time="426.225"/>
+誒，怎麼樣？
+</Turn>
+<Turn speaker="spk3" startTime="427.406" endTime="432.332">
+<Sync time="427.406"/>
+這個如果按以口感來講的話，比較貼切應該會像(())那類
+</Turn>
+<Turn speaker="spk1" startTime="432.332" endTime="434.274">
+<Sync time="432.332"/>
+那你試這個
+</Turn>
+<Turn speaker="spk3" startTime="434.274" endTime="435.415">
+<Sync time="434.274"/>
+你怎麼不吃
+</Turn>
+<Turn speaker="spk1" startTime="435.415" endTime="438.705">
+<Sync time="435.415"/>
+我吃#啊，怎麼不吃，我是給你是因為我吃過，(())少
+</Turn>
+<Turn speaker="spk3" startTime="438.705" endTime="442.264">
+<Sync time="438.705"/>
+你怎麼這麼友愛，哈哈哈哈哈
+</Turn>
+<Turn speaker="spk1" startTime="442.264" endTime="443.267">
+<Sync time="442.264"/>
+誒，我哪一次沒有分你啦
+</Turn>
+<Turn speaker="spk3" startTime="443.267" endTime="444.289">
+<Sync time="443.267"/>
+有有有
+</Turn>
+<Turn speaker="spk1" startTime="444.289" endTime="445.776">
+<Sync time="444.289"/>
+哦你講話要負責任誒
+</Turn>
+<Turn speaker="spk3" startTime="445.776" endTime="458.771">
+<Sync time="445.776"/>
+有啦
+<Sync time="446.343"/>
+[music]
+<Sync time="451.626"/>
+(())說它只是黑糖的味道還是偏比較重一點，它這個芋頭的味道是後面才會慢慢的比較散發出來
+</Turn>
+<Turn speaker="spk1" startTime="458.771" endTime="461.704">
+<Sync time="458.771"/>
+哦，(())，芋頭你說很香
+</Turn>
+<Turn speaker="spk3" startTime="461.704" endTime="462.073">
+<Sync time="461.704"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="462.073" endTime="462.541">
+<Sync time="462.073"/>
+哎呀
+</Turn>
+<Turn speaker="spk3" startTime="462.541" endTime="465.822">
+<Sync time="462.541"/>
+我就比較好奇它的，這種原料是用什麼
+</Turn>
+<Turn speaker="spk1" startTime="465.822" endTime="466.873">
+<Sync time="465.822"/>
+它是用蛋白粉吧
+</Turn>
+<Turn speaker="spk6" startTime="466.873" endTime="469.5">
+<Sync time="466.873"/>
+原料就是用(())
+</Turn>
+<Turn speaker="spk3" startTime="469.5" endTime="469.639">
+<Sync time="469.5"/>
+米
+</Turn>
+<Turn speaker="spk1" startTime="469.639" endTime="470.978">
+<Sync time="469.639"/>
+哦米啦，米，糯米漿#啊
+</Turn>
+<Turn speaker="spk3" startTime="470.978" endTime="473.198">
+<Sync time="470.978"/>
+(())就(())超貴的感覺
+</Turn>
+<Turn speaker="spk1" startTime="473.198" endTime="477.906">
+<Sync time="473.198"/>
+(())貴啦，只是說他們比較，他們比較沒有那麼，(())，(())那麼多
+</Turn>
+<Turn speaker="spk3" startTime="477.906" endTime="478.302">
+<Sync time="477.906"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="478.302" endTime="498.835">
+<Sync time="478.302"/>
+哦
+<Sync time="478.718"/>
+[music]
+<Sync time="479.511"/>
+雙高潤有點粘性但不粘牙，芋頭#啊跟黑糖融入其中#啊，是越咬越香#啊，所謂的雙高潤呢，其實就是由糯米和黑糖製造而成的，將糯米炒過的黑糖和餡料，
+<Sync time="492.482"/>
+一起蒸熟後，一層一層的疊上，就是顏色分明的古早味糕點啦
+</Turn>
+<Turn speaker="spk7" startTime="498.835" endTime="500.927">
+<Sync time="498.835"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="500.927" endTime="502.711">
+<Sync time="500.927"/>
+這你有吃過吧
+</Turn>
+<Turn speaker="spk3" startTime="502.711" endTime="503.258">
+<Sync time="502.711"/>
+有
+</Turn>
+<Turn speaker="spk1" startTime="503.258" endTime="505.509">
+<Sync time="503.258"/>
+誒，這個就是
+</Turn>
+<Turn speaker="spk3" startTime="505.509" endTime="505.858">
+<Sync time="505.509"/>
+旗魚
+</Turn>
+<Turn speaker="spk1" startTime="505.858" endTime="509.694">
+<Sync time="505.858"/>
+旗魚(())，對不對，它這還有別的，這是，好像是(())
+</Turn>
+<Turn speaker="spk8" startTime="509.694" endTime="512.25">
+<Sync time="509.694"/>
+是(())
+<Sync time="511.18"/>
+[noise]
+</Turn>
+<Turn speaker="spk1" startTime="512.25" endTime="513.578">
+<Sync time="512.25"/>
+那旗魚酥是什麼
+</Turn>
+<Turn speaker="spk8" startTime="513.578" endTime="516.225">
+<Sync time="513.578"/>
+(())研發的肉
+</Turn>
+<Turn speaker="spk1" startTime="516.225" endTime="519.922">
+<Sync time="516.225"/>
+好，我要旗魚酥也要這個旗魚黑的，然後天婦羅
+</Turn>
+<Turn speaker="spk3" startTime="519.922" endTime="520.805">
+<Sync time="519.922"/>
+天婦羅
+</Turn>
+<Turn speaker="spk1" startTime="520.805" endTime="525.847">
+<Sync time="520.805"/>
+旗魚酥本來東港就有#啊，還是東港是旗魚頭嘞
+</Turn>
+<Turn speaker="spk8" startTime="525.847" endTime="527.195">
+<Sync time="525.847"/>
+東港是旗魚頭
+</Turn>
+<Turn speaker="spk1" startTime="527.195" endTime="529.169">
+<Sync time="527.195"/>
+頭類比較有名啦，那旗魚酥是後來傳的
+</Turn>
+<Turn speaker="spk8" startTime="529.169" endTime="529.795">
+<Sync time="529.169"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="529.795" endTime="565.097">
+<Sync time="529.795"/>
+(())給你(())，謝謝，(())吃，因為我對它很好奇，那這樣提到說裡面的料，是最重要的，所以我現在就把裡面的這個料撥開來給大家看
+<Sync time="541.11"/>
+噢喲，誒，旗魚怪誒，(())，哦，它這是別的沒有啦，我這是旗魚多啦
+<Sync time="552.218"/>
+[music]
+<Sync time="560.342"/>
+[music]
+</Turn>
+<Turn speaker="spk9" startTime="565.097" endTime="566.9">
+<Sync time="565.097"/>
+不錯
+</Turn>
+<Turn speaker="spk1" startTime="566.9" endTime="570.328">
+<Sync time="566.9"/>
+五香味道更重，它以那個旗魚有帶著五香進去
+</Turn>
+<Turn speaker="spk3" startTime="570.328" endTime="570.651">
+<Sync time="570.328"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="570.651" endTime="579.045">
+<Sync time="570.651"/>
+對不對，#嗯，有我給你講(())旗魚，熟旗魚，你第一個想法是什麼，趕緊說
+</Turn>
+<Turn speaker="spk3" startTime="579.045" endTime="581.336">
+<Sync time="579.045"/>
+纖維比較，肉比較硬的感覺
+</Turn>
+<Turn speaker="spk1" startTime="581.336" endTime="581.823">
+<Sync time="581.336"/>
+對
+</Turn>
+<Turn speaker="spk3" startTime="581.823" endTime="582.226">
+<Sync time="581.823"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="582.226" endTime="586.579">
+<Sync time="582.226"/>
+像我跟你說這個，一點都不硬，它是那種湯汁
+</Turn>
+<Turn speaker="spk3" startTime="586.579" endTime="588.244">
+<Sync time="586.579"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="588.244" endTime="590.138">
+<Sync time="588.244"/>
+可以哦
+</Turn>
+<Turn speaker="spk3" startTime="590.138" endTime="595.282">
+<Sync time="590.138"/>
+讓它這樣(())，但是不會含油了，就是炸的技術也是非常大厲害的
+</Turn>
+<Turn speaker="spk1" startTime="595.282" endTime="597.414">
+<Sync time="595.282"/>
+不還意思哦,剛剛(())人
+</Turn>
+<Turn speaker="spk3" startTime="597.414" endTime="597.949">
+<Sync time="597.414"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="597.949" endTime="599.983">
+<Sync time="597.949"/>
+它很(())，但它不吃油啦
+</Turn>
+<Turn speaker="spk3" startTime="599.983" endTime="600.815">
+<Sync time="599.983"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="600.815" endTime="602.084">
+<Sync time="600.815"/>
+(())不含油啦
+</Turn>
+<Turn speaker="spk3" startTime="602.084" endTime="606.058">
+<Sync time="602.084"/>
+不含油，我剛剛是這樣講的是不是
+</Turn>
+<Turn speaker="spk1" startTime="606.058" endTime="652.713">
+<Sync time="606.058"/>
+旗魚行是這裡的大宗買賣，因此也連帶開發了許多附加食品，成了最近人氣特色的小吃，像是這個旗魚酥，就是用混沌皮#啊，它包覆著新鮮旗魚塊下去油炸的
+<Sync time="619.722"/>
+外皮#啊口感酥脆，内陷還可以遲到魚肉的鮮味#啊，吼，(())
+<Sync time="625.944"/>
+好，接下來這個，你應該就很好奇，為什麼我會特地點(())，其實不瞞大家說我們有認識一些工作人員，它自己謠傳自己是高雄人，
+<Sync time="639.603"/>
+他說這邊的東港呢(())一定要點來吃，因為(())哪邊沒有，(())也有#啊，他說但是東港的比較薄，那薄會造成什麼現象呢，吃起來應該會比較脆
+</Turn>
+<Turn speaker="spk3" startTime="652.713" endTime="653.934">
+<Sync time="652.713"/>
+#嗯，(())
+</Turn>
+<Turn speaker="spk1" startTime="653.934" endTime="663.16">
+<Sync time="653.934"/>
+還是讓你先吃吧，不然我待會講到一半你又吃了
+<Sync time="656.918"/>
+[music]
+</Turn>
+<Turn speaker="spk3" startTime="663.16" endTime="671.594">
+<Sync time="663.16"/>
+它外邊像餅乾一樣
+<Sync time="664.635"/>
+[music]
+<Sync time="666.034"/>
+可以說它是像是切薄片的(())炸鍋的樣子
+</Turn>
+<Turn speaker="spk1" startTime="671.594" endTime="672.089">
+<Sync time="671.594"/>
+是哦
+</Turn>
+<Turn speaker="spk3" startTime="672.089" endTime="676.568">
+<Sync time="672.089"/>
+#嗯
+<Sync time="672.664"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="676.568" endTime="683.317">
+<Sync time="676.568"/>
+(())#啊
+<Sync time="677.078"/>
+[music]
+<Sync time="679.025"/>
+ 應該說它的酥脆度啦，是北部的天婦羅沒有的
+</Turn>
+<Turn speaker="spk3" startTime="683.317" endTime="684.031">
+<Sync time="683.317"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="684.031" endTime="698.302">
+<Sync time="684.031"/>
+北部的天婦羅也是有酥脆，但(())就在你嘴巴裡面，這個大概可以，(())在那(())
+<Sync time="694.565"/>
+(())，在(())，北部大概山下就沒了
+</Turn>
+<Turn speaker="spk3" startTime="698.302" endTime="708.13">
+<Sync time="698.302"/>
+因為北部比較厚，所以它在炸的時間它裡面還是有很多的水分，它就算是酥脆的話它還是只能是停留一下子，它就開始回軟了
+</Turn>
+<Turn speaker="spk1" startTime="708.13" endTime="730.391">
+<Sync time="708.13"/>
+誒，接下來[noise]
+<Sync time="709.35"/>
+[noise]
+<Sync time="712.945"/>
+這個，這個我不能說我常吃啦，但我自己買著吃了五六次
+<Sync time="717.487"/>
+[music]
+<Sync time="722.037"/>
+你算吃的認真哦，哦，一般我們吃都是這樣，它直接頂到足尖的盡頭這樣子，(())厲害哦
+</Turn>
+<Turn speaker="spk3" startTime="730.391" endTime="732.036">
+<Sync time="730.391"/>
+其實我剛有先偷偷看他們的(())
+</Turn>
+<Turn speaker="spk1" startTime="732.036" endTime="732.682">
+<Sync time="732.036"/>
+哦
+</Turn>
+<Turn speaker="spk3" startTime="732.682" endTime="736.538">
+<Sync time="732.682"/>
+這個蛋包要中間，這個我剛只咬一點點，我怕我(())
+</Turn>
+<Turn speaker="spk1" startTime="736.538" endTime="742.911">
+<Sync time="736.538"/>
+(())，所以这就是(())，哦，像我們就是很(())
+</Turn>
+<Turn speaker="spk3" startTime="742.911" endTime="745.737">
+<Sync time="742.911"/>
+哈哈哈哈哈哈
+</Turn>
+<Turn speaker="spk1" startTime="745.737" endTime="746.839">
+<Sync time="745.737"/>
+該知道的都知道了
+</Turn>
+<Turn speaker="spk3" startTime="746.839" endTime="747.303">
+<Sync time="746.839"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="747.303" endTime="747.909">
+<Sync time="747.303"/>
+好吃吧
+</Turn>
+<Turn speaker="spk3" startTime="747.909" endTime="749.395">
+<Sync time="747.909"/>
+好吃
+</Turn>
+<Turn speaker="spk1" startTime="749.395" endTime="772.674">
+<Sync time="749.395"/>
+剛起過油嘞，將胡椒粉的香氣逼出來，配上裡面報復的水煮蛋吶，口味是恰到好處#啊，製作方式呢，是將旗魚(())跟蛋吶裹成長條狀，再放到國內油炸到金黃
+<Sync time="762.069"/>
+現做的滋味#啊，只能用鮮來形容，好的，接下來還要加碼的找美食咯
+<Sync time="767.391"/>
+[music]
+<Sync time="769.333"/>
+這個地方#啊，是東港的一個小巷子裡面
+</Turn>
+<Turn speaker="spk3" startTime="772.674" endTime="772.994">
+<Sync time="772.674"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="772.994" endTime="778.817">
+<Sync time="772.994"/>
+哦，東港有很多食物是特別的，你有沒有聽過(())
+</Turn>
+<Turn speaker="spk3" startTime="778.817" endTime="779.431">
+<Sync time="778.817"/>
+(())？
+</Turn>
+<Turn speaker="spk1" startTime="779.431" endTime="780.442">
+<Sync time="779.431"/>
+對
+</Turn>
+<Turn speaker="spk3" startTime="780.442" endTime="780.915">
+<Sync time="780.442"/>
+沒有
+</Turn>
+<Turn speaker="spk1" startTime="780.915" endTime="783.109">
+<Sync time="780.915"/>
+你有沒有聽過(())
+</Turn>
+<Turn speaker="spk3" startTime="783.109" endTime="783.517">
+<Sync time="783.109"/>
+沒有
+</Turn>
+<Turn speaker="spk1" startTime="783.517" endTime="790.48">
+<Sync time="783.517"/>
+我最喜歡跟這種人錄影，什麼都不知道，哦(())帶你來嘞，因為這家(())比較特別一點
+</Turn>
+<Turn speaker="spk3" startTime="790.48" endTime="790.972">
+<Sync time="790.48"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="790.972" endTime="792.629">
+<Sync time="790.972"/>
+它有兩種口味
+</Turn>
+<Turn speaker="spk3" startTime="792.629" endTime="793.102">
+<Sync time="792.629"/>
+兩種
+</Turn>
+<Turn speaker="spk1" startTime="793.102" endTime="794.075">
+<Sync time="793.102"/>
+甜的跟鹹的
+</Turn>
+<Turn speaker="spk3" startTime="794.075" endTime="794.411">
+<Sync time="794.075"/>
+哈？
+</Turn>
+<Turn speaker="spk1" startTime="794.411" endTime="795.402">
+<Sync time="794.411"/>
+對
+</Turn>
+<Turn speaker="spk3" startTime="795.402" endTime="796.86">
+<Sync time="795.402"/>
+湯飯是甜的？
+</Turn>
+<Turn speaker="spk1" startTime="796.86" endTime="801.803">
+<Sync time="796.86"/>
+對，(())，看不就知道了嘛，#啊？
+<Sync time="800.087"/>
+[music]
+</Turn>
+<Turn speaker="spk10" startTime="801.803" endTime="802.191">
+<Sync time="801.803"/>
+你好
+</Turn>
+<Turn speaker="spk1" startTime="802.191" endTime="803.261">
+<Sync time="802.191"/>
+誒，你好你好
+</Turn>
+<Turn speaker="spk3" startTime="803.261" endTime="804.094">
+<Sync time="803.261"/>
+你好
+</Turn>
+<Turn speaker="spk10" startTime="804.094" endTime="807.653">
+<Sync time="804.094"/>
+兩個客觀要吃什麼，(())早味是綠豆飯湯
+</Turn>
+<Turn speaker="spk1" startTime="807.653" endTime="809.428">
+<Sync time="807.653"/>
+綠豆？為什麼上綠豆
+</Turn>
+<Turn speaker="spk10" startTime="809.428" endTime="824.131">
+<Sync time="809.428"/>
+因為那個，我們小時候，我們是(())，那個時候夏天比較炎熱，飯吃不下去，(())綠豆，(())，所以按綠豆它是(())，用那個
+</Turn>
+<Turn speaker="spk1" startTime="824.131" endTime="824.714">
+<Sync time="824.131"/>
+對
+</Turn>
+<Turn speaker="spk10" startTime="824.714" endTime="826.435">
+<Sync time="824.714"/>
+黑糖下去煮麵的
+</Turn>
+<Turn speaker="spk1" startTime="826.435" endTime="827.684">
+<Sync time="826.435"/>
+那個奶奶磨綠豆
+</Turn>
+<Turn speaker="spk10" startTime="827.684" endTime="829.182">
+<Sync time="827.684"/>
+綠豆(())
+</Turn>
+<Turn speaker="spk1" startTime="829.182" endTime="831.659">
+<Sync time="829.182"/>
+#啊？，這個，那這個是什麼
+</Turn>
+<Turn speaker="spk10" startTime="831.659" endTime="833.355">
+<Sync time="831.659"/>
+這是我們的備料
+</Turn>
+<Turn speaker="spk1" startTime="833.355" endTime="836.684">
+<Sync time="833.355"/>
+那除了這個，我剛，(())跟我說還有甜的
+</Turn>
+<Turn speaker="spk3" startTime="836.684" endTime="837.1">
+<Sync time="836.684"/>
+甜的
+</Turn>
+<Turn speaker="spk10" startTime="837.1" endTime="837.893">
+<Sync time="837.1"/>
+有
+</Turn>
+<Turn speaker="spk1" startTime="837.893" endTime="839.569">
+<Sync time="837.893"/>
+甜的，也是綠豆飯湯嗎？
+</Turn>
+<Turn speaker="spk10" startTime="839.569" endTime="840.243">
+<Sync time="839.569"/>
+對是
+</Turn>
+<Turn speaker="spk1" startTime="840.243" endTime="841.491">
+<Sync time="840.243"/>
+(())
+</Turn>
+<Turn speaker="spk10" startTime="841.491" endTime="842.3">
+<Sync time="841.491"/>
+要甜的嗎
+</Turn>
+<Turn speaker="spk1" startTime="842.3" endTime="842.807">
+<Sync time="842.3"/>
+不不不，我要甜的跟鹹的
+</Turn>
+<Turn speaker="spk3" startTime="842.807" endTime="843.481">
+<Sync time="842.807"/>
+一甜一鹹
+</Turn>
+<Turn speaker="spk10" startTime="843.481" endTime="844.385">
+<Sync time="843.481"/>
+一甜一鹹
+</Turn>
+<Turn speaker="spk1" startTime="844.385" endTime="845.923">
+<Sync time="844.385"/>
+一甜一鹹，好不好
+</Turn>
+<Turn speaker="spk10" startTime="845.923" endTime="846.49">
+<Sync time="845.923"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="846.49" endTime="851.475">
+<Sync time="846.49"/>
+好好，馬上煮你看，它就是那種客服的概念你知道嗎
+</Turn>
+<Turn speaker="spk3" startTime="851.475" endTime="852.129">
+<Sync time="851.475"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="852.129" endTime="861.257">
+<Sync time="852.129"/>
+好，是不是，好，我馬上煮你，等下拿你，(())很快嘞吼
+<Sync time="857.242"/>
+[music]
+<Sync time="858.581"/>
+ 哈？你這，你這綠豆是直接煮在裡面
+</Turn>
+<Turn speaker="spk10" startTime="861.257" endTime="865.172">
+<Sync time="861.257"/>
+對，綠豆我們先煮起來，然後再跟飯一起煮，(())
+</Turn>
+<Turn speaker="spk1" startTime="865.172" endTime="867.431">
+<Sync time="865.172"/>
+可是綠豆煮的時間不是跟飯不太一樣
+</Turn>
+<Turn speaker="spk10" startTime="867.431" endTime="868.283">
+<Sync time="867.431"/>
+不一樣，對
+</Turn>
+<Turn speaker="spk1" startTime="868.283" endTime="868.937">
+<Sync time="868.283"/>
+那怎麼辦
+</Turn>
+<Turn speaker="spk10" startTime="868.937" endTime="873.039">
+<Sync time="868.937"/>
+我們都是先把綠豆洗好，乾淨下去那個煮 
+</Turn>
+<Turn speaker="spk1" startTime="873.039" endTime="873.451">
+<Sync time="873.039"/>
+泡
+</Turn>
+<Turn speaker="spk10" startTime="873.451" endTime="889.902">
+<Sync time="873.451"/>
+不要泡，我們直接去煮，煮到半個小時至一個小時(())，再是(())用起來，
+<Sync time="881.561"/>
+再來煮飯，跟飯一起煮了，(())它的(())比較好，等下吃看看，(())得有香味出來了
+<Sync time="888.701"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="889.902" endTime="891.42">
+<Sync time="889.902"/>
+誒，有誒
+</Turn>
+<Turn speaker="spk10" startTime="891.42" endTime="892.442">
+<Sync time="891.42"/>
+嘗試看看
+</Turn>
+<Turn speaker="spk1" startTime="892.442" endTime="895.922">
+<Sync time="892.442"/>
+有嘞
+<Sync time="892.839"/>
+[music]
+</Turn>
+<Turn speaker="spk3" startTime="895.922" endTime="896.695">
+<Sync time="895.922"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="896.695" endTime="897.071">
+<Sync time="896.695"/>
+哦
+</Turn>
+<Turn speaker="spk3" startTime="897.071" endTime="897.408">
+<Sync time="897.071"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="897.408" endTime="898.597">
+<Sync time="897.408"/>
+很像什麼，很像綠豆沙啦
+</Turn>
+<Turn speaker="spk3" startTime="898.597" endTime="901.312">
+<Sync time="898.597"/>
+綠豆(())，哦我覺得吃起來優點像綠豆(())
+</Turn>
+<Turn speaker="spk1" startTime="901.312" endTime="903.781">
+<Sync time="901.312"/>
+對，人家綠豆沙有沒有，我們都知道，是那種有沙沙的口感
+</Turn>
+<Turn speaker="spk3" startTime="903.781" endTime="904.962">
+<Sync time="903.781"/>
+沙沙的味道
+</Turn>
+<Turn speaker="spk1" startTime="904.962" endTime="910.027">
+<Sync time="904.962"/>
+它那個沙沙的口感跟飯在一起，用飯的粘稠度，跟沙沙包在飯上面，你知道裡面
+</Turn>
+<Turn speaker="spk3" startTime="910.027" endTime="911.089">
+<Sync time="910.027"/>
+你(())，我來(())
+</Turn>
+<Turn speaker="spk1" startTime="911.089" endTime="946.378">
+<Sync time="911.089"/>
+對，你就知道那個綠豆沙的那個特製綠豆的味道，然後跟飯在一起
+<Sync time="916.38"/>
+湯飯的由來#啊據說是早些唐人在農忙的時候，為了求方便所產生出來的料庫，可是說是非常具有在地特色#啊，而各家也有自家的私房配湯
+<Sync time="927.686"/>
+因此，煮出來的味道也不盡相同，重點在於食材新鮮又多樣化，陵大姐的飯湯#啊，煮的海鮮配料，
+<Sync time="935.528"/>
+還多了綠豆這一味#啊，至於為什麼裡面會加入綠豆嘞，原來是媽媽傳承下來的滋味#啊
+<Sync time="942.771"/>
+[music]
+</Turn>
+<Turn speaker="spk10" startTime="946.378" endTime="948.035">
+<Sync time="946.378"/>
+嘗試下下口味
+</Turn>
+<Turn speaker="spk1" startTime="948.035" endTime="951.495">
+<Sync time="948.035"/>
+我有來東港吃過這個，可是好像沒有這麼多
+</Turn>
+<Turn speaker="spk10" startTime="951.495" endTime="952.716">
+<Sync time="951.495"/>
+沒有這麼多哈
+</Turn>
+<Turn speaker="spk3" startTime="952.716" endTime="954.987">
+<Sync time="952.716"/>
+這看起來就像一碗海鮮粥一樣
+</Turn>
+<Turn speaker="spk1" startTime="954.987" endTime="965.525">
+<Sync time="954.987"/>
+來趕快吃趕快吃，事物不等人
+<Sync time="957.099"/>
+[music]
+<Sync time="962.727"/>
+怎麼樣
+<Sync time="963.195"/>
+[music]
+</Turn>
+<Turn speaker="spk3" startTime="965.525" endTime="966.191">
+<Sync time="965.525"/>
+鹹呀
+</Turn>
+<Turn speaker="spk10" startTime="966.191" endTime="969.136">
+<Sync time="966.191"/>
+哈哈哈哈哈哈
+</Turn>
+<Turn speaker="spk1" startTime="969.136" endTime="979.393">
+<Sync time="969.136"/>
+還是不太習慣，一課(())釀成的事故，想象像小甜甜一樣，然後趕快嚼，(())，我們要帶你去看那個，這一(())命脈
+</Turn>
+<Turn speaker="spk3" startTime="979.393" endTime="981.91">
+<Sync time="979.393"/>
+哦誒，奧喲歪
+</Turn>
+<Turn speaker="spk1" startTime="981.91" endTime="988.996">
+<Sync time="981.91"/>
+讓你(())，(())，我先退下在進去吼
+</Turn>
+<Turn speaker="spk3" startTime="988.996" endTime="994.279">
+<Sync time="988.996"/>
+#啊，(())了，哦要(())了
+</Turn>
+<Turn speaker="spk1" startTime="994.279" endTime="1001.753">
+<Sync time="994.279"/>
+哦(())出來(())出來(())出來
+<Sync time="999.106"/>
+誒，出發咯
+<Sync time="999.732"/>
+[music]
+</Turn>
+<Turn speaker="spk3" startTime="1001.753" endTime="1003.616">
+<Sync time="1001.753"/>
+你看那
+</Turn>
+<Turn speaker="spk1" startTime="1003.616" endTime="1010.821">
+<Sync time="1003.616"/>
+所有的最大的一個，比較困難一點，可能是香氣不夠，加它這個香氣滋味煮
+</Turn>
+<Turn speaker="spk3" startTime="1010.821" endTime="1021.137">
+<Sync time="1010.821"/>
+可是很厲害的是它不是一起煮的，但是都是有香氣的，它個別的香氣堆疊進來之後，就很像是煮在一起的感覺
+<Sync time="1018.699"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="1021.137" endTime="1023.031">
+<Sync time="1021.137"/>
+你這個湯從哪裡來？
+</Turn>
+<Turn speaker="spk11" startTime="1023.031" endTime="1033.426">
+<Sync time="1023.031"/>
+湯，我們是用大鍋，(())是用(())，(())，然後到我們做骨料的時候，那個時候再打破關卡
+</Turn>
+<Turn speaker="spk1" startTime="1033.426" endTime="1039.969">
+<Sync time="1033.426"/>
+很棒
+<Sync time="1033.953"/>
+[music]
+<Sync time="1036.232"/>
+誒，又有筍嘞吼，(())這是筍嗎
+</Turn>
+<Turn speaker="spk11" startTime="1039.969" endTime="1041.198">
+<Sync time="1039.969"/>
+沒啦，那不是筍
+</Turn>
+<Turn speaker="spk1" startTime="1041.198" endTime="1043.033">
+<Sync time="1041.198"/>
+邊邊是什麼，#啊你不是有筍
+</Turn>
+<Turn speaker="spk11" startTime="1043.033" endTime="1045.185">
+<Sync time="1043.033"/>
+是，那是一般的飯湯
+</Turn>
+<Turn speaker="spk1" startTime="1045.185" endTime="1046.049">
+<Sync time="1045.185"/>
+它這個沒有
+</Turn>
+<Turn speaker="spk11" startTime="1046.049" endTime="1050.539">
+<Sync time="1046.049"/>
+對，綠豆(())放筍吃，不放筍吃像是(())一樣的
+</Turn>
+<Turn speaker="spk3" startTime="1050.539" endTime="1052.877">
+<Sync time="1050.539"/>
+我在這邊漫香的東西
+</Turn>
+<Turn speaker="spk11" startTime="1052.877" endTime="1057.482">
+<Sync time="1052.877"/>
+你們是一(())飯湯然後跟那個綠豆(())這樣，對
+</Turn>
+<Turn speaker="spk12" startTime="1057.482" endTime="1059.464">
+<Sync time="1057.482"/>
+你(())看看
+</Turn>
+<Turn speaker="spk11" startTime="1059.464" endTime="1065.42">
+<Sync time="1059.464"/>
+它最佳碗湯是那個，二老爺(())，那個是這樣#啊
+</Turn>
+<Turn speaker="spk3" startTime="1065.42" endTime="1070.354">
+<Sync time="1065.42"/>
+#嗯
+<Sync time="1066.193"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="1070.354" endTime="1070.87">
+<Sync time="1070.354"/>
+#嗯
+</Turn>
+<Turn speaker="spk11" startTime="1070.87" endTime="1072.17">
+<Sync time="1070.87"/>
+如何？
+</Turn>
+<Turn speaker="spk3" startTime="1072.17" endTime="1072.955">
+<Sync time="1072.17"/>
+吃你的
+</Turn>
+<Turn speaker="spk1" startTime="1072.955" endTime="1098.184">
+<Sync time="1072.955"/>
+證明我還年輕，(())很喜歡，哈哈哈哈哈哈，可能老一輩不喜歡，平時嚴格說起來吼，筍放進去的那個，那個脆口感非常明顯，我很喜歡這種，然後綠豆在裡面
+<Sync time="1087.749"/>
+它有綠豆的一個，一個，一個特，綠豆本身就有它的味道，有那個綠豆的味道，但若你沒有仔細注意的話，可能會覺得那個綠豆再這裡面是很順理成章的
+</Turn>
+<Turn speaker="spk3" startTime="1098.184" endTime="1098.533">
+<Sync time="1098.184"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="1098.533" endTime="1111.524">
+<Sync time="1098.533"/>
+哦，是很，它平常就是在裡面，但你看，(())湯哦，但你看它的顏色，它就摻雜有一點綠豆在裡面，哦，多增加風味
+</Turn>
+<Turn speaker="spk3" startTime="1111.524" endTime="1116.648">
+<Sync time="1111.524"/>
+可能太多人都覺得不喜歡加筍，所以自然而然(())乾脆不要(())
+</Turn>
+<Turn speaker="spk11" startTime="1116.648" endTime="1117.956">
+<Sync time="1116.648"/>
+對對對
+<Sync time="1117.381"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="1117.956" endTime="1138.041">
+<Sync time="1117.956"/>
+東港飯湯好吃的關鍵除了用大火高湯黨基底，還有(())米飯，吸附燙頭精華和綠豆香氣，鮮香中呢帶有鮮美滋味，如果個人覺得呢，
+<Sync time="1129.837"/>
+#嗯，配著筍吃#啊，非常的好吃，更有口感，好，接下來，甜的飯湯啊味道如何呢
+</Turn>
+<Turn speaker="spk3" startTime="1138.041" endTime="1142.214">
+<Sync time="1138.041"/>
+其實它喝起來，就像綠豆湯一樣
+</Turn>
+<Turn speaker="spk1" startTime="1142.214" endTime="1143.284">
+<Sync time="1142.214"/>
+應該就是綠豆湯把
+</Turn>
+<Turn speaker="spk3" startTime="1143.284" endTime="1143.879">
+<Sync time="1143.284"/>
+不是綠豆湯
+</Turn>
+<Turn speaker="spk1" startTime="1143.879" endTime="1145.971">
+<Sync time="1143.879"/>
+綠豆(())，綠豆湯加白粉
+</Turn>
+<Turn speaker="spk3" startTime="1145.971" endTime="1146.348">
+<Sync time="1145.971"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="1146.348" endTime="1147.45">
+<Sync time="1146.348"/>
+是不是
+</Turn>
+<Turn speaker="spk3" startTime="1147.45" endTime="1157.052">
+<Sync time="1147.45"/>
+(())，這邊的白飯不會覺得很奇怪
+<Sync time="1150.038"/>
+[music]
+<Sync time="1154.08"/>
+(())紫米紅豆的那種香，概念的感覺
+</Turn>
+<Turn speaker="spk1" startTime="1157.052" endTime="1163.492">
+<Sync time="1157.052"/>
+如果說你今天每次在吃綠豆湯覺得沒有飽足感的話，加個白飯是一個不錯的選擇
+</Turn>
+<Turn speaker="spk3" startTime="1163.492" endTime="1170.756">
+<Sync time="1163.492"/>
+(())就會使覺得這樣吃起來它優點像綠豆(())了，因為那個飯的感覺，咬起來&lt;lang:English&gt;QQ&lt;/lang:English&gt;的
+</Turn>
+<Turn speaker="spk1" startTime="1170.756" endTime="1171.6">
+<Sync time="1170.756"/>
+#嗯
+</Turn>
+<Turn speaker="spk3" startTime="1171.6" endTime="1174.089">
+<Sync time="1171.6"/>
+#嗯，確實嘛，我覺得蠻像的啦
+</Turn>
+<Turn speaker="spk1" startTime="1174.089" endTime="1177.014">
+<Sync time="1174.089"/>
+很好，很好，那這一碗多少錢
+</Turn>
+<Turn speaker="spk11" startTime="1177.014" endTime="1179.424">
+<Sync time="1177.014"/>
+那個五十塊
+</Turn>
+<Turn speaker="spk1" startTime="1179.424" endTime="1179.872">
+<Sync time="1179.424"/>
+#嗯？
+</Turn>
+<Turn speaker="spk11" startTime="1179.872" endTime="1181.001">
+<Sync time="1179.872"/>
+(())五十塊
+</Turn>
+<Turn speaker="spk1" startTime="1181.001" endTime="1185.492">
+<Sync time="1181.001"/>
+(())，這碗料這麼多六十五，它這碗五十塊，為什麼？
+</Turn>
+<Turn speaker="spk11" startTime="1185.492" endTime="1191.444">
+<Sync time="1185.492"/>
+這個是，完全都是用黑糖(())裡面，(())都是用(())的黑糖
+</Turn>
+<Turn speaker="spk13" startTime="1191.444" endTime="1192.348">
+<Sync time="1191.444"/>
+#嗯
+</Turn>
+<Turn speaker="spk11" startTime="1192.348" endTime="1193.846">
+<Sync time="1192.348"/>
+對，它的成本比較高
+</Turn>
+<Turn speaker="spk1" startTime="1193.846" endTime="1196.699">
+<Sync time="1193.846"/>
+(())，在東港還真不貴誒
+</Turn>
+<Turn speaker="spk3" startTime="1196.699" endTime="1197.314">
+<Sync time="1196.699"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="1197.314" endTime="1201.447">
+<Sync time="1197.314"/>
+黑糖比較貴，對不對，我們要，海鮮
+</Turn>
+<Turn speaker="spk3" startTime="1201.447" endTime="1203.013">
+<Sync time="1201.447"/>
+(())唄，它這個是
+</Turn>
+<Turn speaker="spk13" startTime="1203.013" endTime="1203.738">
+<Sync time="1203.013"/>
+外來的
+</Turn>
+<Turn speaker="spk3" startTime="1203.738" endTime="1205.343">
+<Sync time="1203.738"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="1205.343" endTime="1239.742">
+<Sync time="1205.343"/>
+這碗甜湯飯很不錯哦，因為白飯跟綠豆本身沒有甜味，所以和糖水混合在一起#啊，送去嘴裡不出意外的搭，甜度不膩，香氣十足，
+<Sync time="1216.301"/>
+也難怪沒招牌沒店面還能夠一賣#啊就是四十年，好的，吃飽喝足#啊，接著(())要去(())一下#啊
+<Sync time="1223.724"/>
+[music]
+<Sync time="1226.49"/>
+這個是東隆宮它的牌樓，大家有聽過這個迎王傳吧，對不對，就是每三年一次的在東港這邊都會舉辦的一個很大的這個祈福儀式
+</Turn>
+<Turn speaker="spk3" startTime="1239.742" endTime="1240.535">
+<Sync time="1239.742"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="1240.535" endTime="1304.034">
+<Sync time="1240.535"/>
+那所以這邊也象征了整個東港這邊的繁榮以及這個漁獲的繁盛，但聽說這個牌樓，它有一個秘密，至於這個裡面它到底有什麼秘密呢，
+<Sync time="1251.207"/>
+我們就是五分鐘，這五分鐘之內我們把這個秘密找出來，但為了增加這個，這個遊戲的，你知道刺激度，哦，所以這個，
+<Sync time="1261.63"/>
+(())說她自己要挺身而出，說要跟重，我們的(())來(())，兩個人要對賭，哦，我只是在旁邊協助，輸的就請和咖啡，好，五分鐘，好不好？計時開始
+<Sync time="1273.102"/>
+[music]
+<Sync time="1275.69"/>
+東港自古就是漁業大港，漁民靠天吃飯的關係因此#啊對信仰特別虔誠，尤其是每三年舉辦的迎王平安祭典#啊，幾乎是東港人全體總動員
+<Sync time="1288.403"/>
+可以說是當地非常重要的民俗盛世，而祖師溫王爺的東隆宮#啊，就是重要的舉辦單位哦
+<Sync time="1295.766"/>
+五分鐘，好不好，計時開始
+<Sync time="1298.065"/>
+&lt;lang:English&gt;GO&lt;/lang:English&gt;
+<Sync time="1298.652"/>
+[music]
+</Turn>
+<Turn speaker="spk3" startTime="1304.034" endTime="1311.932">
+<Sync time="1304.034"/>
+風調雨順，對#啊，風調雨順#啊，國泰民安
+</Turn>
+<Turn speaker="spk1" startTime="1311.932" endTime="1319.799">
+<Sync time="1311.932"/>
+剛剛(())解的秘密，(())，(())，(())
+</Turn>
+<Turn speaker="spk3" startTime="1319.799" endTime="1328.68">
+<Sync time="1319.799"/>
+哪裡#啊
+<Sync time="1321.039"/>
+[music]
+<Sync time="1324.408"/>
+所以秘密藏在這裡面嗎，(())這裡看起來沒有秘密嘞
+</Turn>
+<Turn speaker="spk14" startTime="1328.68" endTime="1329.235">
+<Sync time="1328.68"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1329.235" endTime="1332.298">
+<Sync time="1329.235"/>
+(())，(())是在對面哦
+</Turn>
+<Turn speaker="spk3" startTime="1332.298" endTime="1337.034">
+<Sync time="1332.298"/>
+(())，(())，(())講我秘密
+</Turn>
+<Turn speaker="spk1" startTime="1337.034" endTime="1338.758">
+<Sync time="1337.034"/>
+三分鐘了哦
+</Turn>
+<Turn speaker="spk3" startTime="1338.758" endTime="1342.939">
+<Sync time="1338.758"/>
+(())，要(())哦
+</Turn>
+<Turn speaker="spk1" startTime="1342.939" endTime="1346.03">
+<Sync time="1342.939"/>
+十秒就看出來(())
+</Turn>
+<Turn speaker="spk3" startTime="1346.03" endTime="1349.042">
+<Sync time="1346.03"/>
+看不出來啦
+</Turn>
+<Turn speaker="spk1" startTime="1349.042" endTime="1353.32">
+<Sync time="1349.042"/>
+我講你共十秒看出來,我沒有看出來，這很奸細的
+</Turn>
+<Turn speaker="spk3" startTime="1353.32" endTime="1359.475">
+<Sync time="1353.32"/>
+(())，龍，你知道了嗎？
+</Turn>
+<Turn speaker="spk1" startTime="1359.475" endTime="1362.499">
+<Sync time="1359.475"/>
+我覺得她一直叫我們在那一面，我覺得她答案應該在這一面
+</Turn>
+<Turn speaker="spk3" startTime="1362.499" endTime="1367.516">
+<Sync time="1362.499"/>
+哎呦
+<Sync time="1363.284"/>
+[music]
+</Turn>
+<Turn speaker="spk15" startTime="1367.516" endTime="1371.134">
+<Sync time="1367.516"/>
+一分鐘，倒計時一分鐘
+</Turn>
+<Turn speaker="spk1" startTime="1371.134" endTime="1373.948">
+<Sync time="1371.134"/>
+哪有，哦
+</Turn>
+<Turn speaker="spk3" startTime="1373.948" endTime="1376.14">
+<Sync time="1373.948"/>
+算了啦，領錢了啦，走，去領錢了，去領錢了
+</Turn>
+<Turn speaker="spk1" startTime="1376.14" endTime="1377.678">
+<Sync time="1376.14"/>
+(())
+</Turn>
+<Turn speaker="spk15" startTime="1377.678" endTime="1379.572">
+<Sync time="1377.678"/>
+倒數三十秒
+</Turn>
+<Turn speaker="spk3" startTime="1379.572" endTime="1382.318">
+<Sync time="1379.572"/>
+三十秒還有什麼可以看
+</Turn>
+<Turn speaker="spk1" startTime="1382.318" endTime="1384.252">
+<Sync time="1382.318"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="1384.252" endTime="1389.158">
+<Sync time="1384.252"/>
+沒有#啊，這都是正的#啊，這也沒有反#啊
+</Turn>
+<Turn speaker="spk15" startTime="1389.158" endTime="1401.206">
+<Sync time="1389.158"/>
+十秒，九，八，七，六，五，四，三，二，一，時間到
+</Turn>
+<Turn speaker="spk3" startTime="1401.206" endTime="1403.774">
+<Sync time="1401.206"/>
+我先去領錢咯，哈哈哈
+</Turn>
+<Turn speaker="spk1" startTime="1403.774" endTime="1405.379">
+<Sync time="1403.774"/>
+可我還沒看出來
+</Turn>
+<Turn speaker="spk15" startTime="1405.379" endTime="1406.608">
+<Sync time="1405.379"/>
+來來來(())
+</Turn>
+<Turn speaker="spk1" startTime="1406.608" endTime="1407.611">
+<Sync time="1406.608"/>
+很明顯嘛?
+</Turn>
+<Turn speaker="spk15" startTime="1407.611" endTime="1408.871">
+<Sync time="1407.611"/>
+很明顯哦
+</Turn>
+<Turn speaker="spk3" startTime="1408.871" endTime="1409.505">
+<Sync time="1408.871"/>
+什麼東西#啊
+</Turn>
+<Turn speaker="spk1" startTime="1409.505" endTime="1412.232">
+<Sync time="1409.505"/>
+字寫錯嘛，風調雨順吶
+</Turn>
+<Turn speaker="spk15" startTime="1412.232" endTime="1414.332">
+<Sync time="1412.232"/>
+哦，風調雨順，沒有錯#啊
+</Turn>
+<Turn speaker="spk1" startTime="1414.332" endTime="1414.887">
+<Sync time="1414.332"/>
+對#啊
+</Turn>
+<Turn speaker="spk15" startTime="1414.887" endTime="1416.643">
+<Sync time="1414.887"/>
+它這有個錯
+</Turn>
+<Turn speaker="spk3" startTime="1416.643" endTime="1417.428">
+<Sync time="1416.643"/>
+風有沒有
+</Turn>
+<Turn speaker="spk1" startTime="1417.428" endTime="1419.263">
+<Sync time="1417.428"/>
+哦，少一點哦
+</Turn>
+<Turn speaker="spk15" startTime="1419.263" endTime="1420.107">
+<Sync time="1419.263"/>
+這樣很多學子在這裡
+</Turn>
+<Turn speaker="spk3" startTime="1420.107" endTime="1421.415">
+<Sync time="1420.107"/>
+我先(())國字來
+</Turn>
+<Turn speaker="spk1" startTime="1421.415" endTime="1425.311">
+<Sync time="1421.415"/>
+哦，他們(())就很好#啊，風、調、雨、順，
+</Turn>
+<Turn speaker="spk15" startTime="1425.311" endTime="1429.722">
+<Sync time="1425.311"/>
+那麼裡面風為什麼會少一點，因為我們這裡是宜春#啊
+</Turn>
+<Turn speaker="spk1" startTime="1429.722" endTime="1430.071">
+<Sync time="1429.722"/>
+所以要少一點
+</Turn>
+<Turn speaker="spk15" startTime="1430.071" endTime="1433.293">
+<Sync time="1430.071"/>
+但是，但是不是少一個，增一個也是對
+</Turn>
+<Turn speaker="spk3" startTime="1433.293" endTime="1442.895">
+<Sync time="1433.293"/>
+(())，(())，風不是(())嘛，哦，我會了，哈哈哈哈
+</Turn>
+<Turn speaker="spk15" startTime="1442.895" endTime="1449.791">
+<Sync time="1442.895"/>
+但是也是，也是正確#啊，那個王羲之，東晉王羲之大師(())
+</Turn>
+<Turn speaker="spk1" startTime="1449.791" endTime="1452.248">
+<Sync time="1449.791"/>
+我都是學王羲之流派
+</Turn>
+<Turn speaker="spk3" startTime="1452.248" endTime="1456.664">
+<Sync time="1452.248"/>
+哈哈哈哈，我以後都知道風是這樣子寫了
+</Turn>
+<Turn speaker="spk1" startTime="1456.664" endTime="1498.348">
+<Sync time="1456.664"/>
+東隆宮的黃金牌樓工法非常細膩，耗時三年才完工，至於排樓上的風#啊，會少一點啦原來是(())希望，保佑東港漁民出海順利#啊,風少一點，(())了，
+<Sync time="1470.772"/>
+#嗯，奔跑完，肚子也餓了，想找點東西吃，董事長推薦我們在東港想吃豪華海鮮料理就要到這裡#啊
+<Sync time="1478.937"/>
+[music]
+<Sync time="1481.295"/>
+這一家餐廳#啊，我在門口看到它就覺得沒有特色，哦，黑鮪魚專賣的，哦，還有很多魚蝦，還有眼睛啦，
+<Sync time="1490.219"/>
+還有的骨髓啦，這裡它可以利用就可以利用，看他特色的，不是只有(())的料理
+<Sync time="1496.513"/>
+他的老闆也很有特色
+</Turn>
+<Turn speaker="spk16" startTime="1498.348" endTime="1502.521">
+<Sync time="1498.348"/>
+(())，(())，(())，沒有(())
+</Turn>
+<Turn speaker="spk1" startTime="1502.521" endTime="1503.532">
+<Sync time="1502.521"/>
+是不是有特色
+</Turn>
+<Turn speaker="spk16" startTime="1503.532" endTime="1503.98">
+<Sync time="1503.532"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1503.98" endTime="1505.775">
+<Sync time="1503.98"/>
+他就是長的比較(())的大哥
+</Turn>
+<Turn speaker="spk16" startTime="1505.775" endTime="1506.441">
+<Sync time="1505.775"/>
+哈哈哈哈哈
+</Turn>
+<Turn speaker="spk1" startTime="1506.441" endTime="1507.701">
+<Sync time="1506.441"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk16" startTime="1507.701" endTime="1509.088">
+<Sync time="1507.701"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1509.088" endTime="1511.902">
+<Sync time="1509.088"/>
+(())
+</Turn>
+<Turn speaker="spk16" startTime="1511.902" endTime="1512.833">
+<Sync time="1511.902"/>
+(())蜂巢蝦
+</Turn>
+<Turn speaker="spk1" startTime="1512.833" endTime="1516.935">
+<Sync time="1512.833"/>
+蜂巢蝦，(())，(())
+</Turn>
+<Turn speaker="spk16" startTime="1516.935" endTime="1519.61">
+<Sync time="1516.935"/>
+黑鮪魚的骨髓哦，(())就不脆了
+</Turn>
+<Turn speaker="spk1" startTime="1519.61" endTime="1522.622">
+<Sync time="1519.61"/>
+黑鮪魚的骨髓，(())
+</Turn>
+<Turn speaker="spk16" startTime="1522.622" endTime="1523.684">
+<Sync time="1522.622"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk1" startTime="1523.684" endTime="1524.347">
+<Sync time="1523.684"/>
+哦
+</Turn>
+<Turn speaker="spk16" startTime="1524.347" endTime="1538.387">
+<Sync time="1524.347"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1538.387" endTime="1539.608">
+<Sync time="1538.387"/>
+(())嘛
+</Turn>
+<Turn speaker="spk16" startTime="1539.608" endTime="1540.829">
+<Sync time="1539.608"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1540.829" endTime="1542.386">
+<Sync time="1540.829"/>
+黑鮪魚的眼睛(())
+</Turn>
+<Turn speaker="spk16" startTime="1542.386" endTime="1542.981">
+<Sync time="1542.386"/>
+對對對對
+</Turn>
+<Turn speaker="spk1" startTime="1542.981" endTime="1546.282">
+<Sync time="1542.981"/>
+(())
+</Turn>
+<Turn speaker="spk16" startTime="1546.282" endTime="1549.195">
+<Sync time="1546.282"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk1" startTime="1549.195" endTime="1552.068">
+<Sync time="1549.195"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;，它這個黑鮪魚(())
+</Turn>
+<Turn speaker="spk16" startTime="1552.068" endTime="1555.853">
+<Sync time="1552.068"/>
+(())，誒，黑鮪魚季節(())
+</Turn>
+<Turn speaker="spk1" startTime="1555.853" endTime="1557.093">
+<Sync time="1555.853"/>
+(())
+</Turn>
+<Turn speaker="spk16" startTime="1557.093" endTime="1563.791">
+<Sync time="1557.093"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1563.791" endTime="1567.31">
+<Sync time="1563.791"/>
+哦，(())
+</Turn>
+<Turn speaker="spk16" startTime="1567.31" endTime="1576.207">
+<Sync time="1567.31"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;黑鮪魚(())
+</Turn>
+<Turn speaker="spk1" startTime="1576.207" endTime="1595.484">
+<Sync time="1576.207"/>
+這位長的很像楊烈大哥的肖老闆以前#啊是一位捕魚船長#啊，二十三年前，轉行拜師學廚#啊，憑藉著多年的經驗，練就的(())技巧，
+<Sync time="1587.407"/>
+並(())以最高價標下第一尾#啊，為了保證這些高級食材，還設立的專區#啊
+<Sync time="1594.116"/>
+(())供為秘密基地#啊
+</Turn>
+<Turn speaker="spk16" startTime="1595.484" endTime="1596.823">
+<Sync time="1595.484"/>
+誒
+</Turn>
+<Turn speaker="spk1" startTime="1596.823" endTime="1597.259">
+<Sync time="1596.823"/>
+我們庫存
+</Turn>
+<Turn speaker="spk3" startTime="1597.259" endTime="1598.369">
+<Sync time="1597.259"/>
+來這裡要看什麼
+</Turn>
+<Turn speaker="spk1" startTime="1598.369" endTime="1600.053">
+<Sync time="1598.369"/>
+因為庫存(())
+</Turn>
+<Turn speaker="spk3" startTime="1600.053" endTime="1600.509">
+<Sync time="1600.053"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="1600.509" endTime="1611.071">
+<Sync time="1600.509"/>
+好了，我們要帶你去看那個，老闆哦，這一間店的命脈，(())這個地方，他這間店就
+</Turn>
+<Turn speaker="spk3" startTime="1611.071" endTime="1612.807">
+<Sync time="1611.071"/>
+這麼嚴重
+</Turn>
+<Turn speaker="spk1" startTime="1612.807" endTime="1615.87">
+<Sync time="1612.807"/>
+來，&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk16" startTime="1615.87" endTime="1620.15">
+<Sync time="1615.87"/>
+零下六十幾度嘞香檳島那樣呢
+</Turn>
+<Turn speaker="spk3" startTime="1620.15" endTime="1621.082">
+<Sync time="1620.15"/>
+六十幾度
+</Turn>
+<Turn speaker="spk16" startTime="1621.082" endTime="1621.589">
+<Sync time="1621.082"/>
+對#啊
+</Turn>
+<Turn speaker="spk3" startTime="1621.589" endTime="1622.651">
+<Sync time="1621.589"/>
+先不要穿
+</Turn>
+<Turn speaker="spk1" startTime="1622.651" endTime="1623.404">
+<Sync time="1622.651"/>
+先不要穿
+</Turn>
+<Turn speaker="spk3" startTime="1623.404" endTime="1624.276">
+<Sync time="1623.404"/>
+我想體驗看看
+</Turn>
+<Turn speaker="spk1" startTime="1624.276" endTime="1625.001">
+<Sync time="1624.276"/>
+(())
+</Turn>
+<Turn speaker="spk16" startTime="1625.001" endTime="1626.567">
+<Sync time="1625.001"/>
+(())了
+</Turn>
+<Turn speaker="spk3" startTime="1626.567" endTime="1628.64">
+<Sync time="1626.567"/>
+#啊，帶進去#啊，好
+</Turn>
+<Turn speaker="spk16" startTime="1628.64" endTime="1631.109">
+<Sync time="1628.64"/>
+(())你不在，(())
+</Turn>
+<Turn speaker="spk3" startTime="1631.109" endTime="1633.499">
+<Sync time="1631.109"/>
+(())在凍灰掉
+</Turn>
+<Turn speaker="spk1" startTime="1633.499" endTime="1636.305">
+<Sync time="1633.499"/>
+(())二十幾度哦，(())二十幾度(())
+</Turn>
+<Turn speaker="spk3" startTime="1636.305" endTime="1638.001">
+<Sync time="1636.305"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1638.001" endTime="1641.449">
+<Sync time="1638.001"/>
+(())，幹什麼進來#啊
+</Turn>
+<Turn speaker="spk3" startTime="1641.449" endTime="1642.531">
+<Sync time="1641.449"/>
+哎喲歪
+</Turn>
+<Turn speaker="spk1" startTime="1642.531" endTime="1645.357">
+<Sync time="1642.531"/>
+你這樣子(())哦，(())啦
+</Turn>
+<Turn speaker="spk3" startTime="1645.357" endTime="1646.3">
+<Sync time="1645.357"/>
+嗚呼呼
+</Turn>
+<Turn speaker="spk1" startTime="1646.3" endTime="1650.045">
+<Sync time="1646.3"/>
+我先退下在進去吼，吼吼吼
+</Turn>
+<Turn speaker="spk3" startTime="1650.045" endTime="1652.245">
+<Sync time="1650.045"/>
+吼吼吼
+</Turn>
+<Turn speaker="spk16" startTime="1652.245" endTime="1658.162">
+<Sync time="1652.245"/>
+你看你看，(())不用穿了，你看進來(())
+</Turn>
+<Turn speaker="spk1" startTime="1658.162" endTime="1660.155">
+<Sync time="1658.162"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="1660.155" endTime="1661.542">
+<Sync time="1660.155"/>
+(())
+</Turn>
+<Turn speaker="spk16" startTime="1661.542" endTime="1664.158">
+<Sync time="1661.542"/>
+來來來，(())
+</Turn>
+<Turn speaker="spk3" startTime="1664.158" endTime="1665.842">
+<Sync time="1664.158"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1665.842" endTime="1667.943">
+<Sync time="1665.842"/>
+哦吼，我這樣(())#啊
+</Turn>
+<Turn speaker="spk16" startTime="1667.943" endTime="1670.154">
+<Sync time="1667.943"/>
+哦
+</Turn>
+<Turn speaker="spk3" startTime="1670.154" endTime="1673.107">
+<Sync time="1670.154"/>
+哦，要(())了
+</Turn>
+<Turn speaker="spk1" startTime="1673.107" endTime="1674.05">
+<Sync time="1673.107"/>
+這個都是黑鮪魚啦
+</Turn>
+<Turn speaker="spk3" startTime="1674.05" endTime="1678.897">
+<Sync time="1674.05"/>
+哦，要(())，有了有了
+<Sync time="1676.765"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="1678.897" endTime="1683.129">
+<Sync time="1678.897"/>
+哦那(())出來(())出來(())出來，(())
+<Sync time="1682.218"/>
+[music]
+</Turn>
+<Turn speaker="spk3" startTime="1683.129" endTime="1686.399">
+<Sync time="1683.129"/>
+咳咳，咳咳
+</Turn>
+<Turn speaker="spk1" startTime="1686.399" endTime="1689.502">
+<Sync time="1686.399"/>
+我不誇張誒，我的鼻毛也結冰了
+</Turn>
+<Turn speaker="spk3" startTime="1689.502" endTime="1690.513">
+<Sync time="1689.502"/>
+好冷哦
+</Turn>
+<Turn speaker="spk1" startTime="1690.513" endTime="1702.941">
+<Sync time="1690.513"/>
+我(())出來(())出來，(())出來(())出來，你要(())，看拍得到我嗎，拍得到我嗎
+<Sync time="1701.344"/>
+是您霧還是我霧
+</Turn>
+<Turn speaker="spk15" startTime="1702.941" endTime="1704.031">
+<Sync time="1702.941"/>
+都霧了
+</Turn>
+<Turn speaker="spk1" startTime="1704.031" endTime="1704.4">
+<Sync time="1704.031"/>
+都霧了
+</Turn>
+<Turn speaker="spk3" startTime="1704.4" endTime="1705.779">
+<Sync time="1704.4"/>
+你也霧誒
+</Turn>
+<Turn speaker="spk1" startTime="1705.779" endTime="1716.055">
+<Sync time="1705.779"/>
+誒，我跟你說誒，裡面的呼吸那個，你，哦，應該是我霧，裡面呼吸那個鼻毛會結冰
+</Turn>
+<Turn speaker="spk16" startTime="1716.055" endTime="1717.204">
+<Sync time="1716.055"/>
+結冰
+</Turn>
+<Turn speaker="spk1" startTime="1717.204" endTime="1717.957">
+<Sync time="1717.204"/>
+你有感覺嗎？
+</Turn>
+<Turn speaker="spk3" startTime="1717.957" endTime="1720.573">
+<Sync time="1717.957"/>
+我是腳根本沒辦法彎了，感覺已經
+</Turn>
+<Turn speaker="spk1" startTime="1720.573" endTime="1722.467">
+<Sync time="1720.573"/>
+你就是在誇張了，吼，沒辦法彎
+</Turn>
+<Turn speaker="spk3" startTime="1722.467" endTime="1723.319">
+<Sync time="1722.467"/>
+就太冷了
+</Turn>
+<Turn speaker="spk1" startTime="1723.319" endTime="1733.167">
+<Sync time="1723.319"/>
+這個(())的保護，而且我發現哦，我本來以為要一整隻(())，(())一片一片真空包裝起來，所以也不會遲到冰箱的味道
+</Turn>
+<Turn speaker="spk16" startTime="1733.167" endTime="1733.516">
+<Sync time="1733.167"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="1733.516" endTime="1737.253">
+<Sync time="1733.516"/>
+看了他的那個解凍都要解凍的好，它的鮮度也不會跑掉
+</Turn>
+<Turn speaker="spk16" startTime="1737.253" endTime="1740.146">
+<Sync time="1737.253"/>
+對，(())秘密基地
+</Turn>
+<Turn speaker="spk1" startTime="1740.146" endTime="1741.276">
+<Sync time="1740.146"/>
+很會說話嘞
+</Turn>
+<Turn speaker="spk16" startTime="1741.276" endTime="1742.1">
+<Sync time="1741.276"/>
+嘿嘿嘿嘿，(())
+</Turn>
+<Turn speaker="spk1" startTime="1742.1" endTime="1745.053">
+<Sync time="1742.1"/>
+你講了哦，你接下來是在好好試一下黑鮪魚了
+</Turn>
+<Turn speaker="spk16" startTime="1745.053" endTime="1748.394">
+<Sync time="1745.053"/>
+哈哈哈哈哈，好#啊，好#啊，試看看#啊
+<Sync time="1747.403"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="1748.394" endTime="1768.392">
+<Sync time="1748.394"/>
+零下六十幾度的冰庫，真的不適開玩笑的，海鮮呢除了富含蛋白質，水分含量也比肉類高，所以儲存時#啊，溫度必須控制在超低溫的狀態才能夠保持跟剛捕撈上來一樣的新鮮度#啊
+<Sync time="1762.732"/>
+好，參觀完鮪魚別墅#啊，接下來換肖老闆功夫菜啦
+<Sync time="1766.953"/>
+[music]
+</Turn>
+<Turn speaker="spk16" startTime="1768.392" endTime="1768.998">
+<Sync time="1768.392"/>
+(())哈
+</Turn>
+<Turn speaker="spk1" startTime="1768.998" endTime="1771.594">
+<Sync time="1768.998"/>
+哦，(())吼
+</Turn>
+<Turn speaker="spk16" startTime="1771.594" endTime="1779.837">
+<Sync time="1771.594"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1779.837" endTime="1780.828">
+<Sync time="1779.837"/>
+(())哦
+</Turn>
+<Turn speaker="spk16" startTime="1780.828" endTime="1782.465">
+<Sync time="1780.828"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="1782.465" endTime="1786.896">
+<Sync time="1782.465"/>
+這些東西(())咯，用(())吼
+</Turn>
+<Turn speaker="spk16" startTime="1786.896" endTime="1794.517">
+<Sync time="1786.896"/>
+不，(())
+</Turn>
+<Turn speaker="spk1" startTime="1794.517" endTime="1795.639">
+<Sync time="1794.517"/>
+哦
+</Turn>
+<Turn speaker="spk16" startTime="1795.639" endTime="1798.207">
+<Sync time="1795.639"/>
+誒，那叫(())新狀態
+</Turn>
+<Turn speaker="spk1" startTime="1798.207" endTime="1798.885">
+<Sync time="1798.207"/>
+哦
+</Turn>
+<Turn speaker="spk16" startTime="1798.885" endTime="1803.534">
+<Sync time="1798.885"/>
+誒誒誒，(())
+</Turn>
+<Turn speaker="spk1" startTime="1803.534" endTime="1822.791">
+<Sync time="1803.534"/>
+這真的是功夫菜了
+<Sync time="1806.261"/>
+蜂巢蝦的做法是將白蝦去殼，裹上蛋汁后油炸，起鍋前，再將另外的(())從濾網中#啊篩入油鍋，形成蜂巢狀，這個菜#啊難度很高，
+<Sync time="1817.449"/>
+你看看剛剛的老闆手舉得這麼高，不知道還以為他在換電燈泡嘞
+</Turn>
+<Turn speaker="spk16" startTime="1822.791" endTime="1828.985">
+<Sync time="1822.791"/>
+(())，你看這個油花，(())
+</Turn>
+<Turn speaker="spk3" startTime="1828.985" endTime="1830.57">
+<Sync time="1828.985"/>
+看這個厚度
+</Turn>
+<Turn speaker="spk16" startTime="1830.57" endTime="1832.453">
+<Sync time="1830.57"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="1832.453" endTime="1833.04">
+<Sync time="1832.453"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="1833.04" endTime="1833.567">
+<Sync time="1833.04"/>
+#嗯
+</Turn>
+<Turn speaker="spk16" startTime="1833.567" endTime="1838.085">
+<Sync time="1833.567"/>
+這(())，剛剛加的是一定量的番茄
+</Turn>
+<Turn speaker="spk1" startTime="1838.085" endTime="1840.078">
+<Sync time="1838.085"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="1840.078" endTime="1840.673">
+<Sync time="1840.078"/>
+#嗯
+</Turn>
+<Turn speaker="spk16" startTime="1840.673" endTime="1846.55">
+<Sync time="1840.673"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk3" startTime="1846.55" endTime="1847.283">
+<Sync time="1846.55"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk16" startTime="1847.283" endTime="1848.334">
+<Sync time="1847.283"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk1" startTime="1848.334" endTime="1849.832">
+<Sync time="1848.334"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;
+</Turn>
+<Turn speaker="spk3" startTime="1849.832" endTime="1851.041">
+<Sync time="1849.832"/>
+(())#啊，#嗯
+</Turn>
+<Turn speaker="spk16" startTime="1851.041" endTime="1852.737">
+<Sync time="1851.041"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1852.737" endTime="1856.879">
+<Sync time="1852.737"/>
+(())，哈哈哈哈
+</Turn>
+<Turn speaker="spk3" startTime="1856.879" endTime="1858.119">
+<Sync time="1856.879"/>
+(())
+</Turn>
+<Turn speaker="spk16" startTime="1858.119" endTime="1861.904">
+<Sync time="1858.119"/>
+誒是，(())
+</Turn>
+<Turn speaker="spk1" startTime="1861.904" endTime="1862.459">
+<Sync time="1861.904"/>
+(())
+</Turn>
+<Turn speaker="spk16" startTime="1862.459" endTime="1865.285">
+<Sync time="1862.459"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1865.285" endTime="1865.931">
+<Sync time="1865.285"/>
+你試試看
+</Turn>
+<Turn speaker="spk16" startTime="1865.931" endTime="1868.301">
+<Sync time="1865.931"/>
+試試看，整塊整塊(())
+</Turn>
+<Turn speaker="spk1" startTime="1868.301" endTime="1873.128">
+<Sync time="1868.301"/>
+#嗯，這個甜度跟鹹度，#嗯
+</Turn>
+<Turn speaker="spk16" startTime="1873.128" endTime="1877.816">
+<Sync time="1873.128"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1877.816" endTime="1891.738">
+<Sync time="1877.816"/>
+就吃進去的呀，還沒吃就已經害怕了，對#啊，脆，跟你講過程當中油已經不斷的出來，但(())脆筍，整塊
+</Turn>
+<Turn speaker="spk16" startTime="1891.738" endTime="1895.206">
+<Sync time="1891.738"/>
+整塊整塊整塊，對
+</Turn>
+<Turn speaker="spk1" startTime="1895.206" endTime="1917.403">
+<Sync time="1895.206"/>
+哦，嘴角會不自覺的上揚，吼好吃，(())
+<Sync time="1902.292"/>
+來產地吃黑鮪魚#啊果然是不同凡響#啊，因為魚肉的油脂豐富，吃進嘴裡#啊，魚油會慢慢的散開，吃完後#啊還會口齒留香#啊，
+<Sync time="1911.696"/>
+哼，第一道就這個樣子，我看下一道#啊哎呀不得了#啊
+<Sync time="1915.956"/>
+這個是
+</Turn>
+<Turn speaker="spk16" startTime="1917.403" endTime="1919.495">
+<Sync time="1917.403"/>
+鮪魚的骨髓
+</Turn>
+<Turn speaker="spk1" startTime="1919.495" endTime="1921.913">
+<Sync time="1919.495"/>
+這個在市面上很少看到#啊
+</Turn>
+<Turn speaker="spk3" startTime="1921.913" endTime="1927.612">
+<Sync time="1921.913"/>
+我沒有吃過這個，我只有吃過牛骨髓而已，(())，布丁吧
+</Turn>
+<Turn speaker="spk1" startTime="1927.612" endTime="1928.932">
+<Sync time="1927.612"/>
+不知道還以為是布丁
+</Turn>
+<Turn speaker="spk3" startTime="1928.932" endTime="1929.538">
+<Sync time="1928.932"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="1929.538" endTime="1931.48">
+<Sync time="1929.538"/>
+來
+</Turn>
+<Turn speaker="spk3" startTime="1931.48" endTime="1934.611">
+<Sync time="1931.48"/>
+謝謝
+</Turn>
+<Turn speaker="spk16" startTime="1934.611" endTime="1937.873">
+<Sync time="1934.611"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="1937.873" endTime="1939.014">
+<Sync time="1937.873"/>
+多於的#啊
+</Turn>
+<Turn speaker="spk16" startTime="1939.014" endTime="1943.176">
+<Sync time="1939.014"/>
+(())多於誒，(())
+</Turn>
+<Turn speaker="spk1" startTime="1943.176" endTime="1945.189">
+<Sync time="1943.176"/>
+(())，你來
+</Turn>
+<Turn speaker="spk3" startTime="1945.189" endTime="1945.982">
+<Sync time="1945.189"/>
+哦，我來
+</Turn>
+<Turn speaker="spk16" startTime="1945.982" endTime="1947.064">
+<Sync time="1945.982"/>
+什麼鬼哦
+</Turn>
+<Turn speaker="spk1" startTime="1947.064" endTime="1954.709">
+<Sync time="1947.064"/>
+誒，出發咯
+<Sync time="1948.166"/>
+[music]
+<Sync time="1950.536"/>
+#嗯，#嗯，#嗯，#嗯
+</Turn>
+<Turn speaker="spk16" startTime="1954.709" endTime="1960.039">
+<Sync time="1954.709"/>
+安全不輸剛剛的(())，完全不輸
+</Turn>
+<Turn speaker="spk1" startTime="1960.039" endTime="1961.407">
+<Sync time="1960.039"/>
+然後注意他那個梅子醬
+</Turn>
+<Turn speaker="spk16" startTime="1961.407" endTime="1963.797">
+<Sync time="1961.407"/>
+梅子醬
+</Turn>
+<Turn speaker="spk3" startTime="1963.797" endTime="1964.423">
+<Sync time="1963.797"/>
+吼
+</Turn>
+<Turn speaker="spk1" startTime="1964.423" endTime="1984.619">
+<Sync time="1964.423"/>
+而且我剛剛在廚房裡面，他們是有跟我說，我說你會怎麼做，他說他會(())一下在放梅子醬，
+<Sync time="1969.852"/>
+台中的梅子醬，我還稍微猶豫了一下，他們梅子醬比較少(())這樣子，他們會怎麼弄
+<Sync time="1976.027"/>
+(())就是梅子醬，可是我們剛剛吸進去最經典的就只有那個梅子醬跟骨髓，在嘴巴里面蹦出來這個樣子，哦，沒有想到
+</Turn>
+<Turn speaker="spk3" startTime="1984.619" endTime="1987.445">
+<Sync time="1984.619"/>
+但它很清爽誒，我以為骨髓會吃起來很
+</Turn>
+<Turn speaker="spk1" startTime="1987.445" endTime="1987.833">
+<Sync time="1987.445"/>
+魚
+</Turn>
+<Turn speaker="spk3" startTime="1987.833" endTime="1989.727">
+<Sync time="1987.833"/>
+油膩還是
+</Turn>
+<Turn speaker="spk16" startTime="1989.727" endTime="1998.862">
+<Sync time="1989.727"/>
+這主要是(())，你們吸一下吼，它的骨髓從(())，(())骨髓(())
+</Turn>
+<Turn speaker="spk1" startTime="1998.862" endTime="1999.429">
+<Sync time="1998.862"/>
+塌下去
+</Turn>
+<Turn speaker="spk16" startTime="1999.429" endTime="2000.63">
+<Sync time="1999.429"/>
+塌下去
+</Turn>
+<Turn speaker="spk3" startTime="2000.63" endTime="2001.353">
+<Sync time="2000.63"/>
+哦
+</Turn>
+<Turn speaker="spk16" startTime="2001.353" endTime="2005.417">
+<Sync time="2001.353"/>
+你一看就感覺不一樣，(())
+</Turn>
+<Turn speaker="spk1" startTime="2005.417" endTime="2006.804">
+<Sync time="2005.417"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="2006.804" endTime="2007.993">
+<Sync time="2006.804"/>
+(())
+</Turn>
+<Turn speaker="spk16" startTime="2007.993" endTime="2009.46">
+<Sync time="2007.993"/>
+蜂巢(())，蜂巢蝦
+</Turn>
+<Turn speaker="spk1" startTime="2009.46" endTime="2013.574">
+<Sync time="2009.46"/>
+你有吃過蜂巢蝦嗎？你沒有吃過蜂巢蝦
+</Turn>
+<Turn speaker="spk3" startTime="2013.574" endTime="2014.091">
+<Sync time="2013.574"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2014.091" endTime="2015.627">
+<Sync time="2014.091"/>
+沒文化真可怕吼
+</Turn>
+<Turn speaker="spk3" startTime="2015.627" endTime="2018.413">
+<Sync time="2015.627"/>
+不能這樣講#啊，人都有第一次
+</Turn>
+<Turn speaker="spk1" startTime="2018.413" endTime="2023.557">
+<Sync time="2018.413"/>
+(())第一(())是鮮蝦哦，然後第二(())呢是他的面漿哦
+</Turn>
+<Turn speaker="spk3" startTime="2023.557" endTime="2024.064">
+<Sync time="2023.557"/>
+謝謝
+</Turn>
+<Turn speaker="spk1" startTime="2024.064" endTime="2024.5">
+<Sync time="2024.064"/>
+這上面是鴨蛋
+</Turn>
+<Turn speaker="spk3" startTime="2024.5" endTime="2026.858">
+<Sync time="2024.5"/>
+上面是鴨蛋
+</Turn>
+<Turn speaker="spk16" startTime="2026.858" endTime="2029.513">
+<Sync time="2026.858"/>
+而且他(())還很驚人哦
+</Turn>
+<Turn speaker="spk3" startTime="2029.513" endTime="2031.178">
+<Sync time="2029.513"/>
+吼
+</Turn>
+<Turn speaker="spk16" startTime="2031.178" endTime="2035.827">
+<Sync time="2031.178"/>
+我去，我去拿一點這個
+</Turn>
+<Turn speaker="spk1" startTime="2035.827" endTime="2037.523">
+<Sync time="2035.827"/>
+首先先從這一塊開始
+</Turn>
+<Turn speaker="spk3" startTime="2037.523" endTime="2037.821">
+<Sync time="2037.523"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="2037.821" endTime="2051.253">
+<Sync time="2037.821"/>
+這一塊嘞，基本上一隻鴨蛋熟了，諾
+<Sync time="2045.211"/>
+你如果是要鴨蛋我沒有告訴你的，我跟你說它這個鴨蛋就是弄完之後你把它撒糖下去它就很跟那個蛋卷一樣
+</Turn>
+<Turn speaker="spk3" startTime="2051.253" endTime="2052.256">
+<Sync time="2051.253"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="2052.256" endTime="2053.1">
+<Sync time="2052.256"/>
+很脆爽
+</Turn>
+<Turn speaker="spk3" startTime="2053.1" endTime="2053.654">
+<Sync time="2053.1"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="2053.654" endTime="2064.355">
+<Sync time="2053.654"/>
+然後，你(())看哦，他不是，他就是整鍋都是油，一點都不覺得油膩，哦，(())，(())，(())、
+</Turn>
+<Turn speaker="spk16" startTime="2064.355" endTime="2065.187">
+<Sync time="2064.355"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2065.187" endTime="2092.741">
+<Sync time="2065.187"/>
+這道(())骨髓口感呢很像滑嫩的果凍，搭配#啊，酸甜醬汁#啊，剛剛好#啊，另外#啊這道蜂巢蝦不論是形狀、香氣都很誘人，真的是台菜中的經典
+<Sync time="2077.636"/>
+肖老闆的漁夫料理不止新鮮還很大氣，很值得來品嘗哦，提到了東港名產，還有一樣東西#啊，是這個季節你不能錯過的
+<Sync time="2087.555"/>
+[music]
+<Sync time="2091.413"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="2092.741" endTime="2093.684">
+<Sync time="2092.741"/>
+你好
+</Turn>
+<Turn speaker="spk1" startTime="2093.684" endTime="2095.935">
+<Sync time="2093.684"/>
+這是，烏魚子
+</Turn>
+<Turn speaker="spk17" startTime="2095.935" endTime="2097.374">
+<Sync time="2095.935"/>
+烏魚子
+</Turn>
+<Turn speaker="spk1" startTime="2097.374" endTime="2098.337">
+<Sync time="2097.374"/>
+這個是魷魚籽
+</Turn>
+<Turn speaker="spk17" startTime="2098.337" endTime="2098.733">
+<Sync time="2098.337"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2098.733" endTime="2100.259">
+<Sync time="2098.733"/>
+(())是季節(())
+</Turn>
+<Turn speaker="spk17" startTime="2100.259" endTime="2101.448">
+<Sync time="2100.259"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2101.448" endTime="2103.64">
+<Sync time="2101.448"/>
+哦，那你現在在幹嘛
+</Turn>
+<Turn speaker="spk17" startTime="2103.64" endTime="2106.069">
+<Sync time="2103.64"/>
+就是做鮮切這個
+</Turn>
+<Turn speaker="spk18" startTime="2106.069" endTime="2106.545">
+<Sync time="2106.069"/>
+烏魚子
+</Turn>
+<Turn speaker="spk17" startTime="2106.545" endTime="2109.133">
+<Sync time="2106.545"/>
+(())，這個是它的血管(())
+</Turn>
+<Turn speaker="spk1" startTime="2109.133" endTime="2109.779">
+<Sync time="2109.133"/>
+嘿嘿
+</Turn>
+<Turn speaker="spk17" startTime="2109.779" endTime="2123.305">
+<Sync time="2109.779"/>
+(())，盡量能夠(())出去就(())出去，它因為這種是野生的(())，野生的，野生的比較(())，它有一段的時間了
+</Turn>
+<Turn speaker="spk1" startTime="2123.305" endTime="2125.655">
+<Sync time="2123.305"/>
+等一下，(())幾塊(())
+</Turn>
+<Turn speaker="spk17" startTime="2125.655" endTime="2126.349">
+<Sync time="2125.655"/>
+#啊？
+</Turn>
+<Turn speaker="spk1" startTime="2126.349" endTime="2127.054">
+<Sync time="2126.349"/>
+你還要擠出來(())
+</Turn>
+<Turn speaker="spk17" startTime="2127.054" endTime="2128.263">
+<Sync time="2127.054"/>
+(())多於的#啊
+</Turn>
+<Turn speaker="spk1" startTime="2128.263" endTime="2130.78">
+<Sync time="2128.263"/>
+(())多於誒，(())
+</Turn>
+<Turn speaker="spk17" startTime="2130.78" endTime="2137.509">
+<Sync time="2130.78"/>
+它有(())
+</Turn>
+<Turn speaker="spk1" startTime="2137.509" endTime="2139.075">
+<Sync time="2137.509"/>
+(())
+</Turn>
+<Turn speaker="spk17" startTime="2139.075" endTime="2142.455">
+<Sync time="2139.075"/>
+#啊？(())
+</Turn>
+<Turn speaker="spk3" startTime="2142.455" endTime="2142.852">
+<Sync time="2142.455"/>
+#嗯
+</Turn>
+<Turn speaker="spk17" startTime="2142.852" endTime="2153.346">
+<Sync time="2142.852"/>
+&lt;lang:Hakka&gt;(())&lt;/lang:Hakka&gt;它就看它大，它的大小
+</Turn>
+<Turn speaker="spk1" startTime="2153.346" endTime="2153.599">
+<Sync time="2153.346"/>
+誒
+</Turn>
+<Turn speaker="spk17" startTime="2153.599" endTime="2159.291">
+<Sync time="2153.599"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="2159.291" endTime="2160.175">
+<Sync time="2159.291"/>
+有兩米
+</Turn>
+<Turn speaker="spk17" startTime="2160.175" endTime="2161.079">
+<Sync time="2160.175"/>
+大一點(())
+</Turn>
+<Turn speaker="spk3" startTime="2161.079" endTime="2165.331">
+<Sync time="2161.079"/>
+可是它遲到那邊破掉的地方口感會很明顯不同吧
+</Turn>
+<Turn speaker="spk17" startTime="2165.331" endTime="2170.039">
+<Sync time="2165.331"/>
+破掉(())，(())
+</Turn>
+<Turn speaker="spk1" startTime="2170.039" endTime="2192.111">
+<Sync time="2170.039"/>
+(())的烏魚子#啊，機具價值，獨特風味是饕客口中的絕評，更是過年時#啊不可或缺的美食，而決定烏魚子品質#啊，加工方式也是很重要，
+<Sync time="2183.42"/>
+大哥#啊先去除殘留的血絲，再用棉繩將切口綁緊，看起來有點難誒
+<Sync time="2189.88"/>
+誒，我來挑一個
+</Turn>
+<Turn speaker="spk3" startTime="2192.111" endTime="2193.617">
+<Sync time="2192.111"/>
+(())
+</Turn>
+<Turn speaker="spk17" startTime="2193.617" endTime="2195.183">
+<Sync time="2193.617"/>
+這個做完它會(())
+</Turn>
+<Turn speaker="spk1" startTime="2195.183" endTime="2208.332">
+<Sync time="2195.183"/>
+#啊，我現在可以這樣子#啊，哎喲，他說這個，我剛剛他用(())咯，稍微像這種(())，(())，像這個模要不要拿起來
+</Turn>
+<Turn speaker="spk17" startTime="2208.332" endTime="2211.463">
+<Sync time="2208.332"/>
+模可以拿就拿起來，(())
+</Turn>
+<Turn speaker="spk1" startTime="2211.463" endTime="2212.157">
+<Sync time="2211.463"/>
+(())
+</Turn>
+<Turn speaker="spk17" startTime="2212.157" endTime="2218.688">
+<Sync time="2212.157"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2218.688" endTime="2223.959">
+<Sync time="2218.688"/>
+我算是發現一件事情，如果照我這樣子摸的方式，我跟你說我包到後年也包不完
+</Turn>
+<Turn speaker="spk3" startTime="2223.959" endTime="2225.913">
+<Sync time="2223.959"/>
+哈哈哈哈
+</Turn>
+<Turn speaker="spk1" startTime="2225.913" endTime="2233.296">
+<Sync time="2225.913"/>
+對哦，往裡面擠，它這個就是(())，對不對，(())
+</Turn>
+<Turn speaker="spk17" startTime="2233.296" endTime="2241.817">
+<Sync time="2233.296"/>
+(())，力度(())
+</Turn>
+<Turn speaker="spk3" startTime="2241.817" endTime="2243.573">
+<Sync time="2241.817"/>
+所以他是讓它鬆口就對了
+</Turn>
+<Turn speaker="spk17" startTime="2243.573" endTime="2244.041">
+<Sync time="2243.573"/>
+誒
+</Turn>
+<Turn speaker="spk1" startTime="2244.041" endTime="2245.38">
+<Sync time="2244.041"/>
+他捏的時候不能太用力
+</Turn>
+<Turn speaker="spk3" startTime="2245.38" endTime="2246.054">
+<Sync time="2245.38"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="2246.054" endTime="2247.62">
+<Sync time="2246.054"/>
+不然它(())
+</Turn>
+<Turn speaker="spk3" startTime="2247.62" endTime="2250.644">
+<Sync time="2247.62"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="2250.644" endTime="2254.005">
+<Sync time="2250.644"/>
+(())，你來
+</Turn>
+<Turn speaker="spk3" startTime="2254.005" endTime="2255.226">
+<Sync time="2254.005"/>
+哦，我來
+</Turn>
+<Turn speaker="spk17" startTime="2255.226" endTime="2256.05">
+<Sync time="2255.226"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="2256.05" endTime="2256.902">
+<Sync time="2256.05"/>
+我試試看看
+</Turn>
+<Turn speaker="spk17" startTime="2256.902" endTime="2269.826">
+<Sync time="2256.902"/>
+#嗯
+<Sync time="2257.299"/>
+[music]
+<Sync time="2266.763"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="2269.826" endTime="2277.348">
+<Sync time="2269.826"/>
+哦
+<Sync time="2270.104"/>
+[music]
+</Turn>
+<Turn speaker="spk17" startTime="2277.348" endTime="2280.697">
+<Sync time="2277.348"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="2280.697" endTime="2284.077">
+<Sync time="2280.697"/>
+(())，我做好了
+</Turn>
+<Turn speaker="spk1" startTime="2284.077" endTime="2284.479">
+<Sync time="2284.077"/>
+好了
+</Turn>
+<Turn speaker="spk3" startTime="2284.479" endTime="2285.207">
+<Sync time="2284.479"/>
+哇
+</Turn>
+<Turn speaker="spk1" startTime="2285.207" endTime="2286.19">
+<Sync time="2285.207"/>
+(())
+</Turn>
+<Turn speaker="spk17" startTime="2286.19" endTime="2288.164">
+<Sync time="2286.19"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2288.164" endTime="2290.316">
+<Sync time="2288.164"/>
+(())變成學子，有(())嗎、
+</Turn>
+<Turn speaker="spk17" startTime="2290.316" endTime="2295.004">
+<Sync time="2290.316"/>
+因為(())
+</Turn>
+<Turn speaker="spk1" startTime="2295.004" endTime="2336.673">
+<Sync time="2295.004"/>
+我們倆一模一樣，她就是學子的那個多了一個香味(())
+<Sync time="2300.017"/>
+誒，出發咯
+<Sync time="2301.008"/>
+[music]
+<Sync time="2302.974"/>
+烏魚子的製成最難掌握的就是鹽的用量跟醃製的時間了，用量過多會苦鹹，太少是味道不足，而且容易變質，覺得現在#啊，講求健康#啊
+<Sync time="2313.179"/>
+方大哥也研究了新方法，除了減少鹽量，醃製時間也縮短至四十分鐘，存放在冰箱裡三天后才拿出來曬，這樣的做法呢主要是讓烏魚子慢慢入圍啦
+<Sync time="2325.422"/>
+吃起來太不會太(())鹹了
+<Sync time="2326.991"/>
+[music]
+<Sync time="2335.206"/>
+吼，(())準備曬#啊
+</Turn>
+<Turn speaker="spk17" startTime="2336.673" endTime="2337.022">
+<Sync time="2336.673"/>
+對#啊
+</Turn>
+<Turn speaker="spk1" startTime="2337.022" endTime="2339.967">
+<Sync time="2337.022"/>
+那可是曬為什麼沒按這個時間曬，(())
+</Turn>
+<Turn speaker="spk17" startTime="2339.967" endTime="2340.97">
+<Sync time="2339.967"/>
+因為(())
+</Turn>
+<Turn speaker="spk1" startTime="2340.97" endTime="2342.072">
+<Sync time="2340.97"/>
+(())
+</Turn>
+<Turn speaker="spk17" startTime="2342.072" endTime="2347.057">
+<Sync time="2342.072"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2347.057" endTime="2347.672">
+<Sync time="2347.057"/>
+(())
+</Turn>
+<Turn speaker="spk17" startTime="2347.672" endTime="2354.369">
+<Sync time="2347.672"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2354.369" endTime="2357.48">
+<Sync time="2354.369"/>
+哦，反正是不夠(())太陽會，哦
+</Turn>
+<Turn speaker="spk17" startTime="2357.48" endTime="2361.84">
+<Sync time="2357.48"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2361.84" endTime="2366.251">
+<Sync time="2361.84"/>
+(())，我看到這一圈裡面有一片(())在(())
+</Turn>
+<Turn speaker="spk3" startTime="2366.251" endTime="2368.304">
+<Sync time="2366.251"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2368.304" endTime="2369.663">
+<Sync time="2368.304"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="2369.663" endTime="2370.555">
+<Sync time="2369.663"/>
+為什麼
+</Turn>
+<Turn speaker="spk1" startTime="2370.555" endTime="2372.013">
+<Sync time="2370.555"/>
+這有豬場對不對
+</Turn>
+<Turn speaker="spk3" startTime="2372.013" endTime="2375.679">
+<Sync time="2372.013"/>
+#啊
+<Sync time="2373.301"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="2375.679" endTime="2379.087">
+<Sync time="2375.679"/>
+你看，這片[music]，這片是豬場嘛
+</Turn>
+<Turn speaker="spk17" startTime="2379.087" endTime="2385.587">
+<Sync time="2379.087"/>
+對#啊，(())
+</Turn>
+<Turn speaker="spk1" startTime="2385.587" endTime="2386.91">
+<Sync time="2385.587"/>
+(())
+</Turn>
+<Turn speaker="spk17" startTime="2386.91" endTime="2388.492">
+<Sync time="2386.91"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2388.492" endTime="2389.454">
+<Sync time="2388.492"/>
+(())豬場
+</Turn>
+<Turn speaker="spk17" startTime="2389.454" endTime="2391.804">
+<Sync time="2389.454"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2391.804" endTime="2397.372">
+<Sync time="2391.804"/>
+這個上面是有啦，這個只有一點點(())，然後這個是比較厚的看的清楚
+</Turn>
+<Turn speaker="spk3" startTime="2397.372" endTime="2398.878">
+<Sync time="2397.372"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="2398.878" endTime="2399.671">
+<Sync time="2398.878"/>
+#啊你那個有嗎
+</Turn>
+<Turn speaker="spk3" startTime="2399.671" endTime="2400.258">
+<Sync time="2399.671"/>
+這個有
+</Turn>
+<Turn speaker="spk1" startTime="2400.258" endTime="2401.32">
+<Sync time="2400.258"/>
+他這裡是比較厚#啊
+</Turn>
+<Turn speaker="spk3" startTime="2401.32" endTime="2404.154">
+<Sync time="2401.32"/>
+也是比較厚的，對#啊
+</Turn>
+<Turn speaker="spk1" startTime="2404.154" endTime="2406.92">
+<Sync time="2404.154"/>
+哦，原來豬場跟烏魚子是好朋友呢
+</Turn>
+<Turn speaker="spk3" startTime="2406.92" endTime="2408.743">
+<Sync time="2406.92"/>
+但是豬場是生的
+</Turn>
+<Turn speaker="spk17" startTime="2408.743" endTime="2409.873">
+<Sync time="2408.743"/>
+生的
+</Turn>
+<Turn speaker="spk1" startTime="2409.873" endTime="2411.312">
+<Sync time="2409.873"/>
+幹嘛你餓了，是不是要吃熟的對不對
+</Turn>
+<Turn speaker="spk3" startTime="2411.312" endTime="2411.601">
+<Sync time="2411.312"/>
+沒有
+</Turn>
+<Turn speaker="spk1" startTime="2411.601" endTime="2413.087">
+<Sync time="2411.601"/>
+(())熟的我們有啦
+</Turn>
+<Turn speaker="spk3" startTime="2413.087" endTime="2414.554">
+<Sync time="2413.087"/>
+哦
+</Turn>
+<Turn speaker="spk1" startTime="2414.554" endTime="2416.884">
+<Sync time="2414.554"/>
+你看，是不是熟的
+</Turn>
+<Turn speaker="spk3" startTime="2416.884" endTime="2417.538">
+<Sync time="2416.884"/>
+哇
+</Turn>
+<Turn speaker="spk1" startTime="2417.538" endTime="2418.549">
+<Sync time="2417.538"/>
+(())
+</Turn>
+<Turn speaker="spk17" startTime="2418.549" endTime="2420.741">
+<Sync time="2418.549"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2420.741" endTime="2422.14">
+<Sync time="2420.741"/>
+(())學子#啊
+</Turn>
+<Turn speaker="spk3" startTime="2422.14" endTime="2423.024">
+<Sync time="2422.14"/>
+學子
+</Turn>
+<Turn speaker="spk1" startTime="2423.024" endTime="2423.928">
+<Sync time="2423.024"/>
+(())
+</Turn>
+<Turn speaker="spk17" startTime="2423.928" endTime="2424.316">
+<Sync time="2423.928"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="2424.316" endTime="2425.406">
+<Sync time="2424.316"/>
+(())是什麼
+</Turn>
+<Turn speaker="spk17" startTime="2425.406" endTime="2426.318">
+<Sync time="2425.406"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2426.318" endTime="2426.984">
+<Sync time="2426.318"/>
+亮聲一點
+</Turn>
+<Turn speaker="spk17" startTime="2426.984" endTime="2430.84">
+<Sync time="2426.984"/>
+它可是它(())
+</Turn>
+<Turn speaker="spk3" startTime="2430.84" endTime="2432.96">
+<Sync time="2430.84"/>
+但(())是怎樣才可以有(())
+</Turn>
+<Turn speaker="spk1" startTime="2432.96" endTime="2434.783">
+<Sync time="2432.96"/>
+裡面充滿血
+</Turn>
+<Turn speaker="spk3" startTime="2434.783" endTime="2435.596">
+<Sync time="2434.783"/>
+所以是
+</Turn>
+<Turn speaker="spk1" startTime="2435.596" endTime="2437.213">
+<Sync time="2435.596"/>
+(())變成(())子
+</Turn>
+<Turn speaker="spk17" startTime="2437.213" endTime="2438.493">
+<Sync time="2437.213"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2438.493" endTime="2439.164">
+<Sync time="2438.493"/>
+有(())嗎
+</Turn>
+<Turn speaker="spk17" startTime="2439.164" endTime="2444.854">
+<Sync time="2439.164"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2444.854" endTime="2450.672">
+<Sync time="2444.854"/>
+內出血#啊，(())一模一樣，他這是(())的那個多了一個香味
+</Turn>
+<Turn speaker="spk17" startTime="2450.672" endTime="2466.818">
+<Sync time="2450.672"/>
+(())過程(())，他們就在賣了，尤其是(())(())，腥味會比較重
+<Sync time="2465.446"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="2466.818" endTime="2494.135">
+<Sync time="2466.818"/>
+大哥說曬烏魚子#啊，不止看風勢氣象，每隔一兩個小時還要反復翻面，剩下全憑經驗的累積，過程反復#啊且不易，所以我決定不浪費食材，
+<Sync time="2478.121"/>
+就用剛剛剩下的魚卵做一道料理#啊，來觀眾朋友們，咱們做菜了#啊
+<Sync time="2483.661"/>
+[music]
+<Sync time="2485.9"/>
+ 我們的重點是在這一碗，他剩下，他要把他拌進去，在把他拌到面上去，我聚德應該會很好
+</Turn>
+<Turn speaker="spk3" startTime="2494.135" endTime="2495.474">
+<Sync time="2494.135"/>
+這樣誇獎會不會太直接了吧
+</Turn>
+<Turn speaker="spk1" startTime="2495.474" endTime="2496.703">
+<Sync time="2495.474"/>
+可以#啊可以#啊當然
+</Turn>
+<Turn speaker="spk3" startTime="2496.703" endTime="2497.238">
+<Sync time="2496.703"/>
+好好吃哦
+</Turn>
+<Turn speaker="spk1" startTime="2497.238" endTime="2620.093">
+<Sync time="2497.238"/>
+我應該講說沒想到你年紀輕輕的吃東西的嗜好這麼老味道
+<Sync time="2502.786"/>
+誒，出發咯
+<Sync time="2504.431"/>
+哦，現在呢，就是用豬油，然後來炒這個(())菇，把菇的香味炒出來，水分跑掉，然後，原則上嘞，我們的重點是在這一碗
+<Sync time="2518.492"/>
+哦，他剩下了，然後給他拌進去，再把他拌到面上去，我覺得應該會很好，
+<Sync time="2526.102"/>
+好，你現在看這個，它的明顯，你看這個油#啊，它變成比較透亮了，代表它這個水分已經被我們炒的差不多了
+<Sync time="2535.030"/>
+然後這時候就把蒜苗放進來，大概就好，哦因為其實蒜苗的話，比較好是直接拌的，所以我不太希望說那個用(())或是蒜影響到它的味道
+<Sync time="2548.358"/>
+然後，這個時候有點油對不對，好火關掉，就把這個蛋，好吧，放進來，
+<Sync time="2556.324"/>
+因為如果你火沒有關掉，它會噴的，把它拌一拌，它現在蛋就熟了
+<Sync time="2563.746"/>
+很妙哦，就是如果魚卵是生的狀態下吃起來甜甜的，帶點微微的香氣，
+<Sync time="2569.456"/>
+但它如果熟的話，它會反而有點腥味出來，(())，就是把它稍微拌一拌，讓它有油脂香
+<Sync time="2577.846"/>
+好，那現在可以來煮麵
+<Sync time="2581.326"/>
+[music]
+<Sync time="2582.883"/>
+魚卵#啊不論是拿來拌飯拌麵或是入菜#啊都很合適，今天呢，我就要拿來拌麵咯，接下來的做法很簡單，將麵條及青菜煮熟，起鍋后淋上少許的豬油跟(())#啊，
+<Sync time="2594.665"/>
+最後鋪上炒好的魚卵就完成了，這碗魚卵拌麵光是用聞的就香氣十足，香氣呢絕對不會讓人失望，來，我們上菜咯
+<Sync time="2606.633"/>
+來，你們先吃，(())，(())
+<Sync time="2613.76"/>
+[music]
+<Sync time="2618.686"/>
+(())
+</Turn>
+<Turn speaker="spk17" startTime="2620.093" endTime="2621.195">
+<Sync time="2620.093"/>
+(())
+</Turn>
+<Turn speaker="spk1" startTime="2621.195" endTime="2622.435">
+<Sync time="2621.195"/>
+(())
+</Turn>
+<Turn speaker="spk3" startTime="2622.435" endTime="2628.202">
+<Sync time="2622.435"/>
+想說你年紀輕輕煮起來超有古早味的，哈哈哈哈
+</Turn>
+<Turn speaker="spk1" startTime="2628.202" endTime="2631.028">
+<Sync time="2628.202"/>
+我可以打她嘛，哈哈哈
+</Turn>
+<Turn speaker="spk3" startTime="2631.028" endTime="2632.467">
+<Sync time="2631.028"/>
+這樣誇獎(())直接了吧
+</Turn>
+<Turn speaker="spk1" startTime="2632.467" endTime="2633.707">
+<Sync time="2632.467"/>
+可以#啊可以#啊當然
+</Turn>
+<Turn speaker="spk3" startTime="2633.707" endTime="2634.282">
+<Sync time="2633.707"/>
+好好吃哦
+</Turn>
+<Turn speaker="spk1" startTime="2634.282" endTime="2669.668">
+<Sync time="2634.282"/>
+我應該講說沒有發現你年經輕輕的，吃東西的嗜好這麼老味道哦，哈哈哈哈
+<Sync time="2641.138"/>
+做菜不論是食材的嚴選，或是料理的堅持，都是為了讓吃的人吶在品嘗美食的同時，多感受到一份用心，
+<Sync time="2650.729"/>
+這次跟(())一起來到東港看到的不止是只有美食、產業還有文化，但最令人念念不忘的還是東港朋友們的濃濃人情味
+<Sync time="2661.088"/>
+[music]
+</Turn>
+</Section>
+</Episode>
+</Trans>

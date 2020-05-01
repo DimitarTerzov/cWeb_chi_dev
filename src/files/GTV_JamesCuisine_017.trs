@@ -1,0 +1,3871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Administrator" audio_filename="GTV_JamesCuisine_017" version="19" version_date="200402">
+<Speakers>
+<Speaker id="spk1" name="james" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="fuzhaorong" check="no" type="female" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="woman1" check="no" type="female" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="zhanghongyue" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="man1" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="man2" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk7" name="man3" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk8" name="man4" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk9" name="man5" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk10" name="man6" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk11" name="man7" check="no" dialect="native" accent="" scope="local" type="male"/>
+<Speaker id="spk12" name="man8" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk13" name="woman2" check="no" type="female" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="2682.810">
+<Turn startTime="0" endTime="27.61" speaker="spk1">
+<Sync time="0"/>
+[music]
+<Sync time="7.081"/>
+[music]
+<Sync time="11.392"/>
+哎，出發嘍
+<Sync time="14.272"/>
+是的，我們現在就在二林這個地方
+<Sync time="17.266"/>
+[music]
+<Sync time="22.673"/>
+哦，你可以往前一點，來
+<Sync time="26.231"/>
+蹲的很好，我要放下來嘍
+</Turn>
+<Turn speaker="spk2" startTime="27.61" endTime="29.889">
+<Sync time="27.61"/>
+[laugh]
+</Turn>
+<Turn speaker="spk1" startTime="29.889" endTime="38.068">
+<Sync time="29.889"/>
+為什麼在這邊開場呢
+<Sync time="31.322"/>
+首先像這樣子的攤子的早餐店呢
+<Sync time="33.899"/>
+原則上在台北比較少見
+<Sync time="35.864"/>
+台北現在已經都[overlap]進駐到店裡面去了
+</Turn>
+<Turn speaker="spk2" startTime="38.068" endTime="38.354">
+<Sync time="38.068"/>
+沒錯
+</Turn>
+<Turn speaker="spk1" startTime="38.354" endTime="38.766">
+<Sync time="38.354"/>
+對不對
+</Turn>
+<Turn speaker="spk2" startTime="38.766" endTime="38.928">
+<Sync time="38.766"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="38.928" endTime="44.998">
+<Sync time="38.928"/>
+我曾經去秘魯出外景的時候咧
+<Sync time="40.928"/>
+去吃它的早餐店就像這個樣子
+<Sync time="43.161"/>
+來，不要客氣，你要點什麼
+</Turn>
+<Turn speaker="spk2" startTime="44.998" endTime="47.186">
+<Sync time="44.998"/>
+吃什麼嗎
+</Turn>
+<Turn speaker="spk1" startTime="47.186" endTime="50.171">
+<Sync time="47.186"/>
+對
+<Sync time="48.559"/>
+我要一個漢堡加蛋
+</Turn>
+<Turn speaker="spk3" startTime="50.171" endTime="50.497">
+<Sync time="50.171"/>
+好
+</Turn>
+<Turn speaker="spk1" startTime="50.497" endTime="51.496">
+<Sync time="50.497"/>
+好，你呢
+</Turn>
+<Turn speaker="spk2" startTime="51.496" endTime="53.201">
+<Sync time="51.496"/>
+這邊最多人點的是什麼
+</Turn>
+<Turn speaker="spk3" startTime="53.201" endTime="53.934">
+<Sync time="53.201"/>
+漢堡
+</Turn>
+<Turn speaker="spk2" startTime="53.934" endTime="54.732">
+<Sync time="53.934"/>
+漢堡喔
+</Turn>
+<Turn speaker="spk3" startTime="54.732" endTime="55.1">
+<Sync time="54.732"/>
+對
+</Turn>
+<Turn speaker="spk2" startTime="55.1" endTime="56.388">
+<Sync time="55.1"/>
+哇，那這樣我吃
+</Turn>
+<Turn speaker="spk1" startTime="56.388" endTime="58.775">
+<Sync time="56.388"/>
+你看，假會，想說假會一下，沒想到跟我點的一樣[overlap]
+</Turn>
+<Turn speaker="spk2" startTime="58.775" endTime="60.778">
+<Sync time="58.775"/>
+漢堡，那我挑我喜歡
+</Turn>
+<Turn speaker="spk1" startTime="60.778" endTime="61.532">
+<Sync time="60.778"/>
+蛋包飯有沒有
+</Turn>
+<Turn speaker="spk2" startTime="61.532" endTime="62.751">
+<Sync time="61.532"/>
+哎，好耶
+</Turn>
+<Turn speaker="spk1" startTime="62.751" endTime="64.038">
+<Sync time="62.751"/>
+你有蛋包飯嗎
+</Turn>
+<Turn speaker="spk3" startTime="64.038" endTime="64.364">
+<Sync time="64.038"/>
+有
+</Turn>
+<Turn speaker="spk1" startTime="64.364" endTime="65.221">
+<Sync time="64.364"/>
+來一個蛋包飯
+</Turn>
+<Turn speaker="spk2" startTime="65.221" endTime="65.83">
+<Sync time="65.221"/>
+好[overlap]
+</Turn>
+<Turn speaker="spk1" startTime="65.83" endTime="74.248">
+<Sync time="65.83"/>
+好不好，所以我們現在在二林這個地方
+<Sync time="68.464"/>
+這個是市場口這邊
+<Sync time="70.951"/>
+那為什麼在這邊開場呢
+<Sync time="73.063"/>
+二林你有沒有來過
+</Turn>
+<Turn speaker="spk2" startTime="74.248" endTime="74.962">
+<Sync time="74.248"/>
+沒有
+</Turn>
+<Turn speaker="spk1" startTime="74.962" endTime="77.654">
+<Sync time="74.962"/>
+好
+<Sync time="75.801"/>
+你是一個做法餐的，對不對
+</Turn>
+<Turn speaker="spk2" startTime="77.654" endTime="77.921">
+<Sync time="77.654"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="77.921" endTime="81.145">
+<Sync time="77.921"/>
+哦，你在台北市有開店
+</Turn>
+<Turn speaker="spk2" startTime="81.145" endTime="81.907">
+<Sync time="81.145"/>
+有
+</Turn>
+<Turn speaker="spk1" startTime="81.907" endTime="86.618">
+<Sync time="81.907"/>
+你有想過，如果是在二林這邊你會，開店你要賣什麼
+</Turn>
+<Turn speaker="spk2" startTime="86.618" endTime="87.859">
+<Sync time="86.618"/>
+開店要賣什麼
+</Turn>
+<Turn speaker="spk1" startTime="87.859" endTime="88.593">
+<Sync time="87.859"/>
+對
+</Turn>
+<Turn speaker="spk2" startTime="88.593" endTime="89.797">
+<Sync time="88.593"/>
+完全沒有概念耶
+</Turn>
+<Turn speaker="spk1" startTime="89.797" endTime="133.705">
+<Sync time="89.797"/>
+太好了，太好了[overlap]
+<Sync time="91.285"/>
+就喜歡這種完全沒有概念
+<Sync time="92.815"/>
+哦，因為#啊，如果跟我錄影久的人，我的團隊都知道
+<Sync time="96.774"/>
+我有一個壞習慣
+<Sync time="98.083"/>
+我走到哪邊都在想，我在這邊我要開什麼店
+<Sync time="100.779"/>
+遍及世界各地哦
+<Sync time="102.184"/>
+所以今天
+<Sync time="103.065"/>
+在這個地方
+<Sync time="104.432"/>
+我希望你站在一個
+<Sync time="106.465"/>
+做法餐的立場
+<Sync time="107.675"/>
+你來想
+<Sync time="108.145"/>
+如果我要這邊開店
+<Sync time="109.351"/>
+我要怎麼開
+<Sync time="110.555"/>
+所以待會我會邀請一位
+<Sync time="112.96"/>
+聽說是從法國，學成歸國的一位，二林人
+<Sync time="118.258"/>
+他學法國料理
+<Sync time="119.806"/>
+他會想在二林這邊開店
+<Sync time="121.741"/>
+所以我就覺得，哎
+<Sync time="123.375"/>
+有趣了，我左手邊這一位
+<Sync time="125.09"/>
+就是這一位哦，她也是做法餐的
+<Sync time="127.756"/>
+另外也是做法餐的
+<Sync time="129.498"/>
+我們來看今天
+<Sync time="130.79"/>
+這兩個做法餐的
+<Sync time="131.939"/>
+會撞撃出什麼東西出來
+</Turn>
+<Turn speaker="spk2" startTime="133.705" endTime="134.29">
+<Sync time="133.705"/>
+哦
+</Turn>
+<Turn speaker="spk1" startTime="134.29" endTime="188.94">
+<Sync time="134.29"/>
+哦
+<Sync time="134.742"/>
+[music]
+<Sync time="138.869"/>
+飲食跟生活#啊，密不可分
+<Sync time="140.967"/>
+所以我們總是可以從料理中
+<Sync time="143.061"/>
+挖掘出各種在地的文化
+<Sync time="145.298"/>
+比起藝術般的擺盤呢
+<Sync time="147.186"/>
+精準運用法菜的手法
+<Sync time="149.36"/>
+把在地食材
+<Sync time="150.469"/>
+和在地的飲食特色呈現出來
+<Sync time="152.913"/>
+這才是法式料理的精神，風土
+<Sync time="155.725"/>
+所以一位廚師#啊
+<Sync time="157.162"/>
+要在台灣鄉間開法國餐廳
+<Sync time="159.462"/>
+他會呈現如何的台灣味#啊
+<Sync time="161.516"/>
+實在是值得深入研究
+<Sync time="163.487"/>
+不過我對二林這個地方的口味#啊
+<Sync time="165.396"/>
+實在是很陌生
+<Sync time="166.443"/>
+總之我們先吃點東西，了解一下#啊
+<Sync time="169.418"/>
+[music]
+<Sync time="172.351"/>
+是的，在市場這邊吃早餐呢
+<Sync time="174.413"/>
+永遠是讓人覺得最愉快的事情
+<Sync time="176.132"/>
+哦，唯獨呢，這邊位子不多
+<Sync time="178.511"/>
+哦，還有[overlap]
+<Sync time="179.763"/>
+這一排位子
+<Sync time="180.687"/>
+但是你可以坐，我沒辦法坐
+<Sync time="182.391"/>
+我怕會把它坐壞
+<Sync time="183.274"/>
+好，我這漢堡其實先不用介紹
+<Sync time="187.708"/>
+蛋包飯這就特別了
+</Turn>
+<Turn speaker="spk2" startTime="188.94" endTime="189.824">
+<Sync time="188.94"/>
+滿酷的
+</Turn>
+<Turn speaker="spk1" startTime="189.824" endTime="194.399">
+<Sync time="189.824"/>
+吃吃看
+</Turn>
+<Turn speaker="spk2" startTime="194.399" endTime="196.739">
+<Sync time="194.399"/>
+滿酷的，還有肉鬆耶
+</Turn>
+<Turn speaker="spk1" startTime="196.739" endTime="203.9">
+<Sync time="196.739"/>
+對啊
+<Sync time="197.191"/>
+[music]
+</Turn>
+<Turn speaker="spk2" startTime="203.9" endTime="212.691">
+<Sync time="203.9"/>
+它其實應該說它是
+<Sync time="205.666"/>
+蛋皮，然後加炒飯
+<Sync time="208.546"/>
+然後加肉鬆
+<Sync time="209.922"/>
+火腿炒飯
+</Turn>
+<Turn speaker="spk1" startTime="212.691" endTime="214.621">
+<Sync time="212.691"/>
+#啊
+</Turn>
+<Turn speaker="spk2" startTime="214.621" endTime="215.997">
+<Sync time="214.621"/>
+對不對
+</Turn>
+<Turn speaker="spk1" startTime="215.997" endTime="217.024">
+<Sync time="215.997"/>
+炒飯戴帽啦
+</Turn>
+<Turn speaker="spk2" startTime="217.024" endTime="220.048">
+<Sync time="217.024"/>
+炒飯戴帽,這樣比較好聽，有，有，有
+</Turn>
+<Turn speaker="spk1" startTime="220.048" endTime="222.146">
+<Sync time="220.048"/>
+炒飯戴帽，對不對
+</Turn>
+<Turn speaker="spk2" startTime="222.146" endTime="222.641">
+<Sync time="222.146"/>
+早餐耶
+</Turn>
+<Turn speaker="spk1" startTime="222.641" endTime="224.099">
+<Sync time="222.641"/>
+這個好不好[overlap]
+<Sync time="223.646"/>
+&lt;lang:English&gt;hamburger&lt;/lang:English&gt;
+</Turn>
+<Turn speaker="spk4" startTime="224.099" endTime="225.621">
+<Sync time="224.099"/>
+現在才在吃哦
+</Turn>
+<Turn speaker="spk1" startTime="225.621" endTime="227.939">
+<Sync time="225.621"/>
+你，你就是那位法國
+</Turn>
+<Turn speaker="spk4" startTime="227.939" endTime="228.308">
+<Sync time="227.939"/>
+你好，你好
+</Turn>
+<Turn speaker="spk1" startTime="228.308" endTime="228.944">
+<Sync time="228.308"/>
+學成回來的
+</Turn>
+<Turn speaker="spk4" startTime="228.944" endTime="230.265">
+<Sync time="228.944"/>
+對，對，對，對
+</Turn>
+<Turn speaker="spk2" startTime="230.265" endTime="231.091">
+<Sync time="230.265"/>
+你好，你好
+</Turn>
+<Turn speaker="spk4" startTime="231.091" endTime="232.415">
+<Sync time="231.091"/>
+哈羅
+</Turn>
+<Turn speaker="spk1" startTime="232.415" endTime="237.718">
+<Sync time="232.415"/>
+我真的沒有惡意的哈
+<Sync time="234.705"/>
+但是你穿這樣在二林這邊，你算是奇裝異服#啊
+</Turn>
+<Turn speaker="spk4" startTime="237.718" endTime="238.687">
+<Sync time="237.718"/>
+算是啦
+</Turn>
+<Turn speaker="spk1" startTime="238.687" endTime="240.995">
+<Sync time="238.687"/>
+對不對
+<Sync time="239.678"/>
+你留這頭髮有沒有講話
+</Turn>
+<Turn speaker="spk4" startTime="240.995" endTime="244.152">
+<Sync time="240.995"/>
+沒有，對
+<Sync time="242.062"/>
+[overlap]但是婆婆媽媽都會討論
+</Turn>
+<Turn speaker="spk1" startTime="244.152" endTime="249.413">
+<Sync time="244.152"/>
+真的喔
+<Sync time="244.503"/>
+你看，你看那個風騷的
+<Sync time="246.002"/>
+尖尖頭鞋，對不對
+<Sync time="248.018"/>
+所以你在法國就這樣打扮
+</Turn>
+<Turn speaker="spk4" startTime="249.413" endTime="253.063">
+<Sync time="249.413"/>
+就這樣打扮
+<Sync time="250.537"/>
+回來上班主廚都會說，哎，你要去夜店嗎
+</Turn>
+<Turn speaker="spk1" startTime="253.063" endTime="254.172">
+<Sync time="253.063"/>
+所以你去法國多久
+</Turn>
+<Turn speaker="spk4" startTime="254.172" endTime="255.284">
+<Sync time="254.172"/>
+去法國四年
+</Turn>
+<Turn speaker="spk1" startTime="255.284" endTime="259.328">
+<Sync time="255.284"/>
+四年
+<Sync time="256.167"/>
+只是好奇的是
+<Sync time="257.501"/>
+你為什麼這麼早就要去夜店呢
+</Turn>
+<Turn speaker="spk4" startTime="259.328" endTime="265.056">
+<Sync time="259.328"/>
+接觸的不多，接觸的不多
+<Sync time="263.188"/>
+對，因為廚師沒有夜生活
+</Turn>
+<Turn speaker="spk1" startTime="265.056" endTime="272.802">
+<Sync time="265.056"/>
+他不是接觸的[overlap]不多，你不是接觸的不多，是二林這邊沒有夜店
+<Sync time="268.799"/>
+但那不重要
+<Sync time="271.1"/>
+聽說你想在二林這邊開店
+</Turn>
+<Turn speaker="spk4" startTime="272.802" endTime="275.407">
+<Sync time="272.802"/>
+#呃，有這樣的打算，對，有這樣的打算，對
+</Turn>
+<Turn speaker="spk1" startTime="275.407" endTime="297.105">
+<Sync time="275.407"/>
+今天是我們逛二林，我們邊來討論
+<Sync time="278.279"/>
+哦，到底在這邊如果要開法國料理
+<Sync time="280.434"/>
+他怎麼開
+<Sync time="281.378"/>
+因為每個人都認為法國料理就應該在台北開
+<Sync time="283.511"/>
+二林，誰告訴你不能開的
+<Sync time="285.892"/>
+要做二林風味的法國菜呀 
+<Sync time="287.841"/>
+了解在地飲食習慣
+<Sync time="289.423"/>
+絕對是首要任務
+<Sync time="290.655"/>
+宏岳從小在二林長大
+<Sync time="292.153"/>
+就請他，#啊，帶我們好好認識一下
+<Sync time="294.273"/>
+二林的傳統市場#啊
+<Sync time="296.14"/>
+好，我們怎麼逛
+</Turn>
+<Turn speaker="spk4" startTime="297.105" endTime="302.138">
+<Sync time="297.105"/>
+從市場最早期的部分開始
+<Sync time="299.547"/>
+這市場從昭和時代就有了
+<Sync time="301.726"/>
+早期
+</Turn>
+<Turn speaker="spk1" startTime="302.138" endTime="303.062">
+<Sync time="302.138"/>
+日據時代就有了
+</Turn>
+<Turn speaker="spk4" startTime="303.062" endTime="308.559">
+<Sync time="303.062"/>
+日據時代
+<Sync time="304.56"/>
+那早期這個市場
+<Sync time="305.545"/>
+但是它建築的方式是一個八卦的方式
+</Turn>
+<Turn speaker="spk1" startTime="308.559" endTime="309.545">
+<Sync time="308.559"/>
+八卦
+</Turn>
+<Turn speaker="spk4" startTime="309.545" endTime="310.121">
+<Sync time="309.545"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="310.121" endTime="311.54">
+<Sync time="310.121"/>
+日本人會建八卦
+</Turn>
+<Turn speaker="spk4" startTime="311.54" endTime="322.338">
+<Sync time="311.54"/>
+因為早期就是台灣可能就因為戰亂的關係
+<Sync time="314.597"/>
+然後地方信仰就覺得說
+<Sync time="316.835"/>
+好像有一些就是比較，哎，我們講好兄弟啦
+<Sync time="319.793"/>
+然後就是用這個方式來就是
+</Turn>
+<Turn speaker="spk1" startTime="322.338" endTime="328.11">
+<Sync time="322.338"/>
+擺八卦陣讓人家不進來很久了，昭和到現在，它很多店我看都沒有開
+</Turn>
+<Turn speaker="spk4" startTime="328.11" endTime="332.911">
+<Sync time="328.11"/>
+因為其實現在市場也開始就是式微了
+<Sync time="330.781"/>
+那鎮公所一直在努力這個部分
+</Turn>
+<Turn speaker="spk1" startTime="332.911" endTime="336.031">
+<Sync time="332.911"/>
+哎吆，所以，這個是井嗎
+</Turn>
+<Turn speaker="spk4" startTime="336.031" endTime="347.866">
+<Sync time="336.031"/>
+對，它是早期就是一樣是日劇時代就有的東西
+<Sync time="340.491"/>
+這是一個就是民眾聚集的一個地方
+<Sync time="343.552"/>
+其實很多鄉鎮都是這樣子，要麼是廟#啊，要麼是市場
+<Sync time="347.044"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="347.866" endTime="350.122">
+<Sync time="347.866"/>
+#啊，但，但是這邊為什麼會有一個井在這邊
+</Turn>
+<Turn speaker="spk4" startTime="350.122" endTime="353.9">
+<Sync time="350.122"/>
+因為以前要取水#啊
+<Sync time="351.066"/>
+以前沒有自來水其實不是很，就是這麼方便
+</Turn>
+<Turn speaker="spk1" startTime="353.9" endTime="356.595">
+<Sync time="353.9"/>
+哎，那個耶
+<Sync time="354.803"/>
+這個，這個，這個還有在用嗎
+</Turn>
+<Turn speaker="spk5" startTime="356.595" endTime="358.875">
+<Sync time="356.595"/>
+那個有
+</Turn>
+<Turn speaker="spk1" startTime="358.875" endTime="361.131">
+<Sync time="358.875"/>
+這是取地下水的一種嘛
+</Turn>
+<Turn speaker="spk7" startTime="361.131" endTime="363.471">
+<Sync time="361.131"/>
+對，對，對，就跟古井的水一樣的
+</Turn>
+<Turn speaker="spk8" startTime="363.471" endTime="364.497">
+<Sync time="363.471"/>
+傅昭蓉沒看過吧
+</Turn>
+<Turn speaker="spk2" startTime="364.497" endTime="365.196">
+<Sync time="364.497"/>
+有
+</Turn>
+<Turn speaker="spk1" startTime="365.196" endTime="365.915">
+<Sync time="365.196"/>
+少來
+</Turn>
+<Turn speaker="spk2" startTime="365.915" endTime="366.347">
+<Sync time="365.915"/>
+有啦
+</Turn>
+<Turn speaker="spk1" startTime="366.347" endTime="371.765">
+<Sync time="366.347"/>
+你才幾歲你看過[overlap]
+<Sync time="367.475"/>
+小丁三科學你都講的出來
+</Turn>
+<Turn speaker="spk2" startTime="371.765" endTime="376.106">
+<Sync time="371.765"/>
+有#啊，那是我國小的童年耶[overlap]，這樣#啊
+</Turn>
+<Turn speaker="spk1" startTime="376.106" endTime="376.786">
+<Sync time="376.106"/>
+然後呢
+</Turn>
+<Turn speaker="spk2" startTime="376.786" endTime="378.758">
+<Sync time="376.786"/>
+就這樣#啊
+</Turn>
+<Turn speaker="spk1" startTime="378.758" endTime="379.784">
+<Sync time="378.758"/>
+好，好，好
+</Turn>
+<Turn speaker="spk2" startTime="379.784" endTime="380.673">
+<Sync time="379.784"/>
+有啦
+</Turn>
+<Turn speaker="spk1" startTime="380.673" endTime="386.173">
+<Sync time="380.673"/>
+好，可以，可以
+<Sync time="382.787"/>
+沒有上當，我還以為你很蠢
+<Sync time="384.654"/>
+就直接這樣有沒有
+</Turn>
+<Turn speaker="spk2" startTime="386.173" endTime="388.149">
+<Sync time="386.173"/>
+沒有，好不好
+</Turn>
+<Turn speaker="spk1" startTime="388.149" endTime="393.778">
+<Sync time="388.149"/>
+這個哦，這個跟井，我小時候住劍潭，我那邊就有，對
+</Turn>
+<Turn speaker="spk2" startTime="393.778" endTime="396.388">
+<Sync time="393.778"/>
+那只有在照片上，黑白的照片才看得到
+</Turn>
+<Turn speaker="spk1" startTime="396.388" endTime="409.351">
+<Sync time="396.388"/>
+不好意思哦
+<Sync time="397.993"/>
+呸，我今天要呸一天
+<Sync time="400.037"/>
+我跟你講這沒辦法，這種，這種時代的變遷就是這樣
+<Sync time="404.182"/>
+人一直在進步
+<Sync time="405.396"/>
+所以一些新的東西一直出來，舊的東西就漸漸式微了
+<Sync time="408.311"/>
+你說這市場還有賣什麼
+</Turn>
+<Turn speaker="spk4" startTime="409.351" endTime="422.693">
+<Sync time="409.351"/>
+市場，#呃，我從，就是我們從外圍講到里面好了
+<Sync time="412.922"/>
+其實早期外圍是一些店家，賣的生活你所需的用品
+<Sync time="416.863"/>
+那再來，里面那一層，可能會是一些布裝
+<Sync time="419.983"/>
+很特別
+<Sync time="420.682"/>
+市場早期的都是布裝[overlap]
+</Turn>
+<Turn speaker="spk1" startTime="422.693" endTime="426.193">
+<Sync time="422.693"/>
+我跟你說，我知道因為知道很多人去面對這個鏡頭會比較緊張
+</Turn>
+<Turn speaker="spk4" startTime="426.193" endTime="426.623">
+<Sync time="426.193"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="426.623" endTime="456.019">
+<Sync time="426.623"/>
+但你儘量不要一直走，一直往後退
+<Sync time="428.143"/>
+我怕你退到後來就走掉這樣
+<Sync time="429.949"/>
+宏岳不要怕，一回生二回熟嘛
+<Sync time="434.35"/>
+其實二林#啊，曾是台灣主要的蔬果集散地之一哦
+<Sync time="438.073"/>
+最鼎盛的時期，附近甚至還有兩家戲院喔
+<Sync time="441.981"/>
+而當時的市場美食#啊，到現在已經飄香近六十年
+<Sync time="445.856"/>
+可以說是二林最代表性的地方
+<Sync time="448.157"/>
+不過#啊，要了解二林人的口味#啊
+<Sync time="450.189"/>
+宏岳說，哎，要先吃一豆花碗
+<Sync time="452.594"/>
+你說是真的豆花嗎
+<Sync time="454.153"/>
+[music]
+</Turn>
+<Turn speaker="spk4" startTime="456.019" endTime="461.12">
+<Sync time="456.019"/>
+哎，#呃，順便提到一下，這個豆花
+<Sync time="459.118"/>
+是我們在地非常非常的
+</Turn>
+<Turn speaker="spk1" startTime="461.12" endTime="462.7">
+<Sync time="461.12"/>
+你剛剛提到豆花就是這間
+</Turn>
+<Turn speaker="spk4" startTime="462.7" endTime="464.465">
+<Sync time="462.7"/>
+豆花就是這一間，對
+</Turn>
+<Turn speaker="spk1" startTime="464.465" endTime="465.801">
+<Sync time="464.465"/>
+老闆，你好，你好
+</Turn>
+<Turn speaker="spk6" startTime="465.801" endTime="466.377">
+<Sync time="465.801"/>
+你好，你好
+</Turn>
+<Turn speaker="spk2" startTime="466.377" endTime="469.073">
+<Sync time="466.377"/>
+你好，你好
+</Turn>
+<Turn speaker="spk4" startTime="469.073" endTime="473.033">
+<Sync time="469.073"/>
+哦，哦，哎，因為生意太好了，一大早就賣完了
+</Turn>
+<Turn speaker="spk1" startTime="473.033" endTime="473.92">
+<Sync time="473.033"/>
+賣完了
+</Turn>
+<Turn speaker="spk2" startTime="473.92" endTime="475.295">
+<Sync time="473.92"/>
+已經空了
+</Turn>
+<Turn speaker="spk1" startTime="475.295" endTime="481.821">
+<Sync time="475.295"/>
+我雖，雖然很不願意這樣講
+<Sync time="480.547"/>
+你這是賣別人的嗎
+</Turn>
+<Turn speaker="spk6" startTime="481.821" endTime="483.935">
+<Sync time="481.821"/>
+對#啊，這個是別人留的
+</Turn>
+<Turn speaker="spk1" startTime="483.935" endTime="485.763">
+<Sync time="483.935"/>
+熟不熟你跟他們
+</Turn>
+<Turn speaker="spk6" startTime="485.763" endTime="487.612">
+<Sync time="485.763"/>
+客人呢，很熟#啊
+</Turn>
+<Turn speaker="spk1" startTime="487.612" endTime="489.459">
+<Sync time="487.612"/>
+哦，熟，熟就方便
+</Turn>
+<Turn speaker="spk6" startTime="489.459" endTime="490.794">
+<Sync time="489.459"/>
+這邊都熟客比較多
+</Turn>
+<Turn speaker="spk1" startTime="490.794" endTime="493.035">
+<Sync time="490.794"/>
+可以賒兩碗給我們嗎
+</Turn>
+<Turn speaker="spk6" startTime="493.035" endTime="496.424">
+<Sync time="493.035"/>
+沒關係#啊，你們要的，我跟客人挪一下
+</Turn>
+<Turn speaker="spk1" startTime="496.424" endTime="500.756">
+<Sync time="496.424"/>
+這個你是地頭蛇嗎,對不對
+<Sync time="498.867"/>
+你熟嘛，對不對
+</Turn>
+<Turn speaker="spk4" startTime="500.756" endTime="501.947">
+<Sync time="500.756"/>
+熟，非常熟，對
+</Turn>
+<Turn speaker="spk1" startTime="501.947" endTime="507.126">
+<Sync time="501.947"/>
+我們就先跟你賒兩碗，因為既然他都推薦你
+<Sync time="504.902"/>
+對不對
+<Sync time="505.482"/>
+那客人來，有事你就找他
+</Turn>
+<Turn speaker="spk6" startTime="507.126" endTime="508.523">
+<Sync time="507.126"/>
+好，沒關係啦
+</Turn>
+<Turn speaker="spk1" startTime="508.523" endTime="509.304">
+<Sync time="508.523"/>
+哦，好
+</Turn>
+<Turn speaker="spk6" startTime="509.304" endTime="517.509">
+<Sync time="509.304"/>
+好，你可以吃看看，很多人的豆花後面是放那個類似像菜粉
+</Turn>
+<Turn speaker="spk1" startTime="517.509" endTime="520.239">
+<Sync time="517.509"/>
+或者是吉利丁你這個不是嗎
+</Turn>
+<Turn speaker="spk6" startTime="520.239" endTime="521.244">
+<Sync time="520.239"/>
+這是鹽鹵的
+</Turn>
+<Turn speaker="spk1" startTime="521.244" endTime="523.357">
+<Sync time="521.244"/>
+鹽鹵的嘛，對不對
+<Sync time="522.331"/>
+你自己做的嗎
+</Turn>
+<Turn speaker="spk6" startTime="523.357" endTime="525.368">
+<Sync time="523.357"/>
+對#啊，阿公傳下來的
+</Turn>
+<Turn speaker="spk1" startTime="525.368" endTime="526.21">
+<Sync time="525.368"/>
+真的喔
+</Turn>
+<Turn speaker="spk2" startTime="526.21" endTime="531.374">
+<Sync time="526.21"/>
+這，這吃起來有一點沙沙
+<Sync time="529.287"/>
+但它就是很真材實料的那一種
+</Turn>
+<Turn speaker="spk1" startTime="531.374" endTime="532.401">
+<Sync time="531.374"/>
+它就很像豆腐嘛
+</Turn>
+<Turn speaker="spk2" startTime="532.401" endTime="532.729">
+<Sync time="532.401"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="532.729" endTime="534.742">
+<Sync time="532.729"/>
+很嫩很嫩的豆腐，它豆味有#啊
+</Turn>
+<Turn speaker="spk4" startTime="534.742" endTime="537.453">
+<Sync time="534.742"/>
+比較像嫩豆腐那種口感
+</Turn>
+<Turn speaker="spk1" startTime="537.453" endTime="539.487">
+<Sync time="537.453"/>
+現在要遲到這樣的豆花也不多
+</Turn>
+<Turn speaker="spk6" startTime="539.487" endTime="541.683">
+<Sync time="539.487"/>
+沒有啦
+</Turn>
+<Turn speaker="spk1" startTime="541.683" endTime="542.831">
+<Sync time="541.683"/>
+來，你告訴大家現在幾點
+</Turn>
+<Turn speaker="spk4" startTime="542.831" endTime="547.756">
+<Sync time="542.831"/>
+哎，其實我沒有在注意，因為法國人比較浪漫，對
+</Turn>
+<Turn speaker="spk1" startTime="547.756" endTime="552.851">
+<Sync time="547.756"/>
+等我一下，不是你東西不好吃喔
+<Sync time="550.038"/>
+呸，法國人比較浪漫
+</Turn>
+<Turn speaker="spk4" startTime="552.851" endTime="555.734">
+<Sync time="552.851"/>
+沒有，是那個很爛，爛，爛漫，爛漫
+</Turn>
+<Turn speaker="spk1" startTime="555.734" endTime="557.03">
+<Sync time="555.734"/>
+哦，爛漫是不是[overlap]
+</Turn>
+<Turn speaker="spk4" startTime="557.03" endTime="557.707">
+<Sync time="557.03"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="557.707" endTime="559.199">
+<Sync time="557.707"/>
+現在幾點
+</Turn>
+<Turn speaker="spk7" startTime="559.199" endTime="560.927">
+<Sync time="559.199"/>
+#呃，十點半
+</Turn>
+<Turn speaker="spk1" startTime="560.927" endTime="595.432">
+<Sync time="560.927"/>
+現在十點半，他賣完了
+<Sync time="564.151"/>
+哎，我必須說，二林人呢，很懂吃喔
+<Sync time="567.845"/>
+用鹽鹵#啊，凝固的豆花
+<Sync time="569.793"/>
+雖然口感上#啊，不像是用石膏或者吉利丁凝固的豆花那麼的扎實
+<Sync time="574.349"/>
+但是豆香味#啊，卻是相對十足
+<Sync time="577.557"/>
+吃了這一碗豆花#啊
+<Sync time="578.994"/>
+工作還是要繼續進行的
+<Sync time="581.294"/>
+不過#啊，在正式進行料理交流之前
+<Sync time="584.399"/>
+我很好奇耶，鄉間法廚的廚房
+<Sync time="587.856"/>
+它是長什麼樣子
+<Sync time="589.107"/>
+哦，這個就是你的廚房#啊
+</Turn>
+<Turn speaker="spk4" startTime="595.432" endTime="597.013">
+<Sync time="595.432"/>
+沒有，這邊是我的廚房
+</Turn>
+<Turn speaker="spk1" startTime="597.013" endTime="597.588">
+<Sync time="597.013"/>
+這邊
+</Turn>
+<Turn speaker="spk4" startTime="597.588" endTime="598.122">
+<Sync time="597.588"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="598.122" endTime="600.745">
+<Sync time="598.122"/>
+等一下，過去一點，過去一點，過去
+<Sync time="599.415"/>
+好，你說這邊是不是
+</Turn>
+<Turn speaker="spk4" startTime="600.745" endTime="601.053">
+<Sync time="600.745"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="601.053" endTime="604.603">
+<Sync time="601.053"/>
+劃下這斜線，這邊是你的廚房[overlap]
+<Sync time="603.638"/>
+這邊呢
+</Turn>
+<Turn speaker="spk4" startTime="604.603" endTime="605.793">
+<Sync time="604.603"/>
+家裡的廚房
+</Turn>
+<Turn speaker="spk1" startTime="605.793" endTime="607.865">
+<Sync time="605.793"/>
+家裡廚房，所以你會煮菜給家人吃嗎
+</Turn>
+<Turn speaker="spk4" startTime="607.865" endTime="608.583">
+<Sync time="607.865"/>
+偶爾
+</Turn>
+<Turn speaker="spk1" startTime="608.583" endTime="610.082">
+<Sync time="608.583"/>
+偶爾，多久時間
+</Turn>
+<Turn speaker="spk4" startTime="610.082" endTime="611.601">
+<Sync time="610.082"/>
+一個月一次吧
+</Turn>
+<Turn speaker="spk1" startTime="611.601" endTime="613.449">
+<Sync time="611.601"/>
+但你為什麼不自己弄個房間呢
+</Turn>
+<Turn speaker="spk4" startTime="613.449" endTime="614.484">
+<Sync time="613.449"/>
+要在樓上學
+</Turn>
+<Turn speaker="spk1" startTime="614.484" endTime="625.516">
+<Sync time="614.484"/>
+那去樓上#啊
+<Sync time="615.633"/>
+[overlap]為什麼
+<Sync time="618.079"/>
+你們家沒有電梯嗎
+<Sync time="619.681"/>
+哦，[overlap]那就不能上去了
+<Sync time="621.862"/>
+對，這也是個問題，光那個烤箱要上去就受不了了
+<Sync time="625.105"/>
+好
+</Turn>
+<Turn speaker="spk2" startTime="625.516" endTime="628.718">
+<Sync time="625.516"/>
+可是可以用搬的#啊，反正也是搬一次的工
+</Turn>
+<Turn speaker="spk1" startTime="628.718" endTime="631.529">
+<Sync time="628.718"/>
+但是你每次要做，你要爬四樓上去
+</Turn>
+<Turn speaker="spk2" startTime="631.529" endTime="637.715">
+<Sync time="631.529"/>
+我們以前高中在練比賽的時候，我們就跑過
+<Sync time="635.288"/>
+一樓，三樓，一樓，三樓，地下室
+</Turn>
+<Turn speaker="spk8" startTime="637.715" endTime="638.843">
+<Sync time="637.715"/>
+你們是比什麼
+</Turn>
+<Turn speaker="spk2" startTime="638.843" endTime="640.715">
+<Sync time="638.843"/>
+我們在學校自己練比賽
+</Turn>
+<Turn speaker="spk1" startTime="640.715" endTime="672.096">
+<Sync time="640.715"/>
+我跟你說啦，我跟你說啦，料理學校都有一些奇怪的事情
+<Sync time="644.846"/>
+以前我在日本的時候呢，我們有跑什麼，大隊接力
+<Sync time="648.418"/>
+但我們大隊接力，不是跑一個棒子這樣接力喔
+<Sync time="650.882"/>
+我們是喔，我，你在那邊等，我跑跑跑跑，跑到那邊的時候呢
+<Sync time="654.167"/>
+我要換棒的時候，我要那個，#呃，打蛋
+<Sync time="656.24"/>
+蛋跟蛋白要分開，然後打蛋白打打打
+<Sync time="658.954"/>
+[overlap]打到發之後呢，然後倒過來它不會掉，然後老師&lt;lang:English&gt;OK&lt;/lang:English&gt;，然後
+<Sync time="662.021"/>
+就，就你跑到下面去
+<Sync time="663.521"/>
+那你跑到下面就蘸肉
+<Sync time="665.169"/>
+然後擠，然後蘸，蘸麵包
+<Sync time="667.55"/>
+那個，那個麵粉，蛋液，然後這樣，這樣過三關
+<Sync time="670.489"/>
+&lt;lang:English&gt;OK&lt;/lang:English&gt;，這樣然後就一直跑[overlap]
+</Turn>
+<Turn speaker="spk2" startTime="672.096" endTime="672.793">
+<Sync time="672.096"/>
+是學校的
+</Turn>
+<Turn speaker="spk1" startTime="672.793" endTime="675.11">
+<Sync time="672.793"/>
+學校的運[overlap]，運動大會
+</Turn>
+<Turn speaker="spk2" startTime="675.11" endTime="675.725">
+<Sync time="675.11"/>
+運動大會
+</Turn>
+<Turn speaker="spk1" startTime="675.725" endTime="676.32">
+<Sync time="675.725"/>
+運動大會
+</Turn>
+<Turn speaker="spk2" startTime="676.32" endTime="680.128">
+<Sync time="676.32"/>
+我高中的，高中的期末考跟期中考，也是考這樣類似
+</Turn>
+<Turn speaker="spk8" startTime="680.128" endTime="681.852">
+<Sync time="680.128"/>
+沒有過可以畢業嗎
+</Turn>
+<Turn speaker="spk2" startTime="681.852" endTime="684.95">
+<Sync time="681.852"/>
+哦，當然是可以#啊，因為它還是有團體啦[overlap]
+<Sync time="684.055"/>
+會有團體[overlap]
+</Turn>
+<Turn speaker="spk1" startTime="684.95" endTime="693.558">
+<Sync time="684.95"/>
+哦，沒有，沒有，很嚴格
+<Sync time="686.755"/>
+很嚴格喔，畢業時基本上會畢業啦
+<Sync time="689.117"/>
+但是我們學校是有人留級的啦
+<Sync time="691.712"/>
+對#啊，就沒有人，就沒有畢業
+</Turn>
+<Turn speaker="spk8" startTime="693.558" endTime="694.665">
+<Sync time="693.558"/>
+他們法國是這樣嗎
+</Turn>
+<Turn speaker="spk4" startTime="694.665" endTime="696.347">
+<Sync time="694.665"/>
+沒有
+</Turn>
+<Turn speaker="spk1" startTime="696.347" endTime="701.254">
+<Sync time="696.347"/>
+等一下，等一下
+<Sync time="697.169"/>
+你講話小心點#啊
+<Sync time="699.016"/>
+什麼叫他們法國，#啊
+</Turn>
+<Turn speaker="spk8" startTime="701.254" endTime="704.829">
+<Sync time="701.254"/>
+#啊，不是#啊，你不是日本那裡的，我是說他們那個
+<Sync time="703.719"/>
+他們學校不一樣嘛
+</Turn>
+<Turn speaker="spk2" startTime="704.829" endTime="707.98">
+<Sync time="704.829"/>
+這個是日本代表，法國代表
+<Sync time="706.667"/>
+跟台灣代表
+</Turn>
+<Turn speaker="spk1" startTime="707.98" endTime="738.463">
+<Sync time="707.98"/>
+雖然法國廚藝學校沒有運動大會
+<Sync time="710.59"/>
+不過我們的法國代表
+<Sync time="712.068"/>
+在國外學藝的四年期間呢
+<Sync time="714.532"/>
+也跑過許多大大小小的餐廳
+<Sync time="716.707"/>
+甚至喔，還在米其林餐廳服務過
+<Sync time="719.532"/>
+宏岳回台之後#啊，一直希望能夠運用所學
+<Sync time="722.425"/>
+讓更多人品嘗二林食材的美好
+<Sync time="725.666"/>
+我在這個麻雀雖小#啊，五臟俱全的廚房里
+<Sync time="728.784"/>
+感受到他對料理的熱情
+<Sync time="730.903"/>
+不過啊，正式開餐廳之前
+<Sync time="732.71"/>
+他要先做的是這個，#啊
+<Sync time="734.664"/>
+哎喲，就是這個#啊
+<Sync time="736.339"/>
+但你的可麗露怎麼這麼大#啊
+</Turn>
+<Turn speaker="spk2" startTime="738.463" endTime="744.895">
+<Sync time="738.463"/>
+可以做大的也可以做小的
+<Sync time="740.541"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="744.895" endTime="745.873">
+<Sync time="744.895"/>
+你覺得呢
+</Turn>
+<Turn speaker="spk2" startTime="745.873" endTime="748.327">
+<Sync time="745.873"/>
+如果這個我們再回一下
+</Turn>
+<Turn speaker="spk1" startTime="748.327" endTime="748.573">
+<Sync time="748.327"/>
+#嗯
+</Turn>
+<Turn speaker="spk2" startTime="748.573" endTime="750.754">
+<Sync time="748.573"/>
+裡面就可以吃到它那個濕潤的感覺[overlap]
+</Turn>
+<Turn speaker="spk1" startTime="750.754" endTime="751.364">
+<Sync time="750.754"/>
+#嗯
+</Turn>
+<Turn speaker="spk4" startTime="751.364" endTime="752.402">
+<Sync time="751.364"/>
+對
+</Turn>
+<Turn speaker="spk2" startTime="752.402" endTime="754.113">
+<Sync time="752.402"/>
+但它的殼烤得滿好的
+</Turn>
+<Turn speaker="spk1" startTime="754.113" endTime="756.997">
+<Sync time="754.113"/>
+#嗯，所以你在市場就是賣這個
+</Turn>
+<Turn speaker="spk4" startTime="756.997" endTime="757.933">
+<Sync time="756.997"/>
+賣這個，對
+</Turn>
+<Turn speaker="spk1" startTime="757.933" endTime="759.258">
+<Sync time="757.933"/>
+你就像這樣端著這樣
+</Turn>
+<Turn speaker="spk4" startTime="759.258" endTime="761.069">
+<Sync time="759.258"/>
+就是烤盤拿著呀
+</Turn>
+<Turn speaker="spk1" startTime="761.069" endTime="762.417">
+<Sync time="761.069"/>
+烤盤拿就這樣走
+</Turn>
+<Turn speaker="spk2" startTime="762.417" endTime="763.663">
+<Sync time="762.417"/>
+所以是掛著這樣
+</Turn>
+<Turn speaker="spk4" startTime="763.663" endTime="767.27">
+<Sync time="763.663"/>
+因為也是要讓人家知道說我在做什麼東西，對
+</Turn>
+<Turn speaker="spk1" startTime="767.27" endTime="772.347">
+<Sync time="767.27"/>
+你已經有法國的浪漫了
+<Sync time="769.426"/>
+快來買可麗露#啊，好吃的可麗露#啊，法文怎麼講
+</Turn>
+<Turn speaker="spk4" startTime="772.347" endTime="775.075">
+<Sync time="772.347"/>
+&lt;lang:French&gt;(())&lt;/lang:French&gt;
+</Turn>
+<Turn speaker="spk1" startTime="775.075" endTime="779.568">
+<Sync time="775.075"/>
+所以你就喊[overlap]
+<Sync time="776.99"/>
+我再給你一次機會念快一點哦
+<Sync time="778.567"/>
+然後像叫賣的方式
+</Turn>
+<Turn speaker="spk4" startTime="779.568" endTime="781.829">
+<Sync time="779.568"/>
+我真的沒有這樣喊過哎
+<Sync time="781.055"/>
+對
+</Turn>
+<Turn speaker="spk2" startTime="781.829" endTime="782.296">
+<Sync time="781.829"/>
+試看看
+</Turn>
+<Turn speaker="spk1" startTime="782.296" endTime="800.337">
+<Sync time="782.296"/>
+日文歡迎光臨，哦
+<Sync time="784.769"/>
+你們應該有去日本料理過吧
+<Sync time="786.334"/>
+&lt;lang:Japanese&gt;歡迎光臨&lt;/lang:Japanese&gt;
+<Sync time="787.703"/>
+對不對
+<Sync time="788.236"/>
+但是要叫賣的時候就不是這樣叫了
+<Sync time="790.161"/>
+叫賣怎麼叫你知道
+<Sync time="791.263"/>
+&lt;lang:Japanese&gt;(())&lt;/lang:Japanese&gt;
+<Sync time="794.274"/>
+像這樣
+<Sync time="795.052"/>
+有沒有，你就看那個老阿公
+<Sync time="796.259"/>
+拿著一個在那邊&lt;lang:Japanese&gt;(())&lt;/lang:Japanese&gt;
+<Sync time="799.132"/>
+有沒有，這個就是叫賣
+</Turn>
+<Turn speaker="spk4" startTime="800.337" endTime="802.469">
+<Sync time="800.337"/>
+了解，叫賣
+<Sync time="801.743"/>
+這個可以
+</Turn>
+<Turn speaker="spk1" startTime="802.469" endTime="804.294">
+<Sync time="802.469"/>
+那所以你呢，你會怎麼喊
+</Turn>
+<Turn speaker="spk4" startTime="804.294" endTime="808.212">
+<Sync time="804.294"/>
+&lt;lang:French&gt;(())&lt;/lang:French&gt;[overlap]
+</Turn>
+<Turn speaker="spk1" startTime="808.212" endTime="810.561">
+<Sync time="808.212"/>
+看那邊，看那邊
+<Sync time="809.314"/>
+看那邊再講一次，這個是
+</Turn>
+<Turn speaker="spk4" startTime="810.561" endTime="814.82">
+<Sync time="810.561"/>
+&lt;lang:French&gt;(())&lt;/lang:French&gt;
+</Turn>
+<Turn speaker="spk1" startTime="814.82" endTime="817.141">
+<Sync time="814.82"/>
+這樣不是很棒
+<Sync time="815.492"/>
+這樣不是很棒
+<Sync time="816.121"/>
+我跟你講，你就這樣叫
+</Turn>
+<Turn speaker="spk4" startTime="817.141" endTime="817.835">
+<Sync time="817.141"/>
+真的假的
+</Turn>
+<Turn speaker="spk1" startTime="817.835" endTime="823.59">
+<Sync time="817.835"/>
+你就這樣叫
+<Sync time="819.121"/>
+二林這邊有沒有什麼比較特別的
+<Sync time="820.72"/>
+你可以，覺得，覺得說我在二林這個地方
+<Sync time="822.756"/>
+你從小長大嘛
+</Turn>
+<Turn speaker="spk4" startTime="823.59" endTime="823.851">
+<Sync time="823.59"/>
+是
+</Turn>
+<Turn speaker="spk1" startTime="823.851" endTime="825.142">
+<Sync time="823.851"/>
+比較特殊的#啊
+</Turn>
+<Turn speaker="spk4" startTime="825.142" endTime="827.906">
+<Sync time="825.142"/>
+哎，我覺得二林的葡萄酒還滿特殊的
+</Turn>
+<Turn speaker="spk1" startTime="827.906" endTime="828.252">
+<Sync time="827.906"/>
+等一下
+</Turn>
+<Turn speaker="spk4" startTime="828.252" endTime="828.711">
+<Sync time="828.252"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="828.711" endTime="829.47">
+<Sync time="828.711"/>
+等一下
+</Turn>
+<Turn speaker="spk4" startTime="829.47" endTime="829.776">
+<Sync time="829.47"/>
+怎樣
+</Turn>
+<Turn speaker="spk1" startTime="829.776" endTime="832.781">
+<Sync time="829.776"/>
+二林的葡萄酒[overlap]
+<Sync time="831.341"/>
+二林有葡萄酒，#嗯
+</Turn>
+<Turn speaker="spk2" startTime="832.781" endTime="835.651">
+<Sync time="832.781"/>
+沒有概念，沒有聽過
+</Turn>
+<Turn speaker="spk1" startTime="835.651" endTime="864.574">
+<Sync time="835.651"/>
+二林的葡萄酒有名嗎
+<Sync time="837.566"/>
+哎喲，哎，真沒有想到二林有在產葡萄酒哎
+<Sync time="843.606"/>
+我還真是孤陋寡聞呢
+<Sync time="845.796"/>
+剛好這次我們要來挑戰二林風味的法國菜
+<Sync time="849.339"/>
+而這個葡萄酒在法式料理當中#啊，又是重要的料理元素之一
+<Sync time="854.179"/>
+二林有葡萄酒
+<Sync time="855.783"/>
+當然有必要要來了解一下這款&lt;lang:English&gt;MIT&lt;/lang:English&gt;的葡萄酒#啊
+<Sync time="859.237"/>
+哎，它到底是什麼滋味#啊，吼
+<Sync time="862.315"/>
+所以二林是有賣葡萄酒
+</Turn>
+<Turn speaker="spk4" startTime="864.574" endTime="865.513">
+<Sync time="864.574"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="865.513" endTime="866.413">
+<Sync time="865.513"/>
+它有種葡萄嗎
+</Turn>
+<Turn speaker="spk4" startTime="866.413" endTime="873.133">
+<Sync time="866.413"/>
+有種葡萄
+<Sync time="867.044"/>
+早期二林就是靠葡萄
+<Sync time="868.716"/>
+那時候知名度打了，還，就是全台知名的
+</Turn>
+<Turn speaker="spk2" startTime="873.133" endTime="876.444">
+<Sync time="873.133"/>
+所以它是什麼的葡萄品種[overlap]，不知道
+</Turn>
+<Turn speaker="spk1" startTime="876.444" endTime="878.512">
+<Sync time="876.444"/>
+全台知名我們兩個土
+</Turn>
+<Turn speaker="spk2" startTime="878.512" endTime="879.515">
+<Sync time="878.512"/>
+好，對不起
+</Turn>
+<Turn speaker="spk1" startTime="879.515" endTime="881.659">
+<Sync time="879.515"/>
+對，土
+<Sync time="880.415"/>
+她[overlap]剛剛不是講葡萄品種怎麼
+</Turn>
+<Turn speaker="spk4" startTime="881.659" endTime="882.418">
+<Sync time="881.659"/>
+葡萄品種
+</Turn>
+<Turn speaker="spk1" startTime="882.418" endTime="884.498">
+<Sync time="882.418"/>
+葡萄品種的話是
+</Turn>
+<Turn speaker="spk4" startTime="884.498" endTime="888.193">
+<Sync time="884.498"/>
+就是以果肉為主的葡萄一樣的水果，那是
+</Turn>
+<Turn speaker="spk1" startTime="888.193" endTime="890.182">
+<Sync time="888.193"/>
+果肉[overlap]為主什麼意思
+</Turn>
+<Turn speaker="spk4" startTime="890.182" endTime="903.878">
+<Sync time="890.182"/>
+國外[overlap]的，釀，釀酒的葡萄
+<Sync time="892.384"/>
+是屬於就是，哎，果肉部分會比較[overlap]就是小
+<Sync time="896.622"/>
+酸度[overlap]然後甜度，果香也都不一樣，那台灣就是屬於像水果的
+<Sync time="901.589"/>
+就是比較傳統，我們在吃的那種葡萄
+</Turn>
+<Turn speaker="spk1" startTime="903.878" endTime="905.51">
+<Sync time="903.878"/>
+真正釀酒的葡萄都不好吃
+</Turn>
+<Turn speaker="spk2" startTime="905.51" endTime="908.061">
+<Sync time="905.51"/>
+#嗯，對
+<Sync time="906.367"/>
+我去法國有吃過一次
+</Turn>
+<Turn speaker="spk4" startTime="908.061" endTime="909.366">
+<Sync time="908.061"/>
+酸澀
+</Turn>
+<Turn speaker="spk1" startTime="909.366" endTime="911.331">
+<Sync time="909.366"/>
+屢試不爽，都很難吃
+</Turn>
+<Turn speaker="spk2" startTime="911.331" endTime="912.107">
+<Sync time="911.331"/>
+都很難吃
+</Turn>
+<Turn speaker="spk1" startTime="912.107" endTime="914.238">
+<Sync time="912.107"/>
+所以你說是它沒有皮
+<Sync time="913.315"/>
+它是用果肉
+</Turn>
+<Turn speaker="spk4" startTime="914.238" endTime="920.256">
+<Sync time="914.238"/>
+#呃，它有皮，只是說
+<Sync time="915.587"/>
+#呃，葡萄來講的話
+<Sync time="916.657"/>
+它的果，果肉的部分會比較多
+<Sync time="918.948"/>
+甜度也比較高
+</Turn>
+<Turn speaker="spk2" startTime="920.256" endTime="924.318">
+<Sync time="920.256"/>
+肉多於皮
+<Sync time="921.465"/>
+但國外在做酒的是皮
+</Turn>
+<Turn speaker="spk4" startTime="924.318" endTime="925.562">
+<Sync time="924.318"/>
+也不是皮多就是它那個
+</Turn>
+<Turn speaker="spk2" startTime="925.562" endTime="927.632">
+<Sync time="925.562"/>
+皮比較厚，肉只有一點點
+</Turn>
+<Turn speaker="spk1" startTime="927.632" endTime="949.081">
+<Sync time="927.632"/>
+其實葡萄的澀味#啊，是來自於外皮跟蒂頭
+<Sync time="931.412"/>
+而這個獨特的口感確是葡萄酒美味的關鍵
+<Sync time="934.632"/>
+在台灣，釀酒的葡萄品種#啊
+<Sync time="936.881"/>
+普遍是皮薄肉多
+<Sync time="938.992"/>
+哎，我很好奇哎，這釀出來的風味適合做什麼樣的料理吼
+<Sync time="943.436"/>
+[music]
+<Sync time="947.881"/>
+它很年輕吼
+</Turn>
+<Turn speaker="spk9" startTime="949.081" endTime="950.125">
+<Sync time="949.081"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="950.125" endTime="962.867">
+<Sync time="950.125"/>
+顏色也是
+<Sync time="951.371"/>
+[noise]
+<Sync time="955.482"/>
+[music]
+<Sync time="959.756"/>
+哦，這個是最不甜的嗎
+</Turn>
+<Turn speaker="spk9" startTime="962.867" endTime="963.422">
+<Sync time="962.867"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="963.422" endTime="965.217">
+<Sync time="963.422"/>
+很甜耶
+<Sync time="964.895"/>
+對#啊
+</Turn>
+<Turn speaker="spk2" startTime="965.217" endTime="966.375">
+<Sync time="965.217"/>
+算甜的
+</Turn>
+<Turn speaker="spk1" startTime="966.375" endTime="968.228">
+<Sync time="966.375"/>
+完全是[overlap]像果汁了
+</Turn>
+<Turn speaker="spk2" startTime="968.228" endTime="969.001">
+<Sync time="968.228"/>
+就是果汁
+</Turn>
+<Turn speaker="spk1" startTime="969.001" endTime="971.316">
+<Sync time="969.001"/>
+但就是因為這是二林的葡萄
+</Turn>
+<Turn speaker="spk9" startTime="971.316" endTime="971.847">
+<Sync time="971.316"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="971.847" endTime="972.399">
+<Sync time="971.847"/>
+弄出來的
+</Turn>
+<Turn speaker="spk9" startTime="972.399" endTime="978.969">
+<Sync time="972.399"/>
+黑後葡萄就是這一種，酸澀度會比較明顯
+<Sync time="975.291"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="978.969" endTime="980.583">
+<Sync time="978.969"/>
+這個你會拿來做菜嗎
+</Turn>
+<Turn speaker="spk4" startTime="980.583" endTime="981.149">
+<Sync time="980.583"/>
+會#啊
+</Turn>
+<Turn speaker="spk1" startTime="981.149" endTime="981.517">
+<Sync time="981.149"/>
+會喔
+</Turn>
+<Turn speaker="spk4" startTime="981.517" endTime="988.139">
+<Sync time="981.517"/>
+一般來，其實做醬汁比較多
+<Sync time="983.666"/>
+就是搭配肉的
+<Sync time="984.916"/>
+比如說肉味越重的肉，我就會搭配這種的
+</Turn>
+<Turn speaker="spk2" startTime="988.139" endTime="996.396">
+<Sync time="988.139"/>
+可是我覺得這一支，如果要真的要做給肉類的料理
+<Sync time="990.797"/>
+我覺得它應該很適合配鴨，鴨胸
+<Sync time="993.741"/>
+因為它現在有一點點櫻桃的感覺
+</Turn>
+<Turn speaker="spk1" startTime="996.396" endTime="1009.032">
+<Sync time="996.396"/>
+有，也有很多人都認為說
+<Sync time="998.887"/>
+我們每次在做菜，什麼紅酒燉牛肉，或是紅酒做醬汁或幹麼
+<Sync time="1002.338"/>
+很多人就會有一個很大的疑問
+<Sync time="1004.66"/>
+哦，就是到底用什麼樣子得紅酒適合拿來做料理
+</Turn>
+<Turn speaker="spk2" startTime="1009.032" endTime="1033.058">
+<Sync time="1009.032"/>
+其實第一先看價錢嘛
+<Sync time="1010.497"/>
+對，價錢先決定
+<Sync time="1012.195"/>
+因為我們看是，#呃，直接喝的可能價錢可以高一點
+<Sync time="1016.028"/>
+但如果做料理的，可能還要經過濃縮
+<Sync time="1018.3"/>
+所以我們會先從價錢去決定
+<Sync time="1020.372"/>
+那再來就是看，其實它如果偏酸或偏澀一點的
+<Sync time="1024.614"/>
+其實我都不會挑選
+<Sync time="1026.143"/>
+因為那經過濃縮之後，味道只會再更重，加乘
+<Sync time="1029.376"/>
+那這樣最後做起來的醬汁，其實，可能會
+</Turn>
+<Turn speaker="spk1" startTime="1033.058" endTime="1033.386">
+<Sync time="1033.058"/>
+過重
+</Turn>
+<Turn speaker="spk2" startTime="1033.386" endTime="1046.063">
+<Sync time="1033.386"/>
+過重
+<Sync time="1033.939"/>
+所以像今天可能這一支是甜的
+<Sync time="1036.415"/>
+它其實經過濃縮之後，像剛剛提到
+<Sync time="1039.604"/>
+給甜點其實就非常適合
+<Sync time="1042.715"/>
+對，或者是肉類料理，野味
+<Sync time="1044.757"/>
+我覺得都滿好的
+</Turn>
+<Turn speaker="spk1" startTime="1046.063" endTime="1073.014">
+<Sync time="1046.063"/>
+哎呦，想不到二林葡萄酒的味道
+<Sync time="1048.975"/>
+竟然是偏甜的
+<Sync time="1050.546"/>
+相較於#啊，一般的葡萄酒來說
+<Sync time="1053.034"/>
+澀味是比較少的
+<Sync time="1054.645"/>
+反而多了一點微微的酸
+<Sync time="1056.365"/>
+雖然滋味不同，卻適合拿來做料理
+<Sync time="1058.819"/>
+所以我們決定
+<Sync time="1059.764"/>
+這次二林風法國菜交流
+<Sync time="1061.952"/>
+就以葡萄酒為主題
+<Sync time="1063.672"/>
+並找一樣#啊，在地的食材來搭配
+<Sync time="1066.079"/>
+接下來弘岳說
+<Sync time="1067.716"/>
+他要私心推薦一個二林特產哎
+<Sync time="1070.457"/>
+[music]
+<Sync time="1071.64"/>
+來這個地方是要看什麼
+</Turn>
+<Turn speaker="spk4" startTime="1073.014" endTime="1076.116">
+<Sync time="1073.014"/>
+我們今天要再來看那個，#呃，草生的苦瓜
+</Turn>
+<Turn speaker="spk2" startTime="1076.116" endTime="1076.993">
+<Sync time="1076.116"/>
+草生的
+</Turn>
+<Turn speaker="spk1" startTime="1076.993" endTime="1077.749">
+<Sync time="1076.993"/>
+苦瓜
+</Turn>
+<Turn speaker="spk4" startTime="1077.749" endTime="1078.242">
+<Sync time="1077.749"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="1078.242" endTime="1081.986">
+<Sync time="1078.242"/>
+苦瓜
+<Sync time="1079.658"/>
+什麼叫做草生的苦瓜
+</Turn>
+<Turn speaker="spk4" startTime="1081.986" endTime="1086.88">
+<Sync time="1081.986"/>
+#呃，友善種植
+<Sync time="1083.638"/>
+然後其實他的果園就是跟我們
+</Turn>
+<Turn speaker="spk1" startTime="1086.88" endTime="1088.376">
+<Sync time="1086.88"/>
+無農藥栽種的啦
+</Turn>
+<Turn speaker="spk4" startTime="1088.376" endTime="1088.743">
+<Sync time="1088.376"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="1088.743" endTime="1089.294">
+<Sync time="1088.743"/>
+是不是
+</Turn>
+<Turn speaker="spk4" startTime="1089.294" endTime="1089.641">
+<Sync time="1089.294"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="1089.641" endTime="1091.326">
+<Sync time="1089.641"/>
+嗨
+</Turn>
+<Turn speaker="spk10" startTime="1091.326" endTime="1092.1">
+<Sync time="1091.326"/>
+你好
+</Turn>
+<Turn speaker="spk1" startTime="1092.1" endTime="1093.141">
+<Sync time="1092.1"/>
+班長你好
+</Turn>
+<Turn speaker="spk10" startTime="1093.141" endTime="1094.041">
+<Sync time="1093.141"/>
+你好
+</Turn>
+<Turn speaker="spk1" startTime="1094.041" endTime="1094.607">
+<Sync time="1094.041"/>
+你好，你好
+</Turn>
+<Turn speaker="spk2" startTime="1094.607" endTime="1097.125">
+<Sync time="1094.607"/>
+你好
+<Sync time="1095.22"/>
+[overlap]
+</Turn>
+<Turn speaker="spk1" startTime="1097.125" endTime="1099.977">
+<Sync time="1097.125"/>
+他，他推薦說我們來這邊看你的，種的苦瓜
+</Turn>
+<Turn speaker="spk10" startTime="1099.977" endTime="1100.609">
+<Sync time="1099.977"/>
+對呀，對
+</Turn>
+<Turn speaker="spk1" startTime="1100.609" endTime="1105.663">
+<Sync time="1100.609"/>
+但我請教你一件事情
+<Sync time="1102.555"/>
+為什麼有那個
+<Sync time="1103.31"/>
+[music]
+</Turn>
+<Turn speaker="spk10" startTime="1105.663" endTime="1109.504">
+<Sync time="1105.663"/>
+授粉完成#啊，十八天就變成現在這麼大條了
+</Turn>
+<Turn speaker="spk1" startTime="1109.504" endTime="1111.1">
+<Sync time="1109.504"/>
+授粉十八天就變這樣子
+</Turn>
+<Turn speaker="spk10" startTime="1111.1" endTime="1112.421">
+<Sync time="1111.1"/>
+對，十八天
+</Turn>
+<Turn speaker="spk1" startTime="1112.421" endTime="1114.319">
+<Sync time="1112.421"/>
+你說它授粉之後這個變這樣子
+</Turn>
+<Turn speaker="spk10" startTime="1114.319" endTime="1122.639">
+<Sync time="1114.319"/>
+對，對，對
+<Sync time="1114.871"/>
+[music]
+<Sync time="1118.526"/>
+但我現在整個嘴巴呈現像什麼，你知道
+<Sync time="1121.65"/>
+蓮霧
+</Turn>
+<Turn speaker="spk2" startTime="1122.639" endTime="1123.253">
+<Sync time="1122.639"/>
+蓮霧
+</Turn>
+<Turn speaker="spk1" startTime="1123.253" endTime="1127.546">
+<Sync time="1123.253"/>
+#嗯
+<Sync time="1125.4"/>
+出發嘍
+<Sync time="1125.871"/>
+嗨
+</Turn>
+<Turn speaker="spk10" startTime="1127.546" endTime="1128.282">
+<Sync time="1127.546"/>
+你好
+</Turn>
+<Turn speaker="spk1" startTime="1128.282" endTime="1130.84">
+<Sync time="1128.282"/>
+班長你好
+<Sync time="1129.244"/>
+[overlap]
+</Turn>
+<Turn speaker="spk2" startTime="1130.84" endTime="1131.433">
+<Sync time="1130.84"/>
+你好
+</Turn>
+<Turn speaker="spk10" startTime="1131.433" endTime="1132.595">
+<Sync time="1131.433"/>
+你好，你好
+</Turn>
+<Turn speaker="spk4" startTime="1132.595" endTime="1133.164">
+<Sync time="1132.595"/>
+班長你好
+</Turn>
+<Turn speaker="spk1" startTime="1133.164" endTime="1136.308">
+<Sync time="1133.164"/>
+他，他推薦說我們來這邊看你的，種的苦瓜
+</Turn>
+<Turn speaker="spk10" startTime="1136.308" endTime="1136.841">
+<Sync time="1136.308"/>
+對#啊，對#啊
+</Turn>
+<Turn speaker="spk1" startTime="1136.841" endTime="1140.055">
+<Sync time="1136.841"/>
+但我請教你一件事情
+<Sync time="1138.314"/>
+為什麼有那個
+</Turn>
+<Turn speaker="spk10" startTime="1140.055" endTime="1151.197">
+<Sync time="1140.055"/>
+哦，這個是我們因為要等一下在網子裡面
+<Sync time="1144.346"/>
+我們等一下是公花跟母花它們不同朵東西
+<Sync time="1148.234"/>
+要靠蜜蜂媒介，就是跟授粉
+</Turn>
+<Turn speaker="spk1" startTime="1151.197" endTime="1155.537">
+<Sync time="1151.197"/>
+我現在還沒進去
+<Sync time="1152.684"/>
+但我乍看是，你都是把它網起來
+</Turn>
+<Turn speaker="spk10" startTime="1155.537" endTime="1156.986">
+<Sync time="1155.537"/>
+對，都圍[overlap]起來，對
+</Turn>
+<Turn speaker="spk1" startTime="1156.986" endTime="1159.95">
+<Sync time="1156.986"/>
+好，那你現在把它打開，你把蜜蜂丟進去
+</Turn>
+<Turn speaker="spk10" startTime="1159.95" endTime="1167.755">
+<Sync time="1159.95"/>
+它有一個生命週期
+<Sync time="1161.46"/>
+我們就是說二十天把它放在網室裡面
+<Sync time="1166.162"/>
+二十天出來外面
+</Turn>
+<Turn speaker="spk1" startTime="1167.755" endTime="1171.536">
+<Sync time="1167.755"/>
+等一下，等一下
+<Sync time="1168.852"/>
+容我理解的是
+<Sync time="1169.877"/>
+你說二十天對不對
+</Turn>
+<Turn speaker="spk10" startTime="1171.536" endTime="1174.486">
+<Sync time="1171.536"/>
+對，二十天那一箱要抱出來外面
+</Turn>
+<Turn speaker="spk1" startTime="1174.486" endTime="1179.242">
+<Sync time="1174.486"/>
+二十天你把它放進去，它進去
+<Sync time="1176.446"/>
+二十天之後，你就可以全部都抓出來
+</Turn>
+<Turn speaker="spk10" startTime="1179.242" endTime="1180.722">
+<Sync time="1179.242"/>
+它是整個蜜蜂箱
+</Turn>
+<Turn speaker="spk1" startTime="1180.722" endTime="1180.947">
+<Sync time="1180.722"/>
+對
+</Turn>
+<Turn speaker="spk10" startTime="1180.947" endTime="1184.247">
+<Sync time="1180.947"/>
+它到晚上的時候，所有的蜜蜂都[overlap]回去了
+</Turn>
+<Turn speaker="spk1" startTime="1184.247" endTime="1184.492">
+<Sync time="1184.247"/>
+那你再
+</Turn>
+<Turn speaker="spk10" startTime="1184.492" endTime="1185.516">
+<Sync time="1184.492"/>
+你把門關起來
+</Turn>
+<Turn speaker="spk1" startTime="1185.516" endTime="1186.701">
+<Sync time="1185.516"/>
+然後趁黑把它拿走
+</Turn>
+<Turn speaker="spk10" startTime="1186.701" endTime="1190.705">
+<Sync time="1186.701"/>
+趁黑把它拿出來
+<Sync time="1187.875"/>
+你就趁黑這一箱就在換回去這樣
+</Turn>
+<Turn speaker="spk1" startTime="1190.705" endTime="1200.214">
+<Sync time="1190.705"/>
+這蜜蜂也是蠻有趣的哦
+<Sync time="1191.926"/>
+一覺睡起來，怎麼實物都不見了
+<Sync time="1194.337"/>
+[overlap]然後突然一下，哇，食物很多這樣
+<Sync time="1198.552"/>
+所以它現在，裡面是很多蜜蜂的
+</Turn>
+<Turn speaker="spk10" startTime="1200.214" endTime="1202.646">
+<Sync time="1200.214"/>
+有，對，現在很多蜜蜂，對
+</Turn>
+<Turn speaker="spk1" startTime="1202.646" endTime="1206.846">
+<Sync time="1202.646"/>
+我跟你說，蜜蜂不用怕
+<Sync time="1204.434"/>
+慢一點，動作慢一點，不要大
+</Turn>
+<Turn speaker="spk2" startTime="1206.846" endTime="1207.255">
+<Sync time="1206.846"/>
+好
+</Turn>
+<Turn speaker="spk10" startTime="1207.255" endTime="1209.621">
+<Sync time="1207.255"/>
+也還好啦，不會影響到我們#呢
+</Turn>
+<Turn speaker="spk1" startTime="1209.621" endTime="1210.702">
+<Sync time="1209.621"/>
+他說不會影響到
+</Turn>
+<Turn speaker="spk2" startTime="1210.702" endTime="1211.131">
+<Sync time="1210.702"/>
+真的嗎
+</Turn>
+<Turn speaker="spk1" startTime="1211.131" endTime="1211.476">
+<Sync time="1211.131"/>
+好不好
+</Turn>
+<Turn speaker="spk10" startTime="1211.476" endTime="1212.067">
+<Sync time="1211.476"/>
+你看裡面它
+</Turn>
+<Turn speaker="spk1" startTime="1212.067" endTime="1213.986">
+<Sync time="1212.067"/>
+那我們從這邊進去是不是
+<Sync time="1213.323"/>
+好，來來來
+</Turn>
+<Turn speaker="spk2" startTime="1213.986" endTime="1215.151">
+<Sync time="1213.986"/>
+我現在有看到在飛了耶
+</Turn>
+<Turn speaker="spk1" startTime="1215.151" endTime="1220.536">
+<Sync time="1215.151"/>
+那你們先進去，因為我車子沒有關好
+<Sync time="1217.504"/>
+好不好，我去，我去關一下車門我就回來
+</Turn>
+<Turn speaker="spk2" startTime="1220.536" endTime="1222.029">
+<Sync time="1220.536"/>
+我東西好像也沒有拿哦
+</Turn>
+<Turn speaker="spk1" startTime="1222.029" endTime="1225.544">
+<Sync time="1222.029"/>
+你反應很不錯
+</Turn>
+<Turn speaker="spk10" startTime="1225.544" endTime="1244.628">
+<Sync time="1225.544"/>
+沒有這麼可怕
+<Sync time="1226.564"/>
+[music]
+<Sync time="1229.508"/>
+[music]
+<Sync time="1232.018"/>
+剛才我跟各位
+<Sync time="1233.826"/>
+跟你們介紹的就是現在
+<Sync time="1235.703"/>
+所謂這一支
+<Sync time="1237.108"/>
+這個是公花，公花它不帶果
+<Sync time="1239.945"/>
+這個叫母花，它有帶果
+<Sync time="1243.344"/>
+它們兩個要授粉
+</Turn>
+<Turn speaker="spk1" startTime="1244.628" endTime="1251.089">
+<Sync time="1244.628"/>
+讓大家看一下什麼叫公花母花
+<Sync time="1247.118"/>
+歪歪的
+<Sync time="1250.211"/>
+有沒有
+</Turn>
+<Turn speaker="spk2" startTime="1251.089" endTime="1254.561">
+<Sync time="1251.089"/>
+嗯，這裡胖胖的是母花
+</Turn>
+<Turn speaker="spk10" startTime="1254.561" endTime="1255.949">
+<Sync time="1254.561"/>
+對，它有帶果
+</Turn>
+<Turn speaker="spk2" startTime="1255.949" endTime="1256.316">
+<Sync time="1255.949"/>
+帶果
+</Turn>
+<Turn speaker="spk1" startTime="1256.316" endTime="1257.418">
+<Sync time="1256.316"/>
+帶果
+</Turn>
+<Turn speaker="spk4" startTime="1257.418" endTime="1258.194">
+<Sync time="1257.418"/>
+果就是果實#啊
+</Turn>
+<Turn speaker="spk1" startTime="1258.194" endTime="1261.005">
+<Sync time="1258.194"/>
+因為[overlap]，因為只有這個以後會變成苦瓜
+</Turn>
+<Turn speaker="spk10" startTime="1261.005" endTime="1267.658">
+<Sync time="1261.005"/>
+對，以後它會長大條
+<Sync time="1263.049"/>
+授粉完成十八天，就變成現在這麼大條了
+<Sync time="1266.637"/>
+我們這後面這麼大條
+</Turn>
+<Turn speaker="spk1" startTime="1267.658" endTime="1269.145">
+<Sync time="1267.658"/>
+授粉十八天就變成這樣子
+</Turn>
+<Turn speaker="spk10" startTime="1269.145" endTime="1270.521">
+<Sync time="1269.145"/>
+哎，對，十八天
+</Turn>
+<Turn speaker="spk1" startTime="1270.521" endTime="1272.586">
+<Sync time="1270.521"/>
+你說它授粉之後，這個變這樣子
+</Turn>
+<Turn speaker="spk10" startTime="1272.586" endTime="1273.095">
+<Sync time="1272.586"/>
+對，對
+</Turn>
+<Turn speaker="spk2" startTime="1273.095" endTime="1273.828">
+<Sync time="1273.095"/>
+十八天耶
+</Turn>
+<Turn speaker="spk10" startTime="1273.828" endTime="1274.954">
+<Sync time="1273.828"/>
+十八天就可以採收
+</Turn>
+<Turn speaker="spk2" startTime="1274.954" endTime="1276.611">
+<Sync time="1274.954"/>
+這真的是一暝大一吋
+</Turn>
+<Turn speaker="spk1" startTime="1276.611" endTime="1277.589">
+<Sync time="1276.611"/>
+好幾寸呢
+</Turn>
+<Turn speaker="spk10" startTime="1277.589" endTime="1279.033">
+<Sync time="1277.589"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="1279.033" endTime="1280.266">
+<Sync time="1279.033"/>
+十八天就變成這樣
+</Turn>
+<Turn speaker="spk10" startTime="1280.266" endTime="1281.982">
+<Sync time="1280.266"/>
+對對對，原則是十八天
+</Turn>
+<Turn speaker="spk1" startTime="1281.982" endTime="1284.561">
+<Sync time="1281.982"/>
+我們剛剛問那個小白菜是幾天，二十天
+</Turn>
+<Turn speaker="spk2" startTime="1284.561" endTime="1285.442">
+<Sync time="1284.561"/>
+對，二十天
+</Turn>
+<Turn speaker="spk1" startTime="1285.442" endTime="1286.848">
+<Sync time="1285.442"/>
+種子丟進去二十天可以採收
+</Turn>
+<Turn speaker="spk2" startTime="1286.848" endTime="1287.198">
+<Sync time="1286.848"/>
+可以吃
+</Turn>
+<Turn speaker="spk1" startTime="1287.198" endTime="1287.893">
+<Sync time="1287.198"/>
+這個十八天
+</Turn>
+<Turn speaker="spk10" startTime="1287.893" endTime="1290.298">
+<Sync time="1287.893"/>
+十八天而已
+<Sync time="1288.688"/>
+它這樣叫授粉
+</Turn>
+<Turn speaker="spk11" startTime="1290.298" endTime="1292.134">
+<Sync time="1290.298"/>
+他要有養蜜蜂才行
+</Turn>
+<Turn speaker="spk1" startTime="1292.134" endTime="1293.957">
+<Sync time="1292.134"/>
+對，這邊要養蜜蜂才行
+</Turn>
+<Turn speaker="spk2" startTime="1293.957" endTime="1297.67">
+<Sync time="1293.957"/>
+我剛原本以為養蜜蜂是要做那個蜂蜜苦瓜汁
+</Turn>
+<Turn speaker="spk1" startTime="1297.67" endTime="1333.988">
+<Sync time="1297.67"/>
+然後門口順便賣搖搖是不是
+<Sync time="1302.286"/>
+蜂蜜苦瓜汁都說得出來
+<Sync time="1306.228"/>
+我說昭蓉#啊，你真的是一個不折不扣的吃貨#啊
+<Sync time="1310.19"/>
+很好，我就喜歡人這個樣子
+<Sync time="1312.887"/>
+我們今天看到這種養蜜蜂來幫忙授粉的草本栽培方式#啊
+<Sync time="1317.746"/>
+其實是在台灣近年來的農業創新成果
+<Sync time="1321.28"/>
+不僅#啊，節省人工成本
+<Sync time="1323.406"/>
+在環保的同時還提高苦瓜的產量
+<Sync time="1326.412"/>
+哎，不過我發現這個二林苦瓜的品種跟平常看到的好像不太一樣吼
+<Sync time="1331.907"/>
+所以這個品種叫什麼
+</Turn>
+<Turn speaker="spk10" startTime="1333.988" endTime="1334.661">
+<Sync time="1333.988"/>
+美翠
+</Turn>
+<Turn speaker="spk1" startTime="1334.661" endTime="1335.317">
+<Sync time="1334.661"/>
+美翠
+</Turn>
+<Turn speaker="spk10" startTime="1335.317" endTime="1335.79">
+<Sync time="1335.317"/>
+哎，對
+</Turn>
+<Turn speaker="spk1" startTime="1335.79" endTime="1336.258">
+<Sync time="1335.79"/>
+為什麼叫美
+</Turn>
+<Turn speaker="spk10" startTime="1336.258" endTime="1337.399">
+<Sync time="1336.258"/>
+美麗的美#啊，那個
+</Turn>
+<Turn speaker="spk1" startTime="1337.399" endTime="1338.031">
+<Sync time="1337.399"/>
+翠綠的翠
+</Turn>
+<Turn speaker="spk10" startTime="1338.031" endTime="1338.787">
+<Sync time="1338.031"/>
+翠綠的翠
+</Turn>
+<Turn speaker="spk1" startTime="1338.787" endTime="1339.725">
+<Sync time="1338.787"/>
+它的特色是什麼
+</Turn>
+<Turn speaker="spk10" startTime="1339.725" endTime="1343.399">
+<Sync time="1339.725"/>
+它的特色#啊，就是說形狀大眾喜歡
+</Turn>
+<Turn speaker="spk1" startTime="1343.399" endTime="1344.726">
+<Sync time="1343.399"/>
+它生吃好吃嗎
+</Turn>
+<Turn speaker="spk10" startTime="1344.726" endTime="1350.569">
+<Sync time="1344.726"/>
+哎，還可以，很好吃#啊
+<Sync time="1346.152"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="1350.569" endTime="1351.325">
+<Sync time="1350.569"/>
+套子幫我拿著
+</Turn>
+<Turn speaker="spk2" startTime="1351.325" endTime="1365.053">
+<Sync time="1351.325"/>
+好，你先吃
+<Sync time="1353.33"/>
+[music]
+<Sync time="1357.631"/>
+苦嗎
+<Sync time="1358.201"/>
+[music]
+<Sync time="1364.316"/>
+不苦
+</Turn>
+<Turn speaker="spk1" startTime="1365.053" endTime="1366.176">
+<Sync time="1365.053"/>
+我好像在吃玉米
+</Turn>
+<Turn speaker="spk2" startTime="1366.176" endTime="1370.386">
+<Sync time="1366.176"/>
+真的假的
+<Sync time="1367.297"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="1370.386" endTime="1375.127">
+<Sync time="1370.386"/>
+一入口的時候
+<Sync time="1371.733"/>
+大概咬個第二口的時候
+<Sync time="1373.9"/>
+它的苦味就上來了
+</Turn>
+<Turn speaker="spk2" startTime="1375.127" endTime="1375.575">
+<Sync time="1375.127"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="1375.575" endTime="1379.717">
+<Sync time="1375.575"/>
+但我現在整，整個嘴巴呈現的像什麼，你知道
+<Sync time="1378.27"/>
+蓮霧
+</Turn>
+<Turn speaker="spk2" startTime="1379.717" endTime="1380.382">
+<Sync time="1379.717"/>
+蓮霧
+</Turn>
+<Turn speaker="spk1" startTime="1380.382" endTime="1380.599">
+<Sync time="1380.382"/>
+#嗯
+</Turn>
+<Turn speaker="spk2" startTime="1380.599" endTime="1383.861">
+<Sync time="1380.599"/>
+這麼多水，甜嗎
+</Turn>
+<Turn speaker="spk1" startTime="1383.861" endTime="1390.556">
+<Sync time="1383.861"/>
+沒有甜，但是它是，是甘甜
+<Sync time="1385.583"/>
+[music]
+<Sync time="1389.433"/>
+第二口苦了哈
+</Turn>
+<Turn speaker="spk2" startTime="1390.556" endTime="1391.121">
+<Sync time="1390.556"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="1391.121" endTime="1392.867">
+<Sync time="1391.121"/>
+還沒，繼續咬
+<Sync time="1391.97"/>
+在吃一口
+</Turn>
+<Turn speaker="spk2" startTime="1392.867" endTime="1393.519">
+<Sync time="1392.867"/>
+還是苦#啊
+</Turn>
+<Turn speaker="spk1" startTime="1393.519" endTime="1399.339">
+<Sync time="1393.519"/>
+你在吃一口嘛
+<Sync time="1394.42"/>
+[music]
+<Sync time="1396.732"/>
+好，繼續咬
+<Sync time="1397.549"/>
+第二口又苦了對不對
+<Sync time="1398.496"/>
+好，你現在
+</Turn>
+<Turn speaker="spk2" startTime="1399.339" endTime="1400.465">
+<Sync time="1399.339"/>
+你要叫我吃整支
+</Turn>
+<Turn speaker="spk1" startTime="1400.465" endTime="1410.899">
+<Sync time="1400.465"/>
+不是，不是，你噴我幹什麼啦
+<Sync time="1403.199"/>
+沒有，你現在繼續咬
+<Sync time="1405.217"/>
+苦味不見了
+<Sync time="1406.441"/>
+就剩下是沒有味道沒有甜味，但是口感是蓮霧的口感，是不是
+</Turn>
+<Turn speaker="spk2" startTime="1410.899" endTime="1412.509">
+<Sync time="1410.899"/>
+是真的是蓮霧的口感
+</Turn>
+<Turn speaker="spk1" startTime="1412.509" endTime="1414.408">
+<Sync time="1412.509"/>
+對不對
+<Sync time="1412.92"/>
+但沒苦啦
+<Sync time="1413.734"/>
+現在有苦嗎
+</Turn>
+<Turn speaker="spk2" startTime="1414.408" endTime="1415.692">
+<Sync time="1414.408"/>
+還有一點點
+</Turn>
+<Turn speaker="spk1" startTime="1415.692" endTime="1417.305">
+<Sync time="1415.692"/>
+但回甘回甘的啦
+</Turn>
+<Turn speaker="spk2" startTime="1417.305" endTime="1419.877">
+<Sync time="1417.305"/>
+對，不會說苦到說
+<Sync time="1419.203"/>
+吞不下去那一種
+</Turn>
+<Turn speaker="spk1" startTime="1419.877" endTime="1423.64">
+<Sync time="1419.877"/>
+它不會像吃中藥一樣
+<Sync time="1421.11"/>
+剛[overlap]開始苦然後越來越苦，越來越苦，然後苦到你眼睛瞇起來這樣
+</Turn>
+<Turn speaker="spk2" startTime="1423.64" endTime="1423.985">
+<Sync time="1423.64"/>
+它不會
+</Turn>
+<Turn speaker="spk1" startTime="1423.985" endTime="1429.6">
+<Sync time="1423.985"/>
+它會[overlap]咬著咬著那個甘甜，像現在嘴巴就是那種青菜甜了
+<Sync time="1427.578"/>
+對不對，沒騙你吧
+<Sync time="1428.843"/>
+你有這樣吃過嗎
+</Turn>
+<Turn speaker="spk4" startTime="1429.6" endTime="1430.089">
+<Sync time="1429.6"/>
+沒有哎
+</Turn>
+<Turn speaker="spk1" startTime="1430.089" endTime="1431.026">
+<Sync time="1430.089"/>
+來，來，來
+<Sync time="1430.618"/>
+第一次
+</Turn>
+<Turn speaker="spk4" startTime="1431.026" endTime="1433.291">
+<Sync time="1431.026"/>
+我是[overlap]，直接打汁
+</Turn>
+<Turn speaker="spk1" startTime="1433.291" endTime="1442.946">
+<Sync time="1433.291"/>
+好苦嘛
+<Sync time="1435.148"/>
+然後接下來慢慢慢慢慢
+<Sync time="1436.983"/>
+那個苦味就消掉，然後現在嘴巴裡面咬到碎碎的時候就像蓮霧的口感
+<Sync time="1441.374"/>
+對不對
+</Turn>
+<Turn speaker="spk4" startTime="1442.946" endTime="1444.726">
+<Sync time="1442.946"/>
+沒有，我畫面是中藥耶
+</Turn>
+<Turn speaker="spk1" startTime="1444.726" endTime="1474.666">
+<Sync time="1444.726"/>
+這個美翠苦瓜的口感我很喜歡
+<Sync time="1449.162"/>
+比起傳統的白玉苦瓜#啊，多了更多的水分
+<Sync time="1452.25"/>
+而且#啊，因為脆度足夠的關係
+<Sync time="1454.013"/>
+很適合拿來做涼拌料理
+<Sync time="1456.076"/>
+聽徐班長說#啊
+<Sync time="1457.424"/>
+二林這邊#啊，總共種植了五種左右的苦瓜
+<Sync time="1460.366"/>
+每一種品種適合的料理方式也不太一樣
+<Sync time="1463.052"/>
+其中有一款苦瓜#啊，是二林的新品種
+<Sync time="1465.842"/>
+徐班長熱情的煮了一鍋湯要我們來品嘗看看
+<Sync time="1469.053"/>
+哎，不曉得哪一個品種更適合來搭配二林的葡萄酒哎
+<Sync time="1473.142"/>
+怎麼樣
+</Turn>
+<Turn speaker="spk2" startTime="1474.666" endTime="1482.944">
+<Sync time="1474.666"/>
+其實在熱天裡面喝熱湯，其實蠻舒服的一件事情
+</Turn>
+<Turn speaker="spk1" startTime="1482.944" endTime="1502.547">
+<Sync time="1482.944"/>
+哦，它裡面放鳳梨吼
+<Sync time="1485.237"/>
+鳳梨，苦瓜，雞呀
+<Sync time="1488.105"/>
+#嗯
+<Sync time="1488.739"/>
+[music]
+<Sync time="1491.839"/>
+這好像只有台灣有哎
+<Sync time="1493.375"/>
+有沒有，鳳梨，苦瓜，雞這件事情
+<Sync time="1496.566"/>
+這個是白玉苦瓜嗎
+<Sync time="1498.159"/>
+好像白玉苦瓜比較苦喔
+<Sync time="1500.755"/>
+是不是，你有吃嗎
+</Turn>
+<Turn speaker="spk2" startTime="1502.547" endTime="1503.325">
+<Sync time="1502.547"/>
+白玉會比較苦嗎
+</Turn>
+<Turn speaker="spk1" startTime="1503.325" endTime="1504.706">
+<Sync time="1503.325"/>
+我不知道，我現在吃的這個滿苦的
+</Turn>
+<Turn speaker="spk2" startTime="1504.706" endTime="1513.314">
+<Sync time="1504.706"/>
+不會哎，我在吃一個
+<Sync time="1506.203"/>
+[music]
+<Sync time="1508.369"/>
+我等一下又說，我其實喜歡吃苦瓜，會不會整集都是我喜歡吃的
+</Turn>
+<Turn speaker="spk1" startTime="1513.314" endTime="1515.359">
+<Sync time="1513.314"/>
+不會#啊，妳本來就很喜歡吃苦瓜，剛你已經說了
+</Turn>
+<Turn speaker="spk2" startTime="1515.359" endTime="1515.705">
+<Sync time="1515.359"/>
+對#啊
+</Turn>
+<Turn speaker="spk1" startTime="1515.705" endTime="1519.275">
+<Sync time="1515.705"/>
+對#啊
+<Sync time="1516.173"/>
+怎麼樣
+</Turn>
+<Turn speaker="spk2" startTime="1519.275" endTime="1520.072">
+<Sync time="1519.275"/>
+不會苦啊
+</Turn>
+<Turn speaker="spk1" startTime="1520.072" endTime="1523.122">
+<Sync time="1520.072"/>
+不會苦
+<Sync time="1521.421"/>
+跟剛剛那個脆口的比起來呢
+</Turn>
+<Turn speaker="spk2" startTime="1523.122" endTime="1525.448">
+<Sync time="1523.122"/>
+不會苦
+</Turn>
+<Turn speaker="spk1" startTime="1525.448" endTime="1528.687">
+<Sync time="1525.448"/>
+脆口的比較不苦吧
+<Sync time="1526.896"/>
+剛剛那個[overlap]
+<Sync time="1528.116"/>
+這個比較苦吧
+</Turn>
+<Turn speaker="spk2" startTime="1528.687" endTime="1529.52">
+<Sync time="1528.687"/>
+這個比較不苦
+</Turn>
+<Turn speaker="spk1" startTime="1529.52" endTime="1530.442">
+<Sync time="1529.52"/>
+來，該你
+</Turn>
+<Turn speaker="spk4" startTime="1530.442" endTime="1535.126">
+<Sync time="1530.442"/>
+我也覺得那個翠玉，美翠比較苦
+<Sync time="1533.025"/>
+美翠比較[overlap]苦
+</Turn>
+<Turn speaker="spk1" startTime="1535.126" endTime="1535.616">
+<Sync time="1535.126"/>
+有這種事
+</Turn>
+<Turn speaker="spk2" startTime="1535.616" endTime="1536.169">
+<Sync time="1535.616"/>
+#嗯
+</Turn>
+<Turn speaker="spk1" startTime="1536.169" endTime="1559.638">
+<Sync time="1536.169"/>
+對一個廚師來說，不同品種的苦瓜所呈現出來的苦味#啊
+<Sync time="1540.379"/>
+就算只是在後勁上有點些微的差異#啊
+<Sync time="1543.633"/>
+就會對整個料理的風味#啊，造成影響
+<Sync time="1546.394"/>
+所以兩位法廚再仔細比較之後#啊，決定選擇美翠苦瓜，作為這次的主食材
+<Sync time="1552.259"/>
+接下來弘岳神神秘秘的說帶我們去他的，哈
+<Sync time="1556.082"/>
+食材私房基地
+<Sync time="1557.94"/>
+這邊喔，你要幹嘛
+</Turn>
+<Turn speaker="spk4" startTime="1559.638" endTime="1562.875">
+<Sync time="1559.638"/>
+我們來採沿海的那個野菜
+</Turn>
+<Turn speaker="spk1" startTime="1562.875" endTime="1564.617">
+<Sync time="1562.875"/>
+沿海的野菜
+</Turn>
+<Turn speaker="spk4" startTime="1564.617" endTime="1564.974">
+<Sync time="1564.617"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="1564.974" endTime="1565.708">
+<Sync time="1564.974"/>
+海在哪邊
+</Turn>
+<Turn speaker="spk4" startTime="1565.708" endTime="1568.002">
+<Sync time="1565.708"/>
+海在這個方向一直去
+</Turn>
+<Turn speaker="spk1" startTime="1568.002" endTime="1568.88">
+<Sync time="1568.002"/>
+那個方向
+</Turn>
+<Turn speaker="spk4" startTime="1568.88" endTime="1569.23">
+<Sync time="1568.88"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="1569.23" endTime="1572.159">
+<Sync time="1569.23"/>
+我們剛剛是不是又經過西邊
+</Turn>
+<Turn speaker="spk4" startTime="1572.159" endTime="1573.368">
+<Sync time="1572.159"/>
+對，西邊
+</Turn>
+<Turn speaker="spk1" startTime="1573.368" endTime="1576.225">
+<Sync time="1573.368"/>
+有經過西邊嘛，對吧
+<Sync time="1574.857"/>
+這邊現在在哪邊
+</Turn>
+<Turn speaker="spk4" startTime="1576.225" endTime="1577.307">
+<Sync time="1576.225"/>
+我們在芳苑
+</Turn>
+<Turn speaker="spk1" startTime="1577.307" endTime="1578.347">
+<Sync time="1577.307"/>
+這，這是芳苑
+</Turn>
+<Turn speaker="spk4" startTime="1578.347" endTime="1579.305">
+<Sync time="1578.347"/>
+芳苑
+</Turn>
+<Turn speaker="spk1" startTime="1579.305" endTime="1580.63">
+<Sync time="1579.305"/>
+那有什麼可以吃
+</Turn>
+<Turn speaker="spk4" startTime="1580.63" endTime="1585.989">
+<Sync time="1580.63"/>
+#呃，目前的話就是我們眼睛看到的，除了一些，就是一些比較雜草的東西
+</Turn>
+<Turn speaker="spk1" startTime="1585.989" endTime="1589.767">
+<Sync time="1585.989"/>
+什麼叫做比較雜[overlap]草，現在看起來都是雜草
+<Sync time="1588.667"/>
+這是什麼
+</Turn>
+<Turn speaker="spk4" startTime="1589.767" endTime="1591.605">
+<Sync time="1589.767"/>
+這個叫，這個叫鹽定
+</Turn>
+<Turn speaker="spk1" startTime="1591.605" endTime="1593.383">
+<Sync time="1591.605"/>
+這可以吃嗎
+</Turn>
+<Turn speaker="spk4" startTime="1593.383" endTime="1594.198">
+<Sync time="1593.383"/>
+這都是鹽定
+</Turn>
+<Turn speaker="spk1" startTime="1594.198" endTime="1594.772">
+<Sync time="1594.198"/>
+可以[overlap]吃嗎
+</Turn>
+<Turn speaker="spk4" startTime="1594.772" endTime="1595.404">
+<Sync time="1594.772"/>
+然後因為
+</Turn>
+<Turn speaker="spk1" startTime="1595.404" endTime="1599.541">
+<Sync time="1595.404"/>
+它為什麼是紅色的
+<Sync time="1596.524"/>
+拉下來不知道的人還以為是那個什麼
+<Sync time="1598.909"/>
+藜麥
+</Turn>
+<Turn speaker="spk2" startTime="1599.541" endTime="1603.354">
+<Sync time="1599.541"/>
+哦，它看起來滿像的
+<Sync time="1601.907"/>
+直接吃嗎
+</Turn>
+<Turn speaker="spk1" startTime="1603.354" endTime="1606.037">
+<Sync time="1603.354"/>
+哎喲
+<Sync time="1603.744"/>
+[music]
+</Turn>
+<Turn speaker="spk4" startTime="1606.037" endTime="1606.833">
+<Sync time="1606.037"/>
+鹹鹹耶
+</Turn>
+<Turn speaker="spk1" startTime="1606.833" endTime="1609.013">
+<Sync time="1606.833"/>
+因為沿海
+</Turn>
+<Turn speaker="spk4" startTime="1609.013" endTime="1613.02">
+<Sync time="1609.013"/>
+還滿特殊的，就是它會因為它的，就是在那邊生長
+</Turn>
+<Turn speaker="spk2" startTime="1613.02" endTime="1614.839">
+<Sync time="1613.02"/>
+很像海葡萄的那種鹹
+</Turn>
+<Turn speaker="spk1" startTime="1614.839" endTime="1619.986">
+<Sync time="1614.839"/>
+海葡萄更鹹
+<Sync time="1615.983"/>
+但這個有一種，就是有種鹹鹹的口感
+<Sync time="1619.069"/>
+還有什麼
+</Turn>
+<Turn speaker="spk4" startTime="1619.986" endTime="1621.825">
+<Sync time="1619.986"/>
+這個，這個叫海馬齒莧
+</Turn>
+<Turn speaker="spk1" startTime="1621.825" endTime="1622.684">
+<Sync time="1621.825"/>
+海什麼
+</Turn>
+<Turn speaker="spk4" startTime="1622.684" endTime="1624.813">
+<Sync time="1622.684"/>
+海馬，海馬齒莧
+</Turn>
+<Turn speaker="spk2" startTime="1624.813" endTime="1626.04">
+<Sync time="1624.813"/>
+海馬齒莧
+</Turn>
+<Turn speaker="spk1" startTime="1626.04" endTime="1626.752">
+<Sync time="1626.04"/>
+這也可以吃
+</Turn>
+<Turn speaker="spk4" startTime="1626.752" endTime="1628.489">
+<Sync time="1626.752"/>
+這可以吃
+</Turn>
+<Turn speaker="spk1" startTime="1628.489" endTime="1630.166">
+<Sync time="1628.489"/>
+這個是不是在水族箱看過
+</Turn>
+<Turn speaker="spk4" startTime="1630.166" endTime="1632.208">
+<Sync time="1630.166"/>
+不一樣
+</Turn>
+<Turn speaker="spk1" startTime="1632.208" endTime="1635.651">
+<Sync time="1632.208"/>
+對#啊，這魚肉放在裡面很棒
+<Sync time="1634.471"/>
+魚啦，海鮮啦
+</Turn>
+<Turn speaker="spk2" startTime="1635.651" endTime="1637.693">
+<Sync time="1635.651"/>
+海鮮類的都適合
+</Turn>
+<Turn speaker="spk1" startTime="1637.693" endTime="1639.836">
+<Sync time="1637.693"/>
+這很方便耶
+<Sync time="1638.633"/>
+這都野生的嗎
+</Turn>
+<Turn speaker="spk4" startTime="1639.836" endTime="1640.469">
+<Sync time="1639.836"/>
+都是野生的
+</Turn>
+<Turn speaker="spk1" startTime="1640.469" endTime="1674.997">
+<Sync time="1640.469"/>
+#啊
+<Sync time="1641.208"/>
+哎喲，想不到海邊居然藏著可以用來做料理的香草哎
+<Sync time="1645.297"/>
+我一直提到使用在地食材是法國料理的核心精神
+<Sync time="1649.4"/>
+而香草#啊，又是左右法國菜風味的關鍵之一
+<Sync time="1653.089"/>
+看來要在二林開法國餐廳是很可以的喔
+<Sync time="1656.221"/>
+哦，取得共同食材之後#啊，兩位法廚分別需要去準備自己需要的食材羅
+<Sync time="1662.519"/>
+哎，等一下，昭蓉說她要去中藥行
+<Sync time="1665.011"/>
+哎喲，看來這場法菜交流越來越有趣了#啊
+<Sync time="1668.813"/>
+所以弘岳已經準備了貝類嘛，那你紅酒呢
+<Sync time="1672.677"/>
+那你神神秘秘說你要找中藥，中藥行
+</Turn>
+<Turn speaker="spk2" startTime="1674.997" endTime="1675.347">
+<Sync time="1674.997"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="1675.347" endTime="1676.292">
+<Sync time="1675.347"/>
+到底搞什麼神秘
+</Turn>
+<Turn speaker="spk2" startTime="1676.292" endTime="1683.615">
+<Sync time="1676.292"/>
+我想要做一個紅酒，通常在法餐裡面，有一個很經典的甜點,叫红酒燉洋梨
+</Turn>
+<Turn speaker="spk1" startTime="1683.615" endTime="1684.185">
+<Sync time="1683.615"/>
+對，沒錯
+</Turn>
+<Turn speaker="spk2" startTime="1684.185" endTime="1690.573">
+<Sync time="1684.185"/>
+那因為今天在二林這邊看到了兩個食材，一個是葡萄酒，跟一個苦瓜
+</Turn>
+<Turn speaker="spk4" startTime="1690.573" endTime="1691.312">
+<Sync time="1690.573"/>
+對#啊，沒錯，沒錯
+</Turn>
+<Turn speaker="spk2" startTime="1691.312" endTime="1698.198">
+<Sync time="1691.312"/>
+所以我想用苦瓜代替洋梨，我們來做一個紅酒燉苦瓜
+</Turn>
+<Turn speaker="spk1" startTime="1698.198" endTime="1699.696">
+<Sync time="1698.198"/>
+紅酒燉苦瓜
+</Turn>
+<Turn speaker="spk2" startTime="1699.696" endTime="1700.558">
+<Sync time="1699.696"/>
+紅酒燉苦瓜
+</Turn>
+<Turn speaker="spk1" startTime="1700.558" endTime="1701.605">
+<Sync time="1700.558"/>
+用洋梨的做法
+</Turn>
+<Turn speaker="spk2" startTime="1701.605" endTime="1714.097">
+<Sync time="1701.605"/>
+對，用洋梨的做法
+<Sync time="1702.938"/>
+所以我們再來看看能不能在配一球香草冰淇淋
+<Sync time="1706.8"/>
+用紅酒去做成一個像黑糖漿這樣子，對，淋在香草冰淇淋上面
+</Turn>
+<Turn speaker="spk1" startTime="1714.097" endTime="1717.262">
+<Sync time="1714.097"/>
+那我大概知道你去中藥行要幹什麼了
+<Sync time="1716.604"/>
+她要買東西
+</Turn>
+<Turn speaker="spk2" startTime="1717.262" endTime="1718.074">
+<Sync time="1717.262"/>
+老板你好
+</Turn>
+<Turn speaker="spk1" startTime="1718.074" endTime="1718.813">
+<Sync time="1718.074"/>
+她要買東西
+</Turn>
+<Turn speaker="spk2" startTime="1718.813" endTime="1721.198">
+<Sync time="1718.813"/>
+我要買肉桂
+</Turn>
+<Turn speaker="spk12" startTime="1721.198" endTime="1721.896">
+<Sync time="1721.198"/>
+肉桂
+</Turn>
+<Turn speaker="spk2" startTime="1721.896" endTime="1727.966">
+<Sync time="1721.896"/>
+然後綠荳蔻有嗎，豆蔻，然後跟八角
+</Turn>
+<Turn speaker="spk12" startTime="1727.966" endTime="1728.397">
+<Sync time="1727.966"/>
+八角有
+</Turn>
+<Turn speaker="spk2" startTime="1728.397" endTime="1732.073">
+<Sync time="1728.397"/>
+好，我要這三樣東西
+<Sync time="1730.018"/>
+大概抓一兩
+</Turn>
+<Turn speaker="spk12" startTime="1732.073" endTime="1732.504">
+<Sync time="1732.073"/>
+一兩
+</Turn>
+<Turn speaker="spk2" startTime="1732.504" endTime="1733.366">
+<Sync time="1732.504"/>
+就好了
+</Turn>
+<Turn speaker="spk1" startTime="1733.366" endTime="1735.437">
+<Sync time="1733.366"/>
+你跟大家講一下，這是法菜傳統甜點嘛，對不對
+</Turn>
+<Turn speaker="spk2" startTime="1735.437" endTime="1736.053">
+<Sync time="1735.437"/>
+傳統甜點
+</Turn>
+<Turn speaker="spk1" startTime="1736.053" endTime="1737.058">
+<Sync time="1736.053"/>
+就是紅酒燉洋梨嘛
+</Turn>
+<Turn speaker="spk2" startTime="1737.058" endTime="1737.797">
+<Sync time="1737.058"/>
+紅酒燉洋梨
+</Turn>
+<Turn speaker="spk1" startTime="1737.797" endTime="1738.105">
+<Sync time="1737.797"/>
+對不對
+</Turn>
+<Turn speaker="spk2" startTime="1738.105" endTime="1740.082">
+<Sync time="1738.105"/>
+只是今天把洋梨換成苦瓜
+</Turn>
+<Turn speaker="spk1" startTime="1740.082" endTime="1740.842">
+<Sync time="1740.082"/>
+八角
+</Turn>
+<Turn speaker="spk2" startTime="1740.842" endTime="1741.764">
+<Sync time="1740.842"/>
+肉桂
+</Turn>
+<Turn speaker="spk1" startTime="1741.764" endTime="1749.408">
+<Sync time="1741.764"/>
+白荳蔻
+<Sync time="1744.544"/>
+它有時候它紅酒燉洋梨，它也有那種白酒燉
+</Turn>
+<Turn speaker="spk2" startTime="1749.408" endTime="1749.798">
+<Sync time="1749.408"/>
+有
+</Turn>
+<Turn speaker="spk1" startTime="1749.798" endTime="1750.968">
+<Sync time="1749.798"/>
+那個柳橙
+</Turn>
+<Turn speaker="spk2" startTime="1750.968" endTime="1751.584">
+<Sync time="1750.968"/>
+柳橙也有
+</Turn>
+<Turn speaker="spk1" startTime="1751.584" endTime="1753.719">
+<Sync time="1751.584"/>
+對不對
+<Sync time="1751.974"/>
+然後也是用這個，這幾個下去一起弄
+</Turn>
+<Turn speaker="spk2" startTime="1753.719" endTime="1754.383">
+<Sync time="1753.719"/>
+沒錯
+</Turn>
+<Turn speaker="spk1" startTime="1754.383" endTime="1756.713">
+<Sync time="1754.383"/>
+所以它是法式的甜點裡面本來就會放的東西
+</Turn>
+<Turn speaker="spk2" startTime="1756.713" endTime="1759.489">
+<Sync time="1756.713"/>
+很基本的一個傳統的甜點
+</Turn>
+<Turn speaker="spk1" startTime="1759.489" endTime="1785.123">
+<Sync time="1759.489"/>
+觀眾朋友可能不知道#啊，其實中藥本身也是辛香料#啊，所以對法廚來說，這裡相當於一個白寶庫#啊
+<Sync time="1767.356"/>
+除了八角，白荳蔻，還有肉桂之外
+<Sync time="1769.269"/>
+像是一般我們常見的月桂粉，胡椒，甚至連香茅#啊，也都是法菜中常用來料理的中藥材喔
+<Sync time="1776.188"/>
+買完藥材，我卻意外地被一個濃濃的香氣吸引過去，這個是，#啊
+<Sync time="1782.496"/>
+這個
+</Turn>
+<Turn speaker="spk2" startTime="1785.123" endTime="1786.08">
+<Sync time="1785.123"/>
+蔥油餅
+</Turn>
+<Turn speaker="spk1" startTime="1786.08" endTime="1788.193">
+<Sync time="1786.08"/>
+這不是蔥油餅，這是什麼
+</Turn>
+<Turn speaker="spk13" startTime="1788.193" endTime="1789.097">
+<Sync time="1788.193"/>
+這是高麗菜餅
+</Turn>
+<Turn speaker="spk1" startTime="1789.097" endTime="1790.883">
+<Sync time="1789.097"/>
+高麗菜餅，對#啊
+</Turn>
+<Turn speaker="spk13" startTime="1790.883" endTime="1793.43">
+<Sync time="1790.883"/>
+這是我們二林的那個小特產
+</Turn>
+<Turn speaker="spk1" startTime="1793.43" endTime="1795.175">
+<Sync time="1793.43"/>
+二林的小，只有二林有嗎
+</Turn>
+<Turn speaker="spk13" startTime="1795.175" endTime="1799.683">
+<Sync time="1795.175"/>
+有，來二林，如果沒有吃到這個燒餅就不代表來過二林了
+</Turn>
+<Turn speaker="spk2" startTime="1799.683" endTime="1800.463">
+<Sync time="1799.683"/>
+燒餅#啊
+</Turn>
+<Turn speaker="spk13" startTime="1800.463" endTime="1801.624">
+<Sync time="1800.463"/>
+是
+</Turn>
+<Turn speaker="spk1" startTime="1801.624" endTime="1803.985">
+<Sync time="1801.624"/>
+妳賣好多餅，你有車輪餅也有這個餅
+</Turn>
+<Turn speaker="spk13" startTime="1803.985" endTime="1810.698">
+<Sync time="1803.985"/>
+我們有車輪餅，有紅豆口味，奶油口味，上面那個是那個古早味那個花生餅，麥仔煎
+</Turn>
+<Turn speaker="spk1" startTime="1810.698" endTime="1811.874">
+<Sync time="1810.698"/>
+麥仔煎那個很有名
+</Turn>
+<Turn speaker="spk13" startTime="1811.874" endTime="1813.154">
+<Sync time="1811.874"/>
+對，那個是很有名
+</Turn>
+<Turn speaker="spk1" startTime="1813.154" endTime="1815.187">
+<Sync time="1813.154"/>
+但這個不是二林有而已吧，很多地方都有
+</Turn>
+<Turn speaker="spk13" startTime="1815.187" endTime="1824.676">
+<Sync time="1815.187"/>
+很多地方都有，但是我覺得我們二林的比較好吃
+<Sync time="1818.532"/>
+那是我從我婆婆的時代傳下來的，所以我們這裡，我們在這裡賣有五十年了
+</Turn>
+<Turn speaker="spk1" startTime="1824.676" endTime="1827.351">
+<Sync time="1824.676"/>
+來吧，先給我一塊吧，我被你說服了
+</Turn>
+<Turn speaker="spk13" startTime="1827.351" endTime="1830.945">
+<Sync time="1827.351"/>
+你被我說服那你就吃吃看，它是非常好吃的
+</Turn>
+<Turn speaker="spk1" startTime="1830.945" endTime="1834.235">
+<Sync time="1830.945"/>
+好，我這個也好，這個我們兩個吃一塊，哎，你應該很餓吧
+</Turn>
+<Turn speaker="spk2" startTime="1834.235" endTime="1836.191">
+<Sync time="1834.235"/>
+我們兩個吃一塊好了，對
+</Turn>
+<Turn speaker="spk13" startTime="1836.191" endTime="1845.253">
+<Sync time="1836.191"/>
+你們兩個吃一塊，要這麼省嗎，我看你們兩個人一人一塊好了
+<Sync time="1841.376"/>
+你們兩個的身材都這麼的美好，你們是可以盡情的享用的
+</Turn>
+<Turn speaker="spk1" startTime="1845.253" endTime="1848.144">
+<Sync time="1845.253"/>
+老闆娘，你意思是說人家很胖很會吃喔
+</Turn>
+<Turn speaker="spk13" startTime="1848.144" endTime="1848.842">
+<Sync time="1848.144"/>
+沒有，沒有
+</Turn>
+<Turn speaker="spk1" startTime="1848.842" endTime="1858.933">
+<Sync time="1848.842"/>
+脆，脆，脆，這個有點像麵包的質感，有沒有，這個，然後外面脆，裡面還有麵包的口感
+<Sync time="1857.106"/>
+出發嘍
+</Turn>
+<Turn speaker="spk13" startTime="1858.933" endTime="1868.632">
+<Sync time="1858.933"/>
+你們兩個吃一塊，要這麼省嗎，我看你們兩個人一人一塊好了
+<Sync time="1864.493"/>
+你們兩個身材都這麼的美好，你們是可以盡情的享用的
+</Turn>
+<Turn speaker="spk1" startTime="1868.632" endTime="1871.54">
+<Sync time="1868.632"/>
+老闆娘，你意思是說人家很胖很會吃喔
+</Turn>
+<Turn speaker="spk13" startTime="1871.54" endTime="1873.009">
+<Sync time="1871.54"/>
+沒有，沒有，我是說你這樣的
+</Turn>
+<Turn speaker="spk1" startTime="1873.009" endTime="1873.727">
+<Sync time="1873.009"/>
+我胖很有名的
+</Turn>
+<Turn speaker="spk13" startTime="1873.727" endTime="1875.717">
+<Sync time="1873.727"/>
+好吃又不會胖這樣的
+</Turn>
+<Turn speaker="spk2" startTime="1875.717" endTime="1878.49">
+<Sync time="1875.717"/>
+你試試看，這個是非常好吃的
+</Turn>
+<Turn speaker="spk1" startTime="1878.49" endTime="1891.786">
+<Sync time="1878.49"/>
+它這個吃起來裡面的花生香很足
+<Sync time="1883.004"/>
+那說真的，就剛剛老闆娘說的一樣就是，其實你做太厚呢，吃起來那個黏嘴感就比較足，就比較不好
+<Sync time="1889.16"/>
+但太薄就少了一個口感對不對
+</Turn>
+<Turn speaker="spk13" startTime="1891.786" endTime="1894.126">
+<Sync time="1891.786"/>
+不夠Q的感覺，[overlap]不夠濕潤
+</Turn>
+<Turn speaker="spk2" startTime="1894.126" endTime="1895.603">
+<Sync time="1894.126"/>
+所以這個厚度是非常比較剛好
+</Turn>
+<Turn speaker="spk13" startTime="1895.603" endTime="1897.452">
+<Sync time="1895.603"/>
+很適中
+</Turn>
+<Turn speaker="spk1" startTime="1897.452" endTime="1927.946">
+<Sync time="1897.452"/>
+再次證明料理深受在地生活文化的影響
+<Sync time="1900.718"/>
+同樣的台灣小吃，過了一條獨水溪#啊，名稱跟做法，就會產生些微的差異#啊
+<Sync time="1906.322"/>
+煎過的麵糊，夾著含有顆粒的花生粉，在口中#啊，可是越嚼越香#啊
+<Sync time="1910.695"/>
+微微的甜度搭上軟Q的口感，大人小孩都會愛不釋手的
+<Sync time="1915.373"/>
+也難怪#啊，它能在台灣小吃界#啊，佔有一席之地
+<Sync time="1918.985"/>
+不過真正吸引我過來的，其實是這個
+<Sync time="1922.216"/>
+高麗菜餅
+<Sync time="1923.881"/>
+外面是酥酥的，現在就不知道裡面，很燙耶
+</Turn>
+<Turn speaker="spk2" startTime="1927.946" endTime="1928.542">
+<Sync time="1927.946"/>
+很燙#啊
+</Turn>
+<Turn speaker="spk1" startTime="1928.542" endTime="1934.659">
+<Sync time="1928.542"/>
+哇，她煎的很脆喔
+<Sync time="1930.101"/>
+你怕燙嗎
+</Turn>
+<Turn speaker="spk2" startTime="1934.659" endTime="1937.901">
+<Sync time="1934.659"/>
+下面有油，有一點燒燙
+</Turn>
+<Turn speaker="spk1" startTime="1937.901" endTime="1945.27">
+<Sync time="1937.901"/>
+哦，我這個滴的很乾淨
+<Sync time="1939.091"/>
+[music]
+<Sync time="1943.483"/>
+哦，脆，脆，脆
+</Turn>
+<Turn speaker="spk2" startTime="1945.27" endTime="1947.322">
+<Sync time="1945.27"/>
+你有咬到餡了嗎
+</Turn>
+<Turn speaker="spk1" startTime="1947.322" endTime="1959.452">
+<Sync time="1947.322"/>
+還沒
+<Sync time="1948.204"/>
+[music]
+<Sync time="1951.162"/>
+她包一包，裡面已經炸膨了
+<Sync time="1953.195"/>
+所以你咬的時候，第一口吃不到餡對不對，因為它炸膨了之後很脆爽，但它的高麗菜往下沉了
+<Sync time="1958.405"/>
+怎麼樣
+</Turn>
+<Turn speaker="spk2" startTime="1959.452" endTime="1964.566">
+<Sync time="1959.452"/>
+#嗯，這個，這個是二林才有嗎
+</Turn>
+<Turn speaker="spk13" startTime="1964.566" endTime="1968.262">
+<Sync time="1964.566"/>
+對，在別的地方你要吃到這個東西還滿[overlap]難的
+</Turn>
+<Turn speaker="spk1" startTime="1968.262" endTime="1979.909">
+<Sync time="1968.262"/>
+#嗯，很脆爽，它就是，比較厚的炸蛋蔥油餅
+</Turn>
+<Turn speaker="spk2" startTime="1979.909" endTime="1980.586">
+<Sync time="1979.909"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="1980.586" endTime="1981.153">
+<Sync time="1980.586"/>
+對不對
+</Turn>
+<Turn speaker="spk2" startTime="1981.153" endTime="1981.564">
+<Sync time="1981.153"/>
+#恩
+</Turn>
+<Turn speaker="spk1" startTime="1981.564" endTime="1983.517">
+<Sync time="1981.564"/>
+但它裡面還有類似像麵包的
+</Turn>
+<Turn speaker="spk2" startTime="1983.517" endTime="1987.314">
+<Sync time="1983.517"/>
+你知道，銀絲卷的外面的感覺嗎
+</Turn>
+<Turn speaker="spk1" startTime="1987.314" endTime="1988.36">
+<Sync time="1987.314"/>
+雙胞胎啦
+</Turn>
+<Turn speaker="spk2" startTime="1988.36" endTime="1989.653">
+<Sync time="1988.36"/>
+雙胞胎，可是
+</Turn>
+<Turn speaker="spk1" startTime="1989.653" endTime="2002.125">
+<Sync time="1989.653"/>
+只差沒有加糖而已，我說麵皮這個有沒有
+<Sync time="1992.549"/>
+它[overlap]這個，這比較明顯你看，來，移一下，好不好
+<Sync time="1996.021"/>
+這有點像麵包的質感，有沒有，這個
+<Sync time="1998.752"/>
+然後外面脆，裡面還有麵包的口感在那邊
+<Sync time="2001.161"/>
+也像銀絲卷
+</Turn>
+<Turn speaker="spk2" startTime="2002.125" endTime="2004.343">
+<Sync time="2002.125"/>
+另外一個形容詞應該是那種
+</Turn>
+<Turn speaker="spk1" startTime="2004.343" endTime="2004.815">
+<Sync time="2004.343"/>
+三胞胎
+</Turn>
+<Turn speaker="spk2" startTime="2004.815" endTime="2011.412">
+<Sync time="2004.815"/>
+不是，營養三明治
+<Sync time="2008.186"/>
+營養三明治，炸的
+</Turn>
+<Turn speaker="spk1" startTime="2011.412" endTime="2022.011">
+<Sync time="2011.412"/>
+所以有一件事情可以告訴我們，一個人多愛吃#啊，從他形容食物就知道
+<Sync time="2017.505"/>
+從剛剛到現在，她形容了幾樣出來
+</Turn>
+<Turn speaker="spk2" startTime="2022.011" endTime="2022.524">
+<Sync time="2022.011"/>
+都是吃的
+</Turn>
+<Turn speaker="spk1" startTime="2022.524" endTime="2025.973">
+<Sync time="2022.524"/>
+愛吃很重要，好不好
+<Sync time="2024.207"/>
+對，它是營養三明治
+</Turn>
+<Turn speaker="spk2" startTime="2025.973" endTime="2026.527">
+<Sync time="2025.973"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="2026.527" endTime="2034.225">
+<Sync time="2026.527"/>
+加上咸的雙胞胎，再加上炸蛋蔥油餅，裡面[overlap]，還有銀絲炸卷裡面是高麗菜
+</Turn>
+<Turn speaker="spk2" startTime="2034.225" endTime="2034.882">
+<Sync time="2034.225"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="2034.882" endTime="2090.297">
+<Sync time="2034.882"/>
+老闆娘沒有浮誇，一個高麗菜餅呢，能夠讓我跟昭蓉用這麼多食物去形容它的口感
+<Sync time="2042.211"/>
+可見這二林名產的稱號#啊，不是喊假的
+<Sync time="2045.059"/>
+老闆娘用半煎炸的方式，慢慢的煎熟，等它熱騰騰來到你的手中#啊，外皮酥香卻不油膩，內層Q彈又有香氣
+<Sync time="2053.408"/>
+高麗菜的甜跟麵糊的香#啊，很融洽的在口中釋放，非常舒服
+<Sync time="2058.497"/>
+哎呦，我們這兩個貪吃鬼光忙著吃，差點把正事給忘了
+<Sync time="2062.542"/>
+是，忙碌了一整天，終於在這個地方
+<Sync time="2069.842"/>
+這是弘岳你們家門口好不好
+<Sync time="2075.126"/>
+因為你們家的廚房已經太小了，被你媽媽跟你全部占據了
+<Sync time="2079.581"/>
+所以我們只能在門口這邊，好不好，今天就叫做二林法國相見歡
+<Sync time="2085.148"/>
+好不好，二林，兩個做法餐的，好不好，來者是客，先問他，你要做什麼
+</Turn>
+<Turn speaker="spk4" startTime="2090.297" endTime="2093.888">
+<Sync time="2090.297"/>
+#呃，貝類的，我們沿海的貝類，然後就是
+</Turn>
+<Turn speaker="spk1" startTime="2093.888" endTime="2094.627">
+<Sync time="2093.888"/>
+赤嘴
+</Turn>
+<Turn speaker="spk4" startTime="2094.627" endTime="2105.627">
+<Sync time="2094.627"/>
+赤嘴，然後蚵螺，就是附著在蚵上面的那個螺類
+<Sync time="2099.863"/>
+再跟沿海的一些野菜搭配，用百香果，然後歐洲那邊的香草去調
+</Turn>
+<Turn speaker="spk2" startTime="2105.627" endTime="2106.674">
+<Sync time="2105.627"/>
+法國香菜
+</Turn>
+<Turn speaker="spk1" startTime="2106.674" endTime="2108.768">
+<Sync time="2106.674"/>
+你這裡面已經偷偷摸摸加了什麼東西
+</Turn>
+<Turn speaker="spk4" startTime="2108.768" endTime="2114.843">
+<Sync time="2108.768"/>
+對，這是我們在法國，開淡菜#啊，開貝類會用到的一些香料
+</Turn>
+<Turn speaker="spk1" startTime="2114.843" endTime="2120.159">
+<Sync time="2114.843"/>
+法國料理的人就是假怪假怪的，都用夾子，你也是
+<Sync time="2118.045"/>
+自帶夾是不是，這支是新的
+</Turn>
+<Turn speaker="spk2" startTime="2120.159" endTime="2121.513">
+<Sync time="2120.159"/>
+我也是有，對#啊
+</Turn>
+<Turn speaker="spk1" startTime="2121.513" endTime="2126.445">
+<Sync time="2121.513"/>
+法國料理很常用這些，他們都是那種醫療背景出身的，這個是
+</Turn>
+<Turn speaker="spk4" startTime="2126.445" endTime="2127.965">
+<Sync time="2126.445"/>
+那是橄欖油跟醬油
+</Turn>
+<Turn speaker="spk1" startTime="2127.965" endTime="2129.688">
+<Sync time="2127.965"/>
+跟巴薩米克，這是醬油，哦
+</Turn>
+<Turn speaker="spk4" startTime="2129.688" endTime="2130.878">
+<Sync time="2129.688"/>
+然後一滴的麻油
+</Turn>
+<Turn speaker="spk1" startTime="2130.878" endTime="2132.746">
+<Sync time="2130.878"/>
+一滴的麻油，這個是法國有這樣做嗎
+</Turn>
+<Turn speaker="spk4" startTime="2132.746" endTime="2133.218">
+<Sync time="2132.746"/>
+沒有
+</Turn>
+<Turn speaker="spk1" startTime="2133.218" endTime="2134.491">
+<Sync time="2133.218"/>
+只有你，你自己想出來的
+</Turn>
+<Turn speaker="spk4" startTime="2134.491" endTime="2136.348">
+<Sync time="2134.491"/>
+我的，我的主廚會這樣子做
+</Turn>
+<Turn speaker="spk1" startTime="2136.348" endTime="2138.954">
+<Sync time="2136.348"/>
+你的主廚會這樣做
+<Sync time="2137.169"/>
+哎，不是想起來，你沒有用苦瓜
+</Turn>
+<Turn speaker="spk4" startTime="2138.954" endTime="2141.724">
+<Sync time="2138.954"/>
+我忘了，對，因為苦瓜擺在一起
+</Turn>
+<Turn speaker="spk1" startTime="2141.724" endTime="2146.299">
+<Sync time="2141.724"/>
+苦瓜擺在一起，對，苦瓜這是重點
+<Sync time="2144.822"/>
+你有沒有取什麼菜名
+</Turn>
+<Turn speaker="spk4" startTime="2146.299" endTime="2147.243">
+<Sync time="2146.299"/>
+菜名喔
+</Turn>
+<Turn speaker="spk1" startTime="2147.243" endTime="2147.838">
+<Sync time="2147.243"/>
+對
+</Turn>
+<Turn speaker="spk4" startTime="2147.838" endTime="2149.973">
+<Sync time="2147.838"/>
+我沒有去想到這個，我只知道拼湊在一起
+</Turn>
+<Turn speaker="spk1" startTime="2149.973" endTime="2151.368">
+<Sync time="2149.973"/>
+我幫你取，好不好
+</Turn>
+<Turn speaker="spk4" startTime="2151.368" endTime="2155.835">
+<Sync time="2151.368"/>
+想出來了，就是在我家的貝類
+</Turn>
+<Turn speaker="spk1" startTime="2155.835" endTime="2164.493">
+<Sync time="2155.835"/>
+我跟你想的一模一樣
+<Sync time="2157.887"/>
+我本來想說取這個名字就叫什麼，就叫弘岳家門前的法國菜
+<Sync time="2162.195"/>
+那你的，來，接下來你今天要做什麼
+</Turn>
+<Turn speaker="spk2" startTime="2164.493" endTime="2167.325">
+<Sync time="2164.493"/>
+我要做的是紅酒燉苦瓜
+</Turn>
+<Turn speaker="spk1" startTime="2167.325" endTime="2169.811">
+<Sync time="2167.325"/>
+紅酒燉苦瓜，理念是從哪裡來
+</Turn>
+<Turn speaker="spk2" startTime="2169.811" endTime="2174.205">
+<Sync time="2169.811"/>
+它是從一個傳統的法式甜點，它叫紅酒燉洋梨
+</Turn>
+<Turn speaker="spk1" startTime="2174.205" endTime="2177.367">
+<Sync time="2174.205"/>
+你今天在中藥行就是買了這些東西，就為了跟這些紅酒這些燉在一起
+</Turn>
+<Turn speaker="spk2" startTime="2177.367" endTime="2182.516">
+<Sync time="2177.367"/>
+沒錯，我們來試試看
+<Sync time="2178.823"/>
+[music]
+</Turn>
+<Turn speaker="spk1" startTime="2182.516" endTime="2185.861">
+<Sync time="2182.516"/>
+你需要多少的，你要多少苦瓜，你要直的還是橫的
+</Turn>
+<Turn speaker="spk4" startTime="2185.861" endTime="2189.061">
+<Sync time="2185.861"/>
+#呃，我只有再切小丁，所以[overlap]你們先用
+</Turn>
+<Turn speaker="spk1" startTime="2189.061" endTime="2191.649">
+<Sync time="2189.061"/>
+謂所無，他要切小丁，你也要切小丁，所以無所謂
+</Turn>
+<Turn speaker="spk2" startTime="2191.649" endTime="2196.038">
+<Sync time="2191.649"/>
+好，那我們先切一點點掉
+</Turn>
+<Turn speaker="spk1" startTime="2196.038" endTime="2197.148">
+<Sync time="2196.038"/>
+你要做很多嗎
+</Turn>
+<Turn speaker="spk2" startTime="2197.148" endTime="2199.363">
+<Sync time="2197.148"/>
+不會，沒有要做很多，這邊都給你
+</Turn>
+<Turn speaker="spk1" startTime="2199.363" endTime="2200.984">
+<Sync time="2199.363"/>
+這邊都給你，你看她對你多好
+</Turn>
+<Turn speaker="spk4" startTime="2200.984" endTime="2201.765">
+<Sync time="2200.984"/>
+感謝
+</Turn>
+<Turn speaker="spk1" startTime="2201.765" endTime="2203.526">
+<Sync time="2201.765"/>
+哦，你平常都是整瓶的哦
+</Turn>
+<Turn speaker="spk2" startTime="2203.526" endTime="2209.707">
+<Sync time="2203.526"/>
+整瓶的
+<Sync time="2204.511"/>
+剛剛在中藥店買過的，八角，大概我們[overlap]下個，差不多
+</Turn>
+<Turn speaker="spk1" startTime="2209.707" endTime="2209.85">
+<Sync time="2209.707"/>
+好
+</Turn>
+<Turn speaker="spk2" startTime="2209.85" endTime="2216.258">
+<Sync time="2209.85"/>
+因為我們今天時間短，所以我們要讓它味道趕快釋放出來，趕快釋放出來，所以今天下的量都會比較多一些
+</Turn>
+<Turn speaker="spk1" startTime="2216.258" endTime="2217.307">
+<Sync time="2216.258"/>
+出發嘍
+</Turn>
+<Turn speaker="spk4" startTime="2217.307" endTime="2219.739">
+<Sync time="2217.307"/>
+切小丁，所以你們[overlap]先用
+</Turn>
+<Turn speaker="spk1" startTime="2219.739" endTime="2222.395">
+<Sync time="2219.739"/>
+無所謂，他要切小丁，你也要切小丁，所以無所謂
+</Turn>
+<Turn speaker="spk2" startTime="2222.395" endTime="2226.772">
+<Sync time="2222.395"/>
+好，那我們先切一點點掉
+</Turn>
+<Turn speaker="spk1" startTime="2226.772" endTime="2227.893">
+<Sync time="2226.772"/>
+你要做很多嗎
+</Turn>
+<Turn speaker="spk2" startTime="2227.893" endTime="2230.093">
+<Sync time="2227.893"/>
+不會，沒有要做很多，這邊都給你
+</Turn>
+<Turn speaker="spk1" startTime="2230.093" endTime="2231.791">
+<Sync time="2230.093"/>
+這邊都給你，你看她對你多好
+</Turn>
+<Turn speaker="spk4" startTime="2231.791" endTime="2232.47">
+<Sync time="2231.791"/>
+感謝，好
+</Turn>
+<Turn speaker="spk2" startTime="2232.47" endTime="2234.905">
+<Sync time="2232.47"/>
+這邊一樣把裡面的
+</Turn>
+<Turn speaker="spk1" startTime="2234.905" endTime="2236.859">
+<Sync time="2234.905"/>
+苦瓜囊跟籽拿掉
+</Turn>
+<Turn speaker="spk2" startTime="2236.859" endTime="2241.105">
+<Sync time="2236.859"/>
+對，還是擔心它會殘留一些苦味在裡面
+</Turn>
+<Turn speaker="spk1" startTime="2241.105" endTime="2255.617">
+<Sync time="2241.105"/>
+這個每次哦，看到傅昭蓉在做菜，你就會覺得很有趣，她一旦開始拿起了這個所謂的器具開始烹調
+<Sync time="2250.046"/>
+她的臉上就呈現一種滿足的自信
+<Sync time="2253.298"/>
+而且呈現出跟平常不一樣的氛圍
+</Turn>
+<Turn speaker="spk2" startTime="2255.617" endTime="2256.07">
+<Sync time="2255.617"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="2256.07" endTime="2261.867">
+<Sync time="2256.07"/>
+對，你就看她挖那個苦瓜，就覺得那個苦瓜，被她挖的很舒服
+<Sync time="2259.672"/>
+你知道，切小，對不對
+</Turn>
+<Turn speaker="spk2" startTime="2261.867" endTime="2269.962">
+<Sync time="2261.867"/>
+對，但我等一下裡面還是想要再去多一點的囊掉
+<Sync time="2266.521"/>
+等一下，她這邊邊切，我們來看一下另外這邊，你剛放是什麼東西
+</Turn>
+<Turn speaker="spk4" startTime="2269.962" endTime="2277.998">
+<Sync time="2269.962"/>
+我剛剛已經放了，就是我等奶油[overlap]融化了之後，然後放赤嘴，然後再放白酒下去，讓它就是開一，就是一個貝類的動作
+</Turn>
+<Turn speaker="spk1" startTime="2277.998" endTime="2278.367">
+<Sync time="2277.998"/>
+對
+</Turn>
+<Turn speaker="spk4" startTime="2278.367" endTime="2284.246">
+<Sync time="2278.367"/>
+對，那之後我會在過程，就是它還沒開的過程我會加入就是它已經先挖好的蚵螺
+</Turn>
+<Turn speaker="spk1" startTime="2284.246" endTime="2284.726">
+<Sync time="2284.246"/>
+對
+</Turn>
+<Turn speaker="spk4" startTime="2284.726" endTime="2289.04">
+<Sync time="2284.726"/>
+對，然後下去做，就是讓它熟的部分，然後最後再放涼
+</Turn>
+<Turn speaker="spk1" startTime="2289.04" endTime="2291.763">
+<Sync time="2289.04"/>
+對，哎，所以它是冷菜
+</Turn>
+<Turn speaker="spk4" startTime="2291.763" endTime="2292.575">
+<Sync time="2291.763"/>
+它是冷菜
+</Turn>
+<Turn speaker="spk1" startTime="2292.575" endTime="2293.556">
+<Sync time="2292.575"/>
+不是熱的喔
+</Turn>
+<Turn speaker="spk4" startTime="2293.556" endTime="2294.007">
+<Sync time="2293.556"/>
+不是熱的
+</Turn>
+<Turn speaker="spk1" startTime="2294.007" endTime="2300.701">
+<Sync time="2294.007"/>
+我以為是像熱炒店炒一炒，你要等，只能等是不是，好，那我們來看一下另外那邊
+<Sync time="2299.644"/>
+接下來你要做什麼
+</Turn>
+<Turn speaker="spk2" startTime="2300.701" endTime="2303.333">
+<Sync time="2300.701"/>
+接下來我們就要來煮苦瓜
+</Turn>
+<Turn speaker="spk1" startTime="2303.333" endTime="2303.904">
+<Sync time="2303.333"/>
+苦瓜
+</Turn>
+<Turn speaker="spk2" startTime="2303.904" endTime="2304.209">
+<Sync time="2303.904"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="2304.209" endTime="2306.142">
+<Sync time="2304.209"/>
+先倒不甜的紅酒進來
+</Turn>
+<Turn speaker="spk2" startTime="2306.142" endTime="2306.752">
+<Sync time="2306.142"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="2306.752" endTime="2309.44">
+<Sync time="2306.752"/>
+你平常都是整瓶的喔
+</Turn>
+<Turn speaker="spk2" startTime="2309.44" endTime="2316.813">
+<Sync time="2309.44"/>
+整瓶的，然後剛剛又兩支嘛，我們在，我們試的時候，這一支是甜的，所以我們加一點點來取代
+</Turn>
+<Turn speaker="spk1" startTime="2316.813" endTime="2317.786">
+<Sync time="2316.813"/>
+就是那一瓶
+</Turn>
+<Turn speaker="spk2" startTime="2317.786" endTime="2325.194">
+<Sync time="2317.786"/>
+對，加一點來取代糖，然後剛剛在中藥店買過的，八角，大概我們[overlap]下個，差不多
+</Turn>
+<Turn speaker="spk1" startTime="2325.194" endTime="2325.323">
+<Sync time="2325.194"/>
+好
+</Turn>
+<Turn speaker="spk2" startTime="2325.323" endTime="2330.958">
+<Sync time="2325.323"/>
+因為我們今天時間短
+<Sync time="2326.627"/>
+所以我們要讓它味道趕快釋放出來，所以今天下的量都會比較多一些
+</Turn>
+<Turn speaker="spk1" startTime="2330.958" endTime="2331.812">
+<Sync time="2330.958"/>
+平常不用那麼多
+</Turn>
+<Turn speaker="spk2" startTime="2331.812" endTime="2332.158">
+<Sync time="2331.812"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="2332.158" endTime="2333.783">
+<Sync time="2332.158"/>
+等一下你現在放這個是什麼，黑胡椒喔
+</Turn>
+<Turn speaker="spk2" startTime="2333.783" endTime="2334.373">
+<Sync time="2333.783"/>
+黑胡椒粒
+</Turn>
+<Turn speaker="spk1" startTime="2334.373" endTime="2336.489">
+<Sync time="2334.373"/>
+哦，那個貝類，開了耶
+</Turn>
+<Turn speaker="spk4" startTime="2336.489" endTime="2337.082">
+<Sync time="2336.489"/>
+開了
+</Turn>
+<Turn speaker="spk1" startTime="2337.082" endTime="2337.59">
+<Sync time="2337.082"/>
+赤嘴開了
+</Turn>
+<Turn speaker="spk4" startTime="2337.59" endTime="2339.493">
+<Sync time="2337.59"/>
+所以我已經熄火很久了
+<Sync time="2339.261"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="2339.493" endTime="2343.507">
+<Sync time="2339.493"/>
+熄火很久了
+<Sync time="2340.45"/>
+[music]
+</Turn>
+<Turn speaker="spk2" startTime="2343.507" endTime="2344.729">
+<Sync time="2343.507"/>
+怎麼那麼肥美
+</Turn>
+<Turn speaker="spk1" startTime="2344.729" endTime="2345.542">
+<Sync time="2344.729"/>
+我幫你挑一個
+</Turn>
+<Turn speaker="spk2" startTime="2345.542" endTime="2345.949">
+<Sync time="2345.542"/>
+好
+</Turn>
+<Turn speaker="spk1" startTime="2345.949" endTime="2359.826">
+<Sync time="2345.949"/>
+我看算了吧，就這樣吃一吃就算了，這樣很好吃#啊
+<Sync time="2351.91"/>
+這個要不要，這顆啦，肥美，這顆給你，不錯
+<Sync time="2357.708"/>
+赤嘴喜歡吃嗎，你有常吃赤嘴嗎，
+</Turn>
+<Turn speaker="spk2" startTime="2359.826" endTime="2360.395">
+<Sync time="2359.826"/>
+有
+</Turn>
+<Turn speaker="spk1" startTime="2360.395" endTime="2367.377">
+<Sync time="2360.395"/>
+我跟你講，我還去挖過，然後現在拿出來
+<Sync time="2365.078"/>
+所以現在再把赤嘴肉拿出來
+</Turn>
+<Turn speaker="spk4" startTime="2367.377" endTime="2368.265">
+<Sync time="2367.377"/>
+肉拿出來
+</Turn>
+<Turn speaker="spk1" startTime="2368.265" endTime="2370.285">
+<Sync time="2368.265"/>
+所以你又放了柳橙皮進去
+</Turn>
+<Turn speaker="spk2" startTime="2370.285" endTime="2375.854">
+<Sync time="2370.285"/>
+對，柳橙，之後我先，它先煮滾之後我先試一下
+</Turn>
+<Turn speaker="spk1" startTime="2375.854" endTime="2377.011">
+<Sync time="2375.854"/>
+不要客氣，來#啊
+</Turn>
+<Turn speaker="spk2" startTime="2377.011" endTime="2377.825">
+<Sync time="2377.011"/>
+我們加一點糖
+</Turn>
+<Turn speaker="spk1" startTime="2377.825" endTime="2378.455">
+<Sync time="2377.825"/>
+你有湯匙
+</Turn>
+<Turn speaker="spk4" startTime="2378.455" endTime="2389.279">
+<Sync time="2378.455"/>
+我覺得真的，白荳蔻真的還滿不一樣的，那個味道真的是非常的就是，地中海#啊，西班牙，法國
+</Turn>
+<Turn speaker="spk1" startTime="2389.279" endTime="2394.972">
+<Sync time="2389.279"/>
+我覺得對我來說，最驚喜的地方在哪邊你知道嗎
+<Sync time="2393.158"/>
+你覺得你有驚喜嗎
+</Turn>
+<Turn speaker="spk2" startTime="2394.972" endTime="2397.352">
+<Sync time="2394.972"/>
+不會，這是跟我想象中味道差不多
+</Turn>
+<Turn speaker="spk1" startTime="2397.352" endTime="2399.638">
+<Sync time="2397.352"/>
+真的嗎，但是我講完你也會覺得驚喜
+</Turn>
+<Turn speaker="spk2" startTime="2399.638" endTime="2400.679">
+<Sync time="2399.638"/>
+好，請說
+</Turn>
+<Turn speaker="spk1" startTime="2400.679" endTime="2403.395">
+<Sync time="2400.679"/>
+哎，這兩支可是台灣的紅酒哎
+</Turn>
+<Turn speaker="spk2" startTime="2403.395" endTime="2403.762">
+<Sync time="2403.395"/>
+對#啊
+</Turn>
+<Turn speaker="spk1" startTime="2403.762" endTime="2405.022">
+<Sync time="2403.762"/>
+你懂我意思嗎
+</Turn>
+<Turn speaker="spk2" startTime="2405.022" endTime="2405.345">
+<Sync time="2405.022"/>
+對
+</Turn>
+<Turn speaker="spk1" startTime="2405.345" endTime="2407.886">
+<Sync time="2405.345"/>
+但是你現在呈現出來已經是法國的紅酒味道了
+</Turn>
+<Turn speaker="spk2" startTime="2407.886" endTime="2408.742">
+<Sync time="2407.886"/>
+沒錯
+</Turn>
+<Turn speaker="spk1" startTime="2408.742" endTime="2437.779">
+<Sync time="2408.742"/>
+今天&lt;lang:English&gt;MIT&lt;/lang:English&gt;葡萄的表現，相當的優秀，其實高級並不等於是法式料理，而手法一直以來都只是一種形式
+<Sync time="2418.254"/>
+而我們往往只看到表面的華麗，卻遺忘了背後職人的精神
+<Sync time="2422.419"/>
+今天透過這趟食材之旅，不僅讓我發現到台灣葡萄酒的魅力，也讓我感受到二林這個充滿生命力的地方
+<Sync time="2429.742"/>
+哎，說了這麼多，兩位法廚，我說趕緊上菜吧
+<Sync time="2434.134"/>
+[music]
+<Sync time="2436.82"/>
+先吃這個
+</Turn>
+<Turn speaker="spk2" startTime="2437.779" endTime="2438.167">
+<Sync time="2437.779"/>
+好
+</Turn>
+<Turn speaker="spk1" startTime="2438.167" endTime="2439.453">
+<Sync time="2438.167"/>
+弘岳家門前的
+</Turn>
+<Turn speaker="spk2" startTime="2439.453" endTime="2440.226">
+<Sync time="2439.453"/>
+貝類
+</Turn>
+<Turn speaker="spk1" startTime="2440.226" endTime="2477.205">
+<Sync time="2440.226"/>
+貝類聽起來感覺像就是住海邊
+<Sync time="2442.593"/>
+[music]
+<Sync time="2451.411"/>
+[music]
+<Sync time="2460.22"/>
+滿妙的
+<Sync time="2462.297"/>
+我跟你講這就是法式料理，它很有趣的地方，一般你在吃這種日式甜點，你聞到它就是很單純的，比如說檸檬，鮮奶油，奶油，對不對
+<Sync time="2472.317"/>
+它這個就多了一些，我稱這個氣味叫在日本叫作大人的味道
+</Turn>
+<Turn speaker="spk2" startTime="2477.205" endTime="2479.122">
+<Sync time="2477.205"/>
+大人的味道
+</Turn>
+<Turn speaker="spk1" startTime="2479.122" endTime="2491.867">
+<Sync time="2479.122"/>
+出發嘍
+<Sync time="2479.917"/>
+[music]
+<Sync time="2488.647"/>
+滿妙的哦
+<Sync time="2490.192"/>
+那個醬油吼
+</Turn>
+<Turn speaker="spk2" startTime="2491.867" endTime="2493.804">
+<Sync time="2491.867"/>
+嗯，跟香油
+</Turn>
+<Turn speaker="spk1" startTime="2493.804" endTime="2502.838">
+<Sync time="2493.804"/>
+嗯，醬油跟香油滿妙的，因為它裡面那個橄欖油，醬油，香油那一部分，嗯
+<Sync time="2499.579"/>
+讓它變得不是那麼的，典型的法國料理
+</Turn>
+<Turn speaker="spk2" startTime="2502.838" endTime="2508.051">
+<Sync time="2502.838"/>
+嗯
+<Sync time="2503.39"/>
+所以你有吃到苦瓜嗎
+</Turn>
+<Turn speaker="spk1" startTime="2508.051" endTime="2511.407">
+<Sync time="2508.051"/>
+有，有，我有吃到苦瓜，你有吃到苦瓜嗎
+</Turn>
+<Turn speaker="spk2" startTime="2511.407" endTime="2516.319">
+<Sync time="2511.407"/>
+有，苦瓜補足貝類沒有辦法取得的一個脆口度
+</Turn>
+<Turn speaker="spk1" startTime="2516.319" endTime="2524.103">
+<Sync time="2516.319"/>
+#嗯
+<Sync time="2517.358"/>
+#嗯
+<Sync time="2519.233"/>
+[music]
+<Sync time="2521.33"/>
+想要在吃點，白酒啦
+</Turn>
+<Turn speaker="spk2" startTime="2524.103" endTime="2525.001">
+<Sync time="2524.103"/>
+對啦
+</Turn>
+<Turn speaker="spk1" startTime="2525.001" endTime="2550.991">
+<Sync time="2525.001"/>
+喝點白酒的感覺，不錯，苦瓜
+<Sync time="2528.663"/>
+[music]
+<Sync time="2533.344"/>
+那個，我跟你講這個就是法式甜點，它很有趣的地方
+<Sync time="2538.794"/>
+一般你在吃這種日式甜點，你聞到它就是很單純的，比如說檸檬，鮮奶油，奶油，對不對
+<Sync time="2545.74"/>
+它這個就多了一些，我稱這個氣味叫在日本叫作大人的味道
+</Turn>
+<Turn speaker="spk2" startTime="2550.991" endTime="2551.704">
+<Sync time="2550.991"/>
+大人的味道
+</Turn>
+<Turn speaker="spk1" startTime="2551.704" endTime="2561.089">
+<Sync time="2551.704"/>
+大人的味道，你問起來就是會有肉桂#啊，會有八角#啊，荳蔻#啊，你覺得你荳蔻你滿意嗎
+</Turn>
+<Turn speaker="spk2" startTime="2561.089" endTime="2563.164">
+<Sync time="2561.089"/>
+還不錯，效果出來滿好的
+</Turn>
+<Turn speaker="spk1" startTime="2563.164" endTime="2564.793">
+<Sync time="2563.164"/>
+那跟綠荳蔻比起來呢
+</Turn>
+<Turn speaker="spk2" startTime="2564.793" endTime="2568.578">
+<Sync time="2564.793"/>
+如果是綠荳蔻的話，我覺得它的清香味應該會在
+</Turn>
+<Turn speaker="spk1" startTime="2568.578" endTime="2587.001">
+<Sync time="2568.578"/>
+更好
+<Sync time="2568.985"/>
+更好一點
+<Sync time="2569.88"/>
+[music]
+<Sync time="2574.875"/>
+哦，有，如果你這個，這個苦瓜在你嘴巴裡面待了十秒鐘好了，最後的零點五秒它會突然跳出來說不好意思，我是苦瓜
+</Turn>
+<Turn speaker="spk2" startTime="2587.001" endTime="2589.435">
+<Sync time="2587.001"/>
+但是前面吃起來
+</Turn>
+<Turn speaker="spk1" startTime="2589.435" endTime="2590.781">
+<Sync time="2589.435"/>
+一點都不覺得是苦瓜
+</Turn>
+<Turn speaker="spk2" startTime="2590.781" endTime="2592.819">
+<Sync time="2590.781"/>
+它吃起來很像燉蘋果的口感
+</Turn>
+<Turn speaker="spk1" startTime="2592.819" endTime="2593.412">
+<Sync time="2592.819"/>
+對
+</Turn>
+<Turn speaker="spk2" startTime="2593.412" endTime="2598.573">
+<Sync time="2593.412"/>
+或者是像，洋梨可能反而少一點，可能蘋果的口感會比較多
+</Turn>
+<Turn speaker="spk1" startTime="2598.573" endTime="2599.249">
+<Sync time="2598.573"/>
+比較像蘋果
+</Turn>
+<Turn speaker="spk2" startTime="2599.249" endTime="2600.229">
+<Sync time="2599.249"/>
+對，比較像蘋果
+</Turn>
+<Turn speaker="spk1" startTime="2600.229" endTime="2605.143">
+<Sync time="2600.229"/>
+嗯，其實法國料理離我們其實沒有那麼的遠
+</Turn>
+<Turn speaker="spk2" startTime="2605.143" endTime="2605.698">
+<Sync time="2605.143"/>
+嗯
+</Turn>
+<Turn speaker="spk1" startTime="2605.698" endTime="2657.902">
+<Sync time="2605.698"/>
+哦，因為比較少接觸，大家就會覺得法國料理好像比較遠，法國料理好像比較貴，法國料理好像比較跟人家不同
+<Sync time="2613.154"/>
+其實法國料理最想要表現的就是風土，所謂的風土就是你用在地的食材
+<Sync time="2619.124"/>
+我去法國出外景的時候，那一個店所賣的蔬菜，它一定要在十公里以內的
+<Sync time="2625.185"/>
+他們講說我這樣子，第一個我維持它的新鮮，第二個我可以看得到，再來環保，對不對
+<Sync time="2631.703"/>
+所以我會覺得像這樣的東西，其實在台灣可以更多，你是做日料的，你是做這個西餐的，你是做印尼菜的，你是做泰國菜，做法菜的，我覺得都好
+<Sync time="2642.025"/>
+在任何地方，好比我們現在在二林，都可以利用二林這樣子的方式，食材來組裝出你熟悉的料理方法
+<Sync time="2650.416"/>
+然後大家可以試試看，好不好
+<Sync time="2652.622"/>
+我覺得首先，先恭祝你開店成功
+</Turn>
+<Turn speaker="spk4" startTime="2657.902" endTime="2658.656">
+<Sync time="2657.902"/>
+感謝
+</Turn>
+<Turn speaker="spk1" startTime="2658.656" endTime="2661.285">
+<Sync time="2658.656"/>
+好不好，先開店成功，繼續努力加油
+</Turn>
+<Turn speaker="spk4" startTime="2661.285" endTime="2661.693">
+<Sync time="2661.285"/>
+沒問題
+</Turn>
+<Turn speaker="spk1" startTime="2661.693" endTime="2662.859">
+<Sync time="2661.693"/>
+然後，再來
+</Turn>
+<Turn speaker="spk2" startTime="2662.859" endTime="2663.452">
+<Sync time="2662.859"/>
+加油
+</Turn>
+<Turn speaker="spk1" startTime="2663.452" endTime="2666.896">
+<Sync time="2663.452"/>
+小可愛，你考不到哎，接下來我們要用
+</Turn>
+<Turn speaker="spk2" startTime="2666.896" endTime="2668.427">
+<Sync time="2666.896"/>
+今天又順利過關了呢
+</Turn>
+<Turn speaker="spk1" startTime="2668.427" endTime="2673.105">
+<Sync time="2668.427"/>
+接下來看什麼別食材，下次讓她，對不對
+</Turn>
+<Turn speaker="spk2" startTime="2673.105" endTime="2674.418">
+<Sync time="2673.105"/>
+處理下去，是不是
+</Turn>
+<Turn speaker="spk1" startTime="2674.418" endTime="2675.725">
+<Sync time="2674.418"/>
+拜
+</Turn>
+<Turn speaker="spk2" startTime="2675.725" endTime="2682.810">
+<Sync time="2675.725"/>
+拜拜
+<Sync time="2676.338"/>
+[music]
+<Sync time="2679.694"/>
+[music]
+</Turn>
+</Section>
+</Episode>
+</Trans>
