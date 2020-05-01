@@ -1,25 +1,26 @@
 # -*- coding: utf-8 -*-
 from __future__ import print_function
 
-from command_3.validator_3 import command3
 from utils import temporary_file
+from command_3.validator_3 import command3
 
 
 CONTENT = [
-    u'ทางไปรษณีย์เป็นต้น [overlap] [overlap]\n',                     # 0
-    u'อีกทั้งพลังงานภาคการผลิตต่าง [overlap] ๆ [overlap]\n',    # 1
-    u'[music]\n',                                                                  # 2
-    u'We have the order up here [lipsmack] and we believe\n',                 # 3
-    u'#uh [cough] sorry, school counselor candidate too [cough]\n',         # 4
-    u'#uh [cough] sorry, school counselor candidate too [coughy]\n',       # 5
-    u'[sta] Velkommen til [sta] Troldespejlet Podcast nummer tolv,\n',      # 6
-    u'[sta] [stay] Velkommen til Troldespejlet Podcast nummer tolv,\n',    # 7
-    u'[breath]Et ega sul ju seal [breath] Otepää majal ma ei tea, kui tugev katus on.\n',    # 8
-    u'[breath] Et ega sul ju seal[breath] Otepää majal ma ei tea, kui tugev katus on.\n',    # 9
-    u'[breath] Et ega sul ju seal[breath]Otepää majal ma ei tea, kui tugev katus on.\n',    # 10
+    u'[laughter]好，現在我們來示範金蟬脫殼\n',                                               # 0
+    u'<Section type="report" startTime="0" endTime="2642.252">\n',    # 1
+    u'[music]&lt;lang:TSM&gt;別跑，你別跑&lt;/lang:TSM&gt;\n',                  # 2
+    u'下界(())熱門候選人((柯有正))。[noise]\n',                                                # 3
+    u'[laugh]好，現在我們來示範金蟬脫殼\n',                                                   # 4
+    u'[laugh][laugh]好，現在我們來示範金蟬脫殼\n',                                        # 5
+    u'[laughter]好，現在我們來示範金蟬脫殼\n',                                               # 6
+    u'[laugh]現在[laugh]好，現在我們來示範金蟬脫殼\n',                                   # 7
 ]
-EXCLUDES = [1, 2, 3, 4, 6]
-CATCHES = [0, 5, 7, 8, 9, 10]
+EXCLUDE = [
+    0, 1, 2, 3, 4, 7
+]
+CATCH = [
+    5, 6
+]
 
 
 def test_command_3(tmpdir):
@@ -29,10 +30,10 @@ def test_command_3(tmpdir):
     for key in sorted(found.keys()):
         print(key, found[key])
 
-    for item in EXCLUDES:
-        assert item not in found
+    for row in EXCLUDE:
+        assert row not in found
 
-    for item in CATCHES:
-        assert item in found
+    for row in CATCH:
+        assert row in found
 
     #assert 0

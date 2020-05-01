@@ -8,12 +8,7 @@ from command_5.validator_5 import _prepare_content
 #Initial tag validator
 def command4(filepath):
 
-    punctuation = u"""[^_'.,!?\s:;—"\-~]"""
-    # To extend the list of allowed characters
-    # add new character like:
-    # allowed_characters_after_tag = [u"s", u"n", u"sn"]
-    allowed_characters_after_tag = [u"s"]
-    regex = re.compile(ur"(?P<content>(?P<before_first>(\b\w*\b)|[\S\w]+)?&lt;(?P<first_tag>[int\w\s/\\]+)&gt;(?P<inner_text>.*?)&lt;(?P<forward>[\\/\s]*)(?P<second_tag>[int\w\s]+)&gt;(?P<after_second>\b\w*\b|{}+)?)".format(punctuation), re.UNICODE)
+    regex = re.compile(ur"(?P<content>(?P<before_first>\s)?(?P<first_open>&lt;)(?P<first_tag>[int\w\s/\\]+)(?P<first_close>&gt;)(?P<inner_text>.*?)(?P<second_open>&lt;)(?P<forward>[\\/\s]*)(?P<second_tag>[int\w\s]+)(?P<second_close>&gt;)(?P<after_second>\s)?)", re.UNICODE)
     opening_tag = re.compile(ur'&lt;[int\w\s]+&gt;', re.UNICODE)
     closing_tag = re.compile(ur'&lt;\s*/[int\w\s]+&gt;', re.UNICODE)
 
@@ -28,7 +23,7 @@ def command4(filepath):
             if (
                 re.search(opening_tag, line) is not None and
                 re.search(closing_tag, line) is None
-                ):
+            ):
                 open_tag = re.search(opening_tag, line).group(0)
                 content = _prepare_content(open_tag)
                 found[ln] = [4, "Missing closing tag", content]
@@ -37,7 +32,7 @@ def command4(filepath):
             if (
                 re.search(opening_tag, line) is None and
                 re.search(closing_tag, line) is not None
-                ):
+            ):
                 close_tag = re.search(closing_tag, line).group(0)
                 content = _prepare_content(close_tag)
                 found[ln] = [4, "Missing opening tag", content]
@@ -57,29 +52,22 @@ def command4(filepath):
                 if (
                     m.group('first_tag') != 'initial' or
                     m.group('second_tag') != 'initial'
-                    ):
+                ):
                     found[ln] = [4, 'Initial tag error', error_tag]
                     continue
 
-                # Check for disallowed expressions before tag
-                if m.group('before_first') is not None:
-                    found[ln] = [4, 'Initial tag error', error_tag]
-                    continue
-
-                # Check for disallowed expressions after tag
                 if (
-                    m.group('after_second') is not None and
-                    not m.group('after_second') in allowed_characters_after_tag and
-                    not m.group('after_second').startswith(u'_')
-                    ):
+                    m.group('before_first') is not None or
+                    m.group('after_second') is not None
+                ):
                     found[ln] = [4, 'Initial tag error', error_tag]
                     continue
 
                 # Check for incorrect white space
                 if (
-                    not m.group('inner_text').startswith(' ') or
-                    not m.group('inner_text').endswith(' ')
-                    ):
+                    m.group('inner_text').startswith(u' ') or
+                    m.group('inner_text').endswith(u' ')
+                ):
                     found[ln] = [4, 'Initial tag error', error_tag]
                     continue
 
@@ -118,7 +106,7 @@ def command4(filepath):
 
 
 if __name__ == '__main__':
-    found = command4('../files/test_4.trs')
+    found = command4('../files/Daai_Religion_08.trs')
     keys = found.keys()
     keys = sorted(keys)
     print len(keys)

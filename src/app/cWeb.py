@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-__version__ = "1.22"
+__version__ = '1.21'
 import os
 import sys
 import re
@@ -10,19 +10,6 @@ import binascii
 import io
 cgitb.enable()
 
-
-DISABLE_COMMANDS = {
-    0: True, 1: False, 2: False, 3: False, 4: False,
-    5: False, 6: False, 7: False, 8: False, 9: False,
-    10: False, 11: False, 12: False, 13: False, 14: False,
-    15: False, 16: False, 17: False, 18: False, 19: False,
-    20: False, 21: False, 22: False, 23: False, 24: False
-}
-LANGUAGE_CODES = {
-    u'bul': u'Bulgarian',
-    u'eng': u'English',
-    u'ell': u'Greek'
-}
 # Extracted from: https://www.tamasoft.co.jp/en/general-info/unicode.html
 WWwhitespace = "[\s                                                                                                      ฀឴   ឵᠋  ᠌   ᠍   ᠎   ᠏᠚  ᠛   ᠜   ᠝   ᠞   ᠟ᡸ  ᡹   ᡺   ᡻   ᡼   ᡽   ᡾   ᡿ᢪ  ᢫   ᢬   ᢭   ᢮   ᢯                                           ​   ‌   ‍   ‎   ‏                            ⁠  ⁡   ⁢   ⁣   ⁤   ⁥   ⁦   ⁧   ⁨   ⁩   ⁪   ⁫   ⁬   ⁭   ⁮   ⁯⠀　꒍    ꒎   ꒏꒢  ꒣꓅﬏︀    ︁   ︂   ︃   ︄   ︅   ︆   ︇   ︈   ︉   ︊   ︋   ︌   ︍   ︎   ️￰  ￱   ￲   ￳   ￴   ￵   ￶   ￷   ￸   ￹   ￺   ￻   ]"
 # Extracted from: https://www.fileformat.info/info/unicode/category/Po/list.htm
@@ -76,41 +63,6 @@ def list_files(path):
                 files.append(os.path.join(r, file))
     return files
 
-
-# Transcribers ID checker
-def command0(filepath):
-    transcriber_pattern = re.compile(ur'\s*<\s*Trans\s*scribe\s*=\s*"(?P<id>.*?)"', re.UNICODE)
-    transcriber_id_pattern = re.compile(ur'^\w+?\-\d\d\d$', re.UNICODE)
-
-    found = {}
-    with io.open(filepath, 'r', encoding='utf') as f:
-        ln = 0
-        for line in f:
-            line = line.rstrip('\r\n')
-
-            match = re.search(transcriber_pattern, line)
-            if match is not None:
-
-                transcriber_id = match.group('id').strip()
-                content = transcriber_id.encode('utf')
-                if  re.search(transcriber_id_pattern, transcriber_id) is not None:
-
-                    language_code = transcriber_id[:-4]
-                    if language_code in LANGUAGE_CODES:
-                        found['transcriber_id'] = content
-                    else:
-                        found[ln] = [0, 'Incorrect Transcriber ID', content]
-
-                else:
-                    found[ln] = [0, 'Incorrect Transcriber ID', content]
-
-                break
-
-            ln += 1
-
-    return found
-
-
 #Disallowed characters
 def command1(filepath):
     ## String: Update with new chars between the regex brackets [..] ##
@@ -118,6 +70,7 @@ def command1(filepath):
     ## strip off any remaining whitespace char
     s = u"".join(bad_chars.split())
     ## from utf-8 to unicode encode
+    s = s.replace(u'&', u'')
     regex = s
 
     found = {}
@@ -183,60 +136,48 @@ def command2(filepath):
                 found[ln] = [2, 'Bracket issue [', orig_line]
     return found
 
-
+## Disable command. Overlaps with 8
 #Sound tag validator
 def command3(filepath):
-    skip_words = [
-        u'[no-speech]', u'[no—speech]', u'[noise]',
-        u'[overlap]', u'[music]', u'[applause]',
-        u'[lipsmack]', u'[breath]', u'[cough]',
-        u'[laugh]', u'[click]', u'[ring]',
-        u'[dtmf]', u'[sta]', u'[cry]', u'[prompt]'
-    ]
+    #skip_words = ['[no-speech]', '[no—speech]', '[noise]', '[overlap]', '[music]', '[applause]', '[lipsmack]', '[breath]', '[cough]', '[laugh]', '[click]', '[ring]', '[dtmf]', '[sta]', '[cry]', '[prompt]']
 
-    regex = re.compile(ur"\[.*?\]", re.UNICODE)
+    #regex = re.compile("\[.*?\]")
 
     found = {}
-    with io.open(filepath, 'r', encoding='utf') as f:
-        ln = -1
-        for line in f:
-            ln = ln + 1
-            line = line.rstrip("\r\n")
-            prev_tag = 'none'
+    #with open(filepath,'r') as f:
+        #ln = -1
+        #for line in f:
+            #ln = ln + 1
+            #line = line.rstrip("\r\n")
+            #prev_tag = 'none'
 
-            if '<Speaker' not in line:
+            #if '<Speaker' not in line:
 
-                for w in line.split():
-                    # if we have something glued to tag
+                #for w in line.split():
+                    ##if we have something glued to tag
 
-                    if re.match(ur".*[^ \s、 。 ‧ ？ ！ ，]\[.*?\]", w, re.UNICODE):
-                        found[ln] = [3, 'Missing white space left of sound tag', w.encode('utf')]
-                    elif re.match(ur"\[.*?\][^ \s.,，。\-?! ].*", w, re.UNICODE):
-                        found[ln] = [3, 'Missing white space right of sound tag', w.encode('utf')]
-                    else:
-                        for m in re.findall(regex, line):
-                            if not m in skip_words:
-                                found[ln] = [3, 'Sound tag syntax', '{}/{}'.format(m.encode('utf'), line.encode('utf'))]
+                    #if re.match(".*[^ \s、 。 ‧ ？ ！ ，]\[.*?\]", w):
+                        #found[ln] = [3, 'Missing white space left of sound tag', w]
+                    #elif re.match("\[.*?\][^ \s.,，。\-?! ].*", w):
+                        #found[ln] = [3, 'Missing white space right of sound tag', w]
+                    #else:
+                        #for m in re.findall(regex, line):
+                            #if not m in skip_words:
+                                #found[ln] = [3, 'Sound tag syntax', m + '/' + line]
 
-                            # detect duplicate tags like - [cough] [cough]
-                            # if we have two of the same tags in a row
-                            # and they are one by one in the line
-                            elif prev_tag == m and re.search(ur'{0}\s*{1}*{2}*{3}'.format(re.escape(m), WWwhitespace.decode('utf'), WWpunctuatio.decode('utf'),   re.escape(m)), line, re.UNICODE) is not None:
-                                found[ln] = [3, 'Sound tag duplicate', '{}/{}'.format(m.encode('utf'), line.encode('utf'))]
-                            prev_tag = m
-
+                            ##detect duplicate tags like - [cough][cough]
+                            ##if we have two of the same tags in a row
+                            ##and there are one after the other in the line
+                            #elif prev_tag == m and re.search(re.escape(m)    +"\s*"+WWwhitespace+"*"  +WWpunctuatio+"*"+   re.escape(m), line):
+                                #found[ln] = [3, 'Sound tag duplicate', m + '/' + line]
+                            #prev_tag = m
     return found
 
 
 #Initial tag validator
 def command4(filepath):
 
-    punctuation = u"""[^_'.,!?\s:;—"\-~]"""
-    allowed_characters_after_tag = [u"s", u"n"]
-    allowed_expressions_before_tag = [u"l'"]
-    regex = re.compile(ur"(?P<content>(?P<before_first>(\b\w*\b)|[\S\w]+)?(?P<first_open>&lt;)(?P<first_tag>[int\w\s/\\]+)(?P<first_close>&gt;)(?P<inner_text>.*?)(?P<second_open>&lt;)(?P<forward>[\\/\s]*)(?P<second_tag>[int\w\s]+)(?P<second_close>&gt;)(?P<after_second>\b\w*\b|{}+)?)".format(punctuation), re.UNICODE)
-    opening_tag = re.compile(ur'&lt;[int\w\s]+&gt;', re.UNICODE)
-    closing_tag = re.compile(ur'&lt;\s*/[int\w\s]+&gt;', re.UNICODE)
+    regex = re.compile(ur"(?P<content>(?P<before_first>\s)?(?P<first_open>&lt;)(?P<first_tag>[int\w\s/\\]+)(?P<first_close>&gt;)(?P<inner_text>.*?)(?P<second_open>&lt;)(?P<forward>[\\/\s]*)(?P<second_tag>[int\w\s]+)(?P<second_close>&gt;)(?P<after_second>\s)?)", re.UNICODE)
 
     found = {}
     with io.open(filepath, 'r', encoding='utf') as f:
@@ -245,25 +186,11 @@ def command4(filepath):
             ln = ln + 1
             line = line.rstrip('\r\n')
 
-            if (
-                re.search(opening_tag, line) is not None and
-                re.search(closing_tag, line) is None
-            ):
-                open_tag = re.search(opening_tag, line).group(0)
-                content = _prepare_content(open_tag)
-                found[ln] = [4, "Missing closing tag", content]
-
-            if (
-                re.search(opening_tag, line) is None and
-                re.search(closing_tag, line) is not None
-            ):
-                close_tag = re.search(closing_tag, line).group(0)
-                content = _prepare_content(close_tag)
-                found[ln] = [4, "Missing opening tag", content]
-
             for m in re.finditer(regex, line):
                 error_tag = m.group('content')
-                error_tag = _prepare_content(error_tag)
+                error_tag = error_tag.replace('&lt;', '<')
+                error_tag = error_tag.replace('&gt;', '>')
+                error_tag = error_tag.encode('utf')
 
                 # Check tag syntax
                 if (
@@ -284,27 +211,17 @@ def command4(filepath):
                     found[ln] = [4, 'Initial tag error', error_tag]
                     continue
 
-                # Check for disallowed expressions before tag
                 if (
-                    m.group('before_first') is not None and
-                    not m.group('before_first') in allowed_expressions_before_tag
-                ):
-                    found[ln] = [4, 'Initial tag error', error_tag]
-                    continue
-
-                # Check for disallowed expressions after tag
-                if (
-                    m.group('after_second') is not None and
-                    not m.group('after_second') in allowed_characters_after_tag and
-                    not m.group('after_second').startswith(u'_')
+                    m.group('before_first') is not None or
+                    m.group('after_second') is not None
                 ):
                     found[ln] = [4, 'Initial tag error', error_tag]
                     continue
 
                 # Check for incorrect white space
                 if (
-                    not m.group('inner_text').startswith(' ') or
-                    not m.group('inner_text').endswith(' ')
+                    m.group('inner_text').startswith(u' ') or
+                    m.group('inner_text').endswith(u' ')
                 ):
                     found[ln] = [4, 'Initial tag error', error_tag]
                     continue
@@ -356,21 +273,20 @@ def command5(filepath):
         'Kazakh','Khmer','Kikuyu','Kinyarwanda','Kirundi','Korean','Kosovan','Kotokoli','Krio','Kurdish','Kurmanji',
         'Kyrgyz','Lakota','Laotian','Latvian','Lingala','Lithuanian','Luganda','Maay','Macedonian','Malay',
         'Malayalam','Maltese','Mandarin','Mandingo','Mandinka','Marathi','Marshallese','Mirpuri','Mixteco','Moldavan',
-        'Mongolian','Montenegrin','Navajo','Neapolitan','Nepali','Nigerian','Pidgin','Norwegian','Oromo','Pahari',
+        'Mongolian','Montenegrin','Navajo','Neapolitan','Nepali','Nigerian','Pidgin','Norwegian','Oromo','OtherChinese','Pahari',
         'Papago','Papiamento','Pashto','Patois','Persian','Pidgin','English','Polish','Portug.creole','Portuguese','Pothwari',
         'Pulaar','Punjabi','Putian','Quichua','Romanian','Russian','Samoan','Serbian','Shanghainese','Shona',
         'Sichuan','Sicilian','Sinhalese','Slovak','Somali','Sorani','Spanish','Sudanese','Arabic','Sundanese',
         'Susu','Swahili','Swedish','Sylhetti','Tagalog','Taiwanese','Tajik','Tamil','Telugu','Thai',
-        'Tibetan','Tigre','Tigrinya','Toishanese','Tongan','Toucouleur','Trique','Tshiluba','Turkish','Ukrainian',
+        'Tibetan','Tigre','Tigrinya','Toishanese','Tongan','Toucouleur','Trique','Tshiluba','TSM','Turkish','Ukrainian',
         'Urdu','Uyghur','Uzbek','Vietnamese','Visayan','Welsh','Wolof','Yiddish','Yoruba','Yupik',
         'Ambonese', 'Betawinese', 'Latin', 'Manadonese'
     ]
 
-    punctuation_marks = u""":,-'_!—".?;"""
+    punctuation_marks = u"。！？，、．.,"
+    disallowed_punctuation = u'《》：（（））【】'
 
-    regex = re.compile(ur'(?P<content>(?P<before_first>\b\w*\b)?(?P<first_open>(?:&lt;))(?P<first_tag>/*\s*\w*\s*):(?P<first_tag_lang>\s*\w*\s*)(?P<first_close>(?:&gt;))(?P<inner_text>.*?)(?P<second_open>(?:&lt;))(?P<forward>[\/]*)(?P<second_tag>\s*\w*\s*):(?P<second_tag_lang>\s*\w*\s*)(?P<second_close>(?:&gt;))(?P<after_second>\b\w*\b)?)', re.UNICODE)
-    opening_tag = re.compile(ur'&lt;\s*\w*\s*:\s*\w*\s*&gt;', re.UNICODE)
-    closing_tag = re.compile(ur'&lt;/\s*\w*\s*:\s*\w*\s*&gt;', re.UNICODE)
+    regex = re.compile(ur'(?P<content>(?P<before_first>[\s{0}])?(?P<first_open>(?:&lt;))(?P<first_tag>/*\s*\w*\s*):(?P<first_tag_lang>\s*\w*\s*)(?P<first_close>(?:&gt;))(?P<inner_text>.*?)(?P<second_open>(?:&lt;))(?P<forward>[\/]*)(?P<second_tag>\s*\w*\s*):(?P<second_tag_lang>\s*\w*\s*)(?P<second_close>(?:&gt;))(?P<after_second>[\s{0}])?)'.format(disallowed_punctuation), re.UNICODE)
 
     found = {}
 
@@ -379,33 +295,17 @@ def command5(filepath):
         for line in f:
             line = line.rstrip('\r\n')
 
-            if (
-                re.search(opening_tag, line) is not None and
-                re.search(closing_tag, line) is None
-            ):
-                open_tag = re.search(opening_tag, line).group(0)
-                content = _prepare_content(open_tag)
-                found[ln] = [5, "Missing closing tag", content]
-
-            if (
-                re.search(opening_tag, line) is None and
-                re.search(closing_tag, line) is not None
-            ):
-                close_tag = re.search(closing_tag, line).group(0)
-                content = _prepare_content(close_tag)
-                found[ln] = [5, "Missing opening tag", content]
-
             matches = re.finditer(regex, line)
             for match in matches:
                 if match:
                     content = match.group('content')
-                    content = _prepare_content(content)
+                    content = content.replace('&lt;' , '<')
+                    content = content.replace('&gt;' , '>')
+                    content = content.encode('utf')
 
                     # Check for stucked words
                     if (
                         match.group('before_first') is not None or
-                        not match.group('inner_text').startswith(" ") or
-                        not match.group('inner_text').endswith(" ") or
                         match.group('after_second') is not None
                     ):
                         found[ln] = [5, "Tag syntax error", content]
@@ -438,8 +338,22 @@ def command5(filepath):
                         found[ln] = [5, 'Language tag is empty', content]
                         continue
 
+                    if (
+                        inner_text.startswith(u'&gt;') or
+                        inner_text.endswith(u'&lt;')
+                    ):
+                        found[ln] = [5, "Tag syntax error", content]
+                        continue
+
                     # Check for initial tag inside lang tag
                     if re.search(ur'(&lt;|\<)([int\w\s/\\]+)(&gt;|\>).*?(&lt;|\<)([\\/\s]*)([int\w\s]+)(&gt;|\>)', inner_text, re.UNICODE):
+                        continue
+
+                    if (
+                        match.group('inner_text').startswith(u" ") or
+                        match.group('inner_text').endswith(u" ")
+                    ):
+                        found[ln] = [5, "Tag syntax error", content]
                         continue
 
                     # Check final punctuation
@@ -450,13 +364,6 @@ def command5(filepath):
             ln += 1
 
     return found
-
-
-def _prepare_content(content):
-    content = content.replace('&lt;' , '<')
-    content = content.replace('&gt;' , '>')
-    content = content.encode('utf')
-    return content
 
 
 #Numeral hunter
@@ -497,11 +404,10 @@ def command6(filepath):
 def command7(filepath):
 
     # Allowed punctuation after tag
-    punctuation = u"[:',!—_\".?\-;]"
+    allowed_punctuation = ur"。！？，、．#\[\];.,\(\)"
     #default skip tags
-    skip_tags = u"(#uh|#um|#ah|#er|#hm)"
-    possible_missing_tag = u"(uh|um|ah|er|hm)"
-    filler_re = re.compile(ur'[\W\w]?#\w*\W?', re.UNICODE)
+    skip_tags = u"(#呃|#啊|#嗯)"
+    filler_re = re.compile(ur'[\s\W\w]?#[\w\W]{,2}', re.UNICODE)
 
     found = {}
     in_section = False
@@ -513,28 +419,19 @@ def command7(filepath):
 
             if '<Section' in line:
                 in_section = True
-            elif '</Section' in line:
-                in_section = False
+                continue
 
-            for match in re.finditer(filler_re, line):
+            if '</Section' in line:
+                break
 
-                target = match.group().strip()
-                # Pass filler tag with tilde.
-                # They are reported in command 15.
-                if "~" in target:
-                    continue
+            if in_section:
+                for match in re.finditer(filler_re, line):
 
-                if (
-                    not re.match(ur'^{0}{1}?$'.format(skip_tags, punctuation), target, re.UNICODE)
-                    and in_section
-                ):
-                    found[ln] = [7, 'Invalid filler tag', target.encode('utf')]
-                    continue
-
-
-            for match in re.finditer(ur'\s{0}\W'.format(possible_missing_tag), line, re.UNICODE):
-                if ln not in found and in_section:
-                    found[ln] = [7, 'Possible filler tag missing #', match.group().encode('utf')]
+                    target = match.group()
+                    if (
+                        re.match(ur'[\w{1}]?{0}[\w{1}]{2}$'.format(skip_tags, allowed_punctuation, '{,1}'), target, re.UNICODE) is None
+                    ):
+                        found[ln] = [7, 'Invalid filler tag', target.encode('utf')]
 
     return found
 
@@ -542,19 +439,149 @@ def command7(filepath):
 #White space validator
 def command8(filepath):
     rv = {}
-    patterns = ['\[[^\]*]\]', '#[^ #\.,，。\s?!~‘s-]*', '\(\(\)\)', '\(\([^\)]*\)\)']
+    patterns = [ur'\[.*?\]',  ur'\(\(\)\)', ur'\(\(.*?\)\)']
 
     for pat in patterns:
-        found = command8_real(f, pat)
+        found = command8_real(filepath, pat)
         rv.update(found)
     return rv
 
+
 def command8_real(filepath, pattern):
 
-    reg_allowed = '[\.,，。\s?!~‘s-]'
-    regex_pat = '(.)' + pattern + '(.)'
+    reg_allowed = u',。！？，、．\[\]\w;&#\(\)'
+    regex_pat = ur'(.?){}(.?)'.format(pattern)
 
-    regex = re.compile('.' + pattern + '.')
+    found = {}
+    with io.open(filepath, 'r', encoding='utf') as f:
+        ln = -1
+        for line in f:
+            ln = ln + 1
+            line = line.rstrip("\r\n")
+            line = line.strip()
+
+            #if line starts with < and ends in >
+            if line.startswith('<') and line.endswith('>'):
+                #we skip everythin between <>
+                continue
+
+            # Skip <lang> and <initial> tags.
+            if re.search(ur'(&gt;|>)\s*?{}\s*?(&lt;|<)'.format(pattern), line, re.UNICODE) is not None:
+                continue
+
+            for m in re.finditer(regex_pat, line):
+                content = m.group()
+                lC = m.group(1)
+                rC = m.group(2)
+
+                if lC and re.match(ur'[{}]'.format(reg_allowed), lC, re.UNICODE) is None:
+                    found[ln] =  [8, 'Incorrect white space (invalid left char)', '{}/{}'.format(lC.encode('utf'), content.encode('utf'))]
+
+                elif rC and re.match(ur'[{}]'.format(reg_allowed), rC, re.UNICODE) is None:
+                    found[ln] =  [8, 'Incorrect white space (invalid right char)', '{}/{}'.format(rC.encode('utf'), content.encode('utf'))]
+
+                elif pattern == u'\[.*?\]' and re.search(ur'\[[\w-]*?\]', content, re.UNICODE) is None:
+                    found[ln] =  [8, 'Incorrect white space in tag', content.encode('utf')]
+
+                elif pattern == u'\(\(.*?\)\)' and re.search(ur'\(\([\w\-{}]*?\)\)'.format(reg_allowed), content, re.UNICODE) is None:
+                    found[ln] =  [8, 'Incorrect white space in tag', content.encode('utf')]
+
+    return found
+
+
+#UTF-8 validator
+def command9(filepath):
+    found = {}
+    with open(filepath, 'r') as f:
+        line = f.readline()
+        if line.strip("\r\n") != '<?xml version="1.0" encoding="UTF-8"?>':
+            found[1] = [9, 'Invalid encoding, must be UTF-8', line]
+    return found
+
+
+## Disable command. Overlaps with 8.
+#Inaudible tag validator
+def command10(filepath):
+
+    #trailing_ok = '.,，。-?! '
+
+    found = {}
+
+    #with open(filepath) as f:
+        #ln = -1
+        #for line in f:
+            #ln = ln + 1
+            #line = line.rstrip("\r\n")
+
+            ##if line starts with < and ends in >
+            #if line.startswith('<') and line.endswith('>'):
+                ##we skip everythin between <>
+                #continue
+
+            ##detect repeating tags
+            #if re.search("\(\(\)\)\s?\(\(\)\)", line):
+                #found[ln] = [10, 'Cannot have more than on (()) in a row', line]
+                #continue
+
+            ##detect invalid tags
+            #if re.search("\(\(\s+\)\)", line):
+                #found[ln] = [10, 'Invalid tag', line]
+                #continue
+
+            ##detect single (a-z) tags
+            #if re.search("[^\(]\([a-zA-Z0-9]+\)[^\)]", line):
+                #found[ln] = [10, '(()) tag incorrectly written', line]
+                #continue
+
+            #counter = 0
+            #last = 'x'
+
+            #for c in list(line):
+
+                ##check for space after ))
+                #if last == ')' and counter == 0 and c != line[-1] and not c in trailing_ok:
+                    #found[ln] = [10, 'Missing training white space', line]
+                    #counter = 0
+                    #break
+
+                #if c == '(':
+                    #counter = counter + 1
+
+                    ##if we don't have a space before (
+                    #if c != line[0] and counter == 1 and not re.match('[\s\t　。，]', last):
+                        #found[ln] = [10, 'Missing leading white space', line]
+                        #counter = 0
+                        #break
+
+                #elif c == ')':
+                    #counter = counter - 1
+
+                    ##if we have a space before )
+                    #if (last == ' ' or last == '\t'):
+                        #found[ln] = [10, 'Space before closing', line]
+                        #counter = 0
+                        #break
+
+                #last = c
+
+                #if counter > 2 or counter < 0:           #more than 2 ( or )
+                    #found[ln] = [10, 'Space inside', line]
+                    #counter = 0
+                    #break
+
+            ##check1) if line has invalid number of open/close brackets
+            #if counter != 0:
+                #found[ln] = [10, 'Missing parenthesis', line]
+
+    return found
+
+#Punctuation space validator
+def command11(filepath):
+
+    exlusion_list = ['-nya', '-exclusion2', '-exclusion3']
+
+    #match a symbol with one space
+    regex = re.compile('(\s\-\s)|(\s[\.,，。!?-])|([\.,，。!?-]\s{3,})')
 
     found = {}
 
@@ -569,131 +596,9 @@ def command8_real(filepath, pattern):
                 #we skip everythin between <>
                 continue
 
-            #put spaces in front/end of line, to avoid checking for startswith/endswith for each token
-            line = ' ' + line + ' '
-
-            for m in re.findall(regex, line):
-                matchObj = re.match(regex_pat, m)
-                if not matchObj:
-                    found[ln] =  [8, 'Missing white space (syntax)', m]
-                else:
-                    lC = matchObj.group(1)
-                    rC = matchObj.group(2)
-
-                    #if language is not in the list
-                    if not re.match('[\s　。，]', lC):
-                        found[ln] =  [8, 'Missing white space (invalid left char)', lC + '/' + m]
-                    elif not re.match(reg_allowed, rC):
-                        found[ln] =  [8, 'Missing white space (invalid right char)', rC + '/' + m]
-    return found
-
-#UTF-8 validator
-def command9(filepath):
-    found = {}
-    with open(filepath, 'r') as f:
-        line = f.readline()
-        if line.strip("\r\n") != '<?xml version="1.0" encoding="UTF-8"?>':
-            found[1] = [9, 'Invalid encoding, must be UTF-8', line]
-    return found
-
-#Inaudible tag validator
-def command10(filepath):
-
-    trailing_ok = '.,，。-?! '
-
-    found = {}
-
-    with open(filepath) as f:
-        ln = -1
-        for line in f:
-            ln = ln + 1
-            line = line.rstrip("\r\n")
-
-            #if line starts with < and ends in >
-            if line.startswith('<') and line.endswith('>'):
-                #we skip everythin between <>
-                continue
-
-            #detect repeating tags
-            if re.search("\(\(\)\)\s?\(\(\)\)", line):
-                found[ln] = [10, 'Cannot have more than on (()) in a row', line]
-                continue
-
-            #detect invalid tags
-            if re.search("\(\(\s+\)\)", line):
-                found[ln] = [10, 'Invalid tag', line]
-                continue
-
-            #detect single (a-z) tags
-            if re.search("[^\(]\([a-zA-Z0-9]+\)[^\)]", line):
-                found[ln] = [10, '(()) tag incorrectly written', line]
-                continue
-
-            counter = 0
-            last = 'x'
-
-            for c in list(line):
-
-                #check for space after ))
-                if last == ')' and counter == 0 and c != line[-1] and not c in trailing_ok:
-                    found[ln] = [10, 'Missing training white space', line]
-                    counter = 0
-                    break
-
-                if c == '(':
-                    counter = counter + 1
-
-                    #if we don't have a space before (
-                    if c != line[0] and counter == 1 and not re.match('[\s\t　。，]', last):
-                        found[ln] = [10, 'Missing leading white space', line]
-                        counter = 0
-                        break
-
-                elif c == ')':
-                    counter = counter - 1
-
-                    #if we have a space before )
-                    if (last == ' ' or last == '\t'):
-                        found[ln] = [10, 'Space before closing', line]
-                        counter = 0
-                        break
-
-                last = c
-
-                if counter > 2 or counter < 0:           #more than 2 ( or )
-                    found[ln] = [10, 'Space inside', line]
-                    counter = 0
-                    break
-
-            #check1) if line has invalid number of open/close brackets
-            if counter != 0:
-                found[ln] = [10, 'Missing parenthesis', line]
-
-    return found
-
-#Punctuation space validator
-def command11(filepath):
-
-    exlusion_list = ['-nya', '-exclusion2', '-exclusion3']
-
-    #match a symbol with one space
-    regex = re.compile(ur'(\s\-\s)|(\s[\.,，。!?-])|([\.,，。!?-]\s{3,})|([\.,，。!?][^\s])', re.UNICODE)
-
-    found = {}
-
-    with io.open(filepath, 'r', encoding='utf') as f:
-        ln = -1
-        for line in f:
-            ln = ln + 1
-            line = line.rstrip(" \r\n")
-
-            #if line starts with < and ends in >
-            if line.startswith('<') and line.endswith('>'):
-                #we skip everythin between <>
-                continue
-
             for m in re.findall(regex, line):
 
+                label = ''
                 val = exlusion_list[0]
 
                 #allow ' - '
@@ -703,12 +608,9 @@ def command11(filepath):
                     val = m[0]
                 elif m[2]:
                     val = m[1]
-                elif m[3]:
-                    val = ''
 
                 if not val in exlusion_list:
-                    found[ln] = [11, 'Punctuation spacing issue', line.encode('utf')]
-
+                    found[ln] = [11, 'Punctuation spacing issue', line]
     return found
 
 
@@ -756,7 +658,6 @@ def command13(filepath):
     sync = False
     sync_count = 0
     end_time = 0
-    sync_line = None
 
     with io.open(filepath, 'r', encoding='utf') as f:
         ln = 0
@@ -782,7 +683,6 @@ def command13(filepath):
                 sync_count = 0
 
             elif line.startswith('<Sync') and not sync:
-                sync_line = ln
                 sync = True
                 sync_count += 1
                 new_sync = re.search(ur'(?P<content>Sync\s*time\s*=\s*"\s*(?P<value>[\d.]+?)\s*")', line, re.UNICODE)
@@ -806,23 +706,24 @@ def command13(filepath):
                 sync_time = new_sync_time
 
             elif "</Turn>" == line and sync and sync_count == 1:
-                found[sync_line] = [13, "Empty segments are not allowed", sync_time.encode('utf')]
+                found[ln - 1] = [13, "Empty segments are not allowed", sync_time.encode('utf')]
                 sync = False
                 sync_count = 0
 
             elif line.startswith('<Sync') and sync:
-                found[sync_line] = [13, "Empty segments are not allowed", sync_time.encode('utf')]
+                found[ln - 1] = [13, "Empty segments are not allowed", sync_time.encode('utf')]
                 sync_count += 1
                 new_sync = re.search(ur'(?P<content>Sync\s*time=\s*"\s*(?P<value>[\d.]+?)\s*")', line, re.UNICODE)
                 sync_time = new_sync.group('content')
-                sync_line = ln
 
             elif not line.startswith('<Sync') and line != "</Turn>":
-                if line != '':
-                    sync = False
+                if line == '':
+                    found[ln - 1] = [13, "Empty segments are not allowed", sync_time.encode('utf')]
+
+                sync = False
 
             elif "</Turn>" == line and sync and sync_count > 1:
-                found[sync_line] = [13, "Empty segments are not allowed", sync_time.encode('utf')]
+                found[ln - 1] = [13, "Empty segments are not allowed", sync_time.encode('utf')]
                 sync = False
                 sync_count = 0
 
@@ -1018,108 +919,21 @@ def command18(filepath):
     return found
 
 
-# Choppy segments
 def command19(filepath):
-    # Segments shorter than that amount of time in seconds
-    # are potentially Chopped segments. You can control it
-    # by changing this value.
-    time_amount_left = 12    # Y
-    # Segments that contain that number of words at the beginning
-    # or at end are potentially Chopped segments. You can control
-    # this by changing the value of variable.
-    number_of_words = 2     # X
-
-    partial_line_end_marks = u":,\-_!—.?;\]"
-    line_end_marks = u'!.?'
-    turn_end = re.compile(ur'<\s*/\s*Turn\s*>', re.UNICODE)
+    #  WWwhitespacelist found in this file at: line 10
+    regex = re.compile("&lt;initial&gt;\s*[a-zA-Z]+" + WWwhitespace + "+[a-zA-Z]+\s*&lt;\/initial&gt;")
 
     found = {}
-    with io.open(filepath, 'r', encoding='utf') as f:
 
-        ln = 0
-        sync_time = None
-        segment_lenght = None
-        in_turn = False
-        check_for_choppy = False
+    with open (filepath, 'r') as f:
+        ln = -1
         for line in f:
-            line = line.rstrip(" \r\n")
+            ln = ln + 1
+            line = line.rstrip("\r\n")
 
-            if not line:
-                ln += 1
-                continue
+            for m in re.findall(regex, line):
 
-            if re.search(ur'<\s*Turn', line, re.UNICODE) is not None:
-                sync_time = None
-                segment_lenght = None
-                chopped_at_end = False
-                chopped_line_end = None
-                check_for_choppy = False
-                in_turn = True
-
-            elif in_turn:
-
-                if re.search(ur'<\s*Sync\s*time', line, re.UNICODE) is not None:
-
-                    new_sync_time = re.search(ur'<\s*Sync\s*time\s*=\s*"\s*(?P<value>[\d.]+?)\s*"', line, re.UNICODE).group('value')
-                    new_sync_time = float(new_sync_time)
-                    if sync_time is not None:
-                        segment_lenght = new_sync_time - sync_time
-
-                    sync_time = new_sync_time
-                    in_sync = True
-
-                elif in_sync:
-
-                    if check_for_choppy and segment_lenght <= time_amount_left:
-
-                        for index in xrange(number_of_words):
-                            try:
-                                chopped = line.split()[index]
-                            except IndexError:
-                                pass
-                            else:
-                                if (
-                                    re.search(ur'[{}]$'.format(line_end_marks), chopped, re.UNICODE) is not None and
-                                    chopped[0].islower()
-                                ):
-                                    found[ln] = [19, "Choppy segment", line.encode('utf')]
-                                    break
-
-                    if chopped_at_end and segment_lenght <= time_amount_left and line[0].islower():
-                        found[ln-2] = [19, "Choppy segment", chopped_line_end.encode('utf')]
-
-                    if re.search(ur'[{}]$'.format(partial_line_end_marks), line, re.UNICODE) is None:
-
-                        for index in xrange(-(number_of_words + 1), -1):
-                            try:
-                                chopped = line.split()[index]
-                            except IndexError:
-                                check_for_choppy = False
-                                chopped_at_end = False
-                                chopped_line_end = None
-                            else:
-                                if re.search(ur'[{}]$'.format(line_end_marks), chopped, re.UNICODE) is not None:
-                                    chopped_at_end = True
-                                    chopped_line_end = line
-                                    break
-
-                                else:
-                                    chopped_at_end = False
-                                    chopped_line_end = None
-
-                        check_for_choppy = True
-
-                    else:
-                        check_for_choppy = False
-                        chopped_at_end = False
-                        chopped_line_end = None
-
-                    in_sync = False
-
-            elif re.search(turn_end, line) is not None:
-                in_turn = False
-
-            ln += 1
+                found[ln] = [19, 'Multiple initialisms in single tag', m]
 
     return found
 
@@ -1203,11 +1017,7 @@ def command22(filepath):
 
 
 def command23(filepath):
-    bad_strings = [
-        'Who nb=', 'Topic id=', 'Event',
-        'mode=', 'channel=', 'fidelity=',
-        'Background time=', 'Comment'
-    ]
+    bad_strings = ['Who nb=', 'Topic id=', 'Event' 'mode=', 'channel=', 'fidelity=', 'Background time=']
     found = {}
     regex = re.compile(".*<(.*)>.*")
 
@@ -1215,7 +1025,6 @@ def command23(filepath):
         ln = -1
         for line in f:
             ln = ln + 1
-            line = line.rstrip('\r\n')
             inner = re.findall(regex, line)
             # < inner >
             for txt in inner:
@@ -1243,10 +1052,6 @@ def command23(filepath):
                         elif bad == 'Background time=':
                             found[ln] = [23, 'Disallowed use of Transcriber', '(' + bad + ') | ' + line]
                             break
-                        elif bad == 'Comment':
-                            found[ln] = [23, 'Disallowed use of Transcriber', '(' + bad + ') | ' + line]
-                            break
-
     return found
 
 
@@ -1255,26 +1060,18 @@ def command24(filepath):
 
     inspect_sync_re = re.compile(ur'<(\s*)[Sync\w]+(?:\s*)[time\w]+(\s*)=(\s*)"(\s*)[\d\.]+(\s*)"/(\s*)>', re.UNICODE)
     inspect_turn_re = re.compile(ur'<[Turn\w]+(?:\s*[speaker\w]+(\s*)=(\s*)"(\s*)[spk\w]+\d+(\s*)")?\s*[startTime\w]+(\s*)=(\s*)"(\s*)[\d\.]+(\s*)"\s*[endTime\w]+(\s*)=(\s*)"(\s*)[\d\.]+(\s*)"(?:\s*[speaker\w]+(\s*)=(\s*)"(\s*)[spk\w]+\d+(\s*)")?>', re.UNICODE)
-    closing_turn = re.compile(ur'\s*<\s*/\s*Turn\s*>', re.UNICODE)
 
     found = {}
+
     with io.open(filepath, 'r', encoding='utf') as f:
 
         ln = 0
-        sync = False
-        empty_row = None
-        not_empty_row = False
         for line in f:
             ln += 1
             line = line.rstrip("\r\n")
 
             match = re.match(inspect_sync_re, line)
             if match is not None:
-                if empty_row is not None and not_empty_row:
-                    found[empty_row] = [24, 'Empty row in Sync tag', '']
-                sync = True
-                empty_row = None
-                not_empty_row = False
 
                 if re.search(ur'\bSync\b\s*\btime\b', line, re.UNICODE) is None:
                     found[ln] = [24, 'Tag syntax error', line.encode('utf')]
@@ -1286,18 +1083,6 @@ def command24(filepath):
                         break
 
                 continue
-
-            if sync and line and re.search(closing_turn, line) is None:
-                not_empty_row = True
-            elif sync and not line:
-                empty_row = ln
-
-            if re.search(closing_turn, line):
-                if empty_row and not_empty_row:
-                    found[empty_row] = [24, 'Empty row in Sync tag', '']
-                sync = False
-                empty_row = None
-                not_empty_row = False
 
             match = re.match(inspect_turn_re, line)
             if match is not None:
@@ -1322,7 +1107,7 @@ def command24(filepath):
 
 print "Content-type:text/html; charset=UTF-8\r\n\r\n"
 
-cmd_ids = range(25)
+cmd_ids = range(1,25)
 
 # Create instance of FieldStorage
 form = cgi.FieldStorage()
@@ -1369,53 +1154,23 @@ else:
 #call all commands on each file found
 all_stats = {'checked_files':0, 'valid_files': 0, 'total_errors':0}
 file_divs = {}
-transcribers = set()
 
 for f in json_files:
     all_stats['checked_files'] = all_stats['checked_files'] + 1
 
     res = []
     total_errors = 0
-
-    # Check file encoding first.
-    # If encoding is not UTF-8 report this error
-    # and process the next file.
-    rv = command9(f)
-    if rv:
-        total_errors = total_errors + len(rv.keys())
-        res.append(rv)
-
-    else:
-
-        try:
-            cmd_ids.remove(9)
-        except ValueError:
-            pass
-
-        for i in cmd_ids:
-
-            # Omit command if disabled.
-            if DISABLE_COMMANDS[i]:
-                continue
-
-            rv = eval("command" + str(i))(f)
-
-            if i == 0:
-                transcribers.add(rv.pop('transcriber_id', None))
-
-            if rv:
-                total_errors = total_errors + len(rv.keys())
-                res.append(rv)
+    for i in cmd_ids:
+        rv = eval("command" + str(i))(f)
+        if rv:
+            total_errors = total_errors + len(rv.keys())
+            res.append(rv)
 
     file_div = ''
     if len(res) == 0:
         all_stats['valid_files'] = all_stats['valid_files'] + 1
     else:
-        try:
-            sync_times = build_sync_times(f)
-        except UnicodeDecodeError:
-            sync_times = {1: u''}
-
+        sync_times = build_sync_times(f)
         audio_times = build_audio_times(sync_times)
 
         file_div = '<table border="1">' \
@@ -1462,6 +1217,7 @@ print '<tr><td>Commands Enabled</td><td>' + ','.join(str(x) for x in cmd_ids) + 
 print '</table>'
 print '</div>'
 
+
 print '<div name="file_bookmarks">'
 print '<table border="1">'
 print '<caption>File Links</caption>'
@@ -1475,10 +1231,6 @@ print '</table>'
 print '</div>'
 
 print '<p>Read about how to interpret this error report by referencing our <b><a href="https://www.greencrescent.com/cWeb/validator-output-guide.html">validator output guide</a></b>.</p> '
-
-
-if len(transcribers) > 1:
-    print '<div><table border="1"><tr><td>Transcriber ID mismatch</td></tr></table></div>'
 
 fe = 0
 for f in sorted(file_divs.keys()):
