@@ -25,9 +25,15 @@ CONTENT = [
     u'是諾&lt;initial&gt;W!&lt;/initial&gt;\n',               # 14
     u'&lt;initial&gt;Ph.D.&lt;/initial&gt;是諾\n',           # 15
     u'猴頭菇&lt;initial&gt;SO&lt;/initial&gt;&lt;lang:English&gt;Okay&lt;/lang:English&gt;醬就好了。\n',    # 16
+    u'所以那個時候呢就有無數的&lt;initial&gt;客家人因為來做這個伐木的工作\n', # 17
+    u'而且你相信現在可能大家&lt;/initial&gt;對宜蘭的印象，\n',    # 18
+    u'&lt;/initial&gt;\n',                                                             # 19
 ]
 EXCLUDE =[0, 3, 5, 9, 10, 15, 16]
-CATCH = [1, 2, 4, 6, 7, 8, 11, 12, 13, 14]
+CATCH = [
+    1, 2, 4, 6, 7, 8, 11, 12,
+    13, 14, 17, 18, 19
+]
 
 def test_command4(tmpdir):
     file_ = temporary_file(tmpdir, CONTENT)

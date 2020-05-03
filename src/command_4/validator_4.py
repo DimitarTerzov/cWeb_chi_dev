@@ -9,8 +9,8 @@ from command_5.validator_5 import _prepare_content
 def command4(filepath):
 
     regex = re.compile(ur"(?P<content>(?P<before_first>\s)?&lt;(?P<first_tag>[int\w\s/\\]+)&gt;(?P<inner_text>.*?)&lt;(?P<forward>[\\/\s]*)(?P<second_tag>[int\w\s]+)&gt;(?P<after_second>\s)?)", re.UNICODE)
-    opening_tag = re.compile(ur'&lt;[int\w\s]+&gt;', re.UNICODE)
-    closing_tag = re.compile(ur'&lt;\s*/[int\w\s]+&gt;', re.UNICODE)
+    opening_tag = re.compile(ur'\w*\s*&lt;[int\w\s]+&gt;\s*\w*', re.UNICODE)
+    closing_tag = re.compile(ur'\w*\s*&lt;\s*/[int\w\s]+&gt;\s*\w*', re.UNICODE)
 
     found = {}
     tag_exists = False
