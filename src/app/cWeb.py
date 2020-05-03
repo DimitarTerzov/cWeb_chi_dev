@@ -10,6 +10,19 @@ import binascii
 import io
 cgitb.enable()
 
+
+DISABLE_COMMANDS = {
+    0: True, 1: False, 2: False, 3: False, 4: False,
+    5: False, 6: False, 7: False, 8: False, 9: False,
+    10: False, 11: False, 12: False, 13: False, 14: False,
+    15: False, 16: False, 17: False, 18: False, 19: False,
+    20: False, 21: False, 22: False, 23: False, 24: False
+}
+LANGUAGE_CODES = {
+    u'bul': u'Bulgarian',
+    u'eng': u'English',
+    u'ell': u'Greek'
+}
 # Extracted from: https://www.tamasoft.co.jp/en/general-info/unicode.html
 WWwhitespace = "[\s                                                                                                      ฀឴   ឵᠋  ᠌   ᠍   ᠎   ᠏᠚  ᠛   ᠜   ᠝   ᠞   ᠟ᡸ  ᡹   ᡺   ᡻   ᡼   ᡽   ᡾   ᡿ᢪ  ᢫   ᢬   ᢭   ᢮   ᢯                                           ​   ‌   ‍   ‎   ‏                            ⁠  ⁡   ⁢   ⁣   ⁤   ⁥   ⁦   ⁧   ⁨   ⁩   ⁪   ⁫   ⁬   ⁭   ⁮   ⁯⠀　꒍    ꒎   ꒏꒢  ꒣꓅﬏︀    ︁   ︂   ︃   ︄   ︅   ︆   ︇   ︈   ︉   ︊   ︋   ︌   ︍   ︎   ️￰  ￱   ￲   ￳   ￴   ￵   ￶   ￷   ￸   ￹   ￺   ￻   ]"
 # Extracted from: https://www.fileformat.info/info/unicode/category/Po/list.htm
@@ -62,6 +75,41 @@ def list_files(path):
             if '.trs' in file:
                 files.append(os.path.join(r, file))
     return files
+
+
+# Transcribers ID checker
+def command0(filepath):
+    transcriber_pattern = re.compile(ur'\s*<\s*Trans\s*scribe\s*=\s*"(?P<id>.*?)"', re.UNICODE)
+    transcriber_id_pattern = re.compile(ur'^\w+?\-\d\d\d$', re.UNICODE)
+
+    found = {}
+    with io.open(filepath, 'r', encoding='utf') as f:
+        ln = 0
+        for line in f:
+            line = line.rstrip('\r\n')
+
+            match = re.search(transcriber_pattern, line)
+            if match is not None:
+
+                transcriber_id = match.group('id').strip()
+                content = transcriber_id.encode('utf')
+                if  re.search(transcriber_id_pattern, transcriber_id) is not None:
+
+                    language_code = transcriber_id[:-4]
+                    if language_code in LANGUAGE_CODES:
+                        found['transcriber_id'] = content
+                    else:
+                        found[ln] = [0, 'Incorrect Transcriber ID', content]
+
+                else:
+                    found[ln] = [0, 'Incorrect Transcriber ID', content]
+
+                break
+
+            ln += 1
+
+    return found
+
 
 #Disallowed characters
 def command1(filepath):
@@ -963,23 +1011,119 @@ def command18(filepath):
     return found
 
 
+# Choppy segments
 def command19(filepath):
-    #  WWwhitespacelist found in this file at: line 10
-    regex = re.compile("&lt;initial&gt;\s*[a-zA-Z]+" + WWwhitespace + "+[a-zA-Z]+\s*&lt;\/initial&gt;")
+    # Segments shorter than that amount of time in seconds
+    # are potentially Chopped segments. You can control it
+    # by changing this value.
+    time_amount_left = 12    # Y
+    # Segments that contain that number of words at the beginning
+    # or at end are potentially Chopped segments. You can control
+    # this by changing the value of variable.
+    number_of_words = 2     # X
+
+    partial_line_end_marks = u":,\-_!—.?;\]"
+    line_end_marks = u'!.?'
+    turn_end = re.compile(ur'<\s*/\s*Turn\s*>', re.UNICODE)
 
     found = {}
+    with io.open(filepath, 'r', encoding='utf') as f:
 
-    with open (filepath, 'r') as f:
-        ln = -1
+        ln = 0
+        sync_time = None
+        segment_lenght = None
+        in_turn = False
+        check_for_choppy = False
         for line in f:
-            ln = ln + 1
-            line = line.rstrip("\r\n")
+            line = line.strip(" \r\n")
 
-            for m in re.findall(regex, line):
+            if not line:
+                ln += 1
+                continue
 
-                found[ln] = [19, 'Multiple initialisms in single tag', m]
+            if re.search(ur'<\s*Turn', line, re.UNICODE) is not None:
+                sync_time = None
+                segment_lenght = None
+                chopped_at_end = False
+                chopped_line_end = None
+                check_for_choppy = False
+                in_turn = True
+
+            elif in_turn:
+
+                if re.search(ur'<\s*Sync\s*time', line, re.UNICODE) is not None:
+                    new_sync_time = re.search(ur'<\s*Sync\s*time\s*=\s*"\s*(?P<value>[\d.]+?)\s*"', line, re.UNICODE).group('value')
+                    new_sync_time = float(new_sync_time)
+                    if sync_time is not None:
+                        segment_lenght = new_sync_time - sync_time
+
+                    sync_time = new_sync_time
+                    in_sync = True
+
+                elif in_sync:
+
+                    if line[0].islower() and segment_lenght <= time_amount_left:
+                        if check_for_choppy:
+                            chopped_line = _chopped_at_start(line, ln, line_end_marks, number_of_words)
+                            found.update(chopped_line)
+                        if chopped_at_end:
+                            found[ln-2] = [19, "Choppy segment", chopped_line_end.encode('utf')]
+
+                    if re.search(ur'[{}]$'.format(partial_line_end_marks), line, re.UNICODE) is None:
+                        chopped_at_end, chopped_line_end = _check_chopped_at_end(line, number_of_words, line_end_marks)
+                        check_for_choppy = True
+
+                    else:
+                        check_for_choppy = False
+                        chopped_at_end = False
+                        chopped_line_end = None
+
+                    in_sync = False
+
+            elif re.search(turn_end, line) is not None:
+                in_turn = False
+
+            ln += 1
 
     return found
+
+
+def _check_chopped_at_end(line, number_of_words, line_end_marks):
+    for index in xrange(-(number_of_words + 1), -1):
+        try:
+            chopped = line.split()[index]
+
+        except IndexError:
+            chopped_at_end = False
+            chopped_line_end = None
+
+        else:
+            if re.search(ur'[{}]$'.format(line_end_marks), chopped, re.UNICODE) is not None:
+                chopped_at_end = True
+                chopped_line_end = line
+                break
+            else:
+                chopped_at_end = False
+                chopped_line_end = None
+
+    return chopped_at_end, chopped_line_end
+
+
+def _chopped_at_start(line, ln, line_end_marks, number_of_words):
+    chopped_line = {}
+    for index in xrange(number_of_words):
+        try:
+            chopped = line.split()[index]
+        except IndexError:
+            pass
+        else:
+            if (
+                re.search(ur'[{}]$'.format(line_end_marks), chopped, re.UNICODE) is not None
+            ):
+                chopped_line[ln] = [19, "Choppy segment", line.encode('utf')]
+                break
+
+    return chopped_line
 
 
 def command20(filepath):
@@ -1061,41 +1205,41 @@ def command22(filepath):
 
 
 def command23(filepath):
-    bad_strings = ['Who nb=', 'Topic id=', 'Event' 'mode=', 'channel=', 'fidelity=', 'Background time=']
+    bad_strings_to_report = {
+        u'Who nb=': u'Do not create turns with multiple speakers.',
+        u'Topic id=': u'Do not create topics',
+        u'Event desc=': u'Do not create events',
+        u'mode=': u'Do not change the mode setting',
+        u'channel=': u'Do not change the channel setting',
+        u'fidelity=': u'Do not change the fidelity setting',
+        u'Background time=': u'Disallowed use of Transcriber',
+        u'Comment desc=': u'Disallowed use of Transcriber'
+    }
     found = {}
-    regex = re.compile(".*<(.*)>.*")
+    regex = re.compile(ur".*<(.*)>.*", re.UNICODE)
+    in_section = False
 
-    with open (filepath, 'r') as f:
+    with io.open (filepath, 'r', encoding='utf') as f:
         ln = -1
         for line in f:
             ln = ln + 1
-            inner = re.findall(regex, line)
-            # < inner >
-            for txt in inner:
-                for bad in bad_strings:
+            line = line.rstrip('\r\n')
 
-                    if bad in txt:
-                        if bad == 'Who nb=':
-                            found[ln] = [23, 'Do not create turns with multiple speakers.', '(' + bad + ') | ' + line]
-                            break   #print only one bad string per line
-                        elif bad == 'Topic id=':
-                            found[ln] = [23, 'Do not create topics', '(' + bad + ') | ' + line]
-                            break
-                        elif bad == 'Event':
-                            found[ln] = [23, 'Do not create events', '(' + bad + ') | ' + line]
-                            break
-                        elif bad == 'mode=':
-                            found[ln] = [23, 'Do not change the mode setting', '(' + bad + ') | ' + line]
-                            break
-                        elif bad == 'channel=':
-                            found[ln] = [23, 'Do not change the channel setting', '(' + bad + ') | ' + line]
-                            break
-                        elif bad == 'fidelity=':
-                            found[ln] = [23, 'Do not change the fidelity setting', '(' + bad + ') | ' + line]
-                            break
-                        elif bad == 'Background time=':
-                            found[ln] = [23, 'Disallowed use of Transcriber', '(' + bad + ') | ' + line]
-                            break
+            if re.search(ur'<\s*Section', line, re.UNICODE) is not None:
+                in_section = True
+            elif re.search(ur'<\s*/\s*Section', line, re.UNICODE) is not None:
+                in_section = False
+
+            if in_section:
+                inner = re.findall(regex, line)
+                # < inner >
+                for txt in inner:
+
+                    for bad in bad_strings_to_report:
+                        if bad in txt:
+                            report_line = u'({}) | {})'.format(bad, line).encode('utf')
+                            found[ln] = [23, bad_strings_to_report[bad].encode('utf'), report_line]
+
     return found
 
 
@@ -1104,18 +1248,26 @@ def command24(filepath):
 
     inspect_sync_re = re.compile(ur'<(\s*)[Sync\w]+(?:\s*)[time\w]+(\s*)=(\s*)"(\s*)[\d\.]+(\s*)"/(\s*)>', re.UNICODE)
     inspect_turn_re = re.compile(ur'<[Turn\w]+(?:\s*[speaker\w]+(\s*)=(\s*)"(\s*)[spk\w]+\d+(\s*)")?\s*[startTime\w]+(\s*)=(\s*)"(\s*)[\d\.]+(\s*)"\s*[endTime\w]+(\s*)=(\s*)"(\s*)[\d\.]+(\s*)"(?:\s*[speaker\w]+(\s*)=(\s*)"(\s*)[spk\w]+\d+(\s*)")?>', re.UNICODE)
+    closing_turn = re.compile(ur'\s*<\s*/\s*Turn\s*>', re.UNICODE)
 
     found = {}
-
     with io.open(filepath, 'r', encoding='utf') as f:
 
         ln = 0
+        sync = False
+        empty_row = None
+        not_empty_row = False
         for line in f:
             ln += 1
             line = line.rstrip("\r\n")
 
             match = re.match(inspect_sync_re, line)
             if match is not None:
+                if empty_row is not None and not_empty_row:
+                    found[empty_row] = [24, 'Empty row in Sync tag', '']
+                sync = True
+                empty_row = None
+                not_empty_row = False
 
                 if re.search(ur'\bSync\b\s*\btime\b', line, re.UNICODE) is None:
                     found[ln] = [24, 'Tag syntax error', line.encode('utf')]
@@ -1127,6 +1279,18 @@ def command24(filepath):
                         break
 
                 continue
+
+            if sync and line and re.search(closing_turn, line) is None:
+                not_empty_row = True
+            elif sync and not line:
+                empty_row = ln
+
+            if re.search(closing_turn, line):
+                if empty_row and not_empty_row:
+                    found[empty_row] = [24, 'Empty row in Sync tag', '']
+                sync = False
+                empty_row = None
+                not_empty_row = False
 
             match = re.match(inspect_turn_re, line)
             if match is not None:
