@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-__version__ = '1.25'
+__version__ = '1.26'
 import os
 import sys
 import re
@@ -1315,7 +1315,7 @@ def command24(filepath):
 
 print "Content-type:text/html; charset=UTF-8\r\n\r\n"
 
-cmd_ids = range(1,25)
+cmd_ids = range(25)
 
 # Create instance of FieldStorage
 form = cgi.FieldStorage()
@@ -1362,23 +1362,53 @@ else:
 #call all commands on each file found
 all_stats = {'checked_files':0, 'valid_files': 0, 'total_errors':0}
 file_divs = {}
+transcribers = set()
 
 for f in json_files:
     all_stats['checked_files'] = all_stats['checked_files'] + 1
 
     res = []
     total_errors = 0
-    for i in cmd_ids:
-        rv = eval("command" + str(i))(f)
-        if rv:
-            total_errors = total_errors + len(rv.keys())
-            res.append(rv)
+
+    # Check file encoding first.
+    # If encoding is not UTF-8 report this error
+    # and process the next file.
+    rv = command9(f)
+    if rv:
+        total_errors = total_errors + len(rv.keys())
+        res.append(rv)
+
+    else:
+
+        try:
+            cmd_ids.remove(9)
+        except ValueError:
+            pass
+
+        for i in cmd_ids:
+
+            # Omit command if disabled.
+            if DISABLE_COMMANDS[i]:
+                continue
+
+            rv = eval("command" + str(i))(f)
+
+            if i == 0:
+                transcribers.add(rv.pop('transcriber_id', None))
+
+            if rv:
+                total_errors = total_errors + len(rv.keys())
+                res.append(rv)
 
     file_div = ''
     if len(res) == 0:
         all_stats['valid_files'] = all_stats['valid_files'] + 1
     else:
-        sync_times = build_sync_times(f)
+        try:
+            sync_times = build_sync_times(f)
+        except UnicodeDecodeError:
+            sync_times = {1: u''}
+
         audio_times = build_audio_times(sync_times)
 
         file_div = '<table border="1">' \
@@ -1425,7 +1455,6 @@ print '<tr><td>Commands Enabled</td><td>' + ','.join(str(x) for x in cmd_ids) + 
 print '</table>'
 print '</div>'
 
-
 print '<div name="file_bookmarks">'
 print '<table border="1">'
 print '<caption>File Links</caption>'
@@ -1439,6 +1468,10 @@ print '</table>'
 print '</div>'
 
 print '<p>Read about how to interpret this error report by referencing our <b><a href="https://www.greencrescent.com/cWeb/validator-output-guide.html">validator output guide</a></b>.</p> '
+
+
+if len(transcribers) > 1:
+    print '<div><table border="1"><tr><td>Transcriber ID mismatch</td></tr></table></div>'
 
 fe = 0
 for f in sorted(file_divs.keys()):
