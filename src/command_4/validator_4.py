@@ -106,7 +106,7 @@ def command4(filepath):
 
 
 if __name__ == '__main__':
-    found = command4('../files/Daai_Religion_08.trs')
+    found = command4('../files/Daai_Religion_01.trs')
     keys = found.keys()
     keys = sorted(keys)
     print len(keys)

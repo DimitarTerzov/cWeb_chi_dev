@@ -31,9 +31,9 @@ def command5(filepath):
 
     punctuation_marks = u"。！？，、．.,"
     disallowed_punctuation = u'《》：（（））【】'
-    regex = re.compile(ur'(?P<content>(?P<before_first>[\s{0}])?(?P<first_open>(?:&lt;))(?P<first_tag>/*\s*\w*\s*):(?P<first_tag_lang>\s*\w*\s*)(?P<first_close>(?:&gt;))(?P<inner_text>.*?)(?P<second_open>(?:&lt;))(?P<forward>[\/]*)(?P<second_tag>\s*\w*\s*):(?P<second_tag_lang>\s*\w*\s*)(?P<second_close>(?:&gt;))(?P<after_second>[\s{0}])?)'.format(disallowed_punctuation), re.UNICODE)
-    opening_tag = re.compile(ur'&lt;\s*\w*\s*:\s*\w*\s*&gt;', re.UNICODE)
-    closing_tag = re.compile(ur'&lt;/\s*\w*\s*:\s*\w*\s*&gt;', re.UNICODE)
+    regex = re.compile(ur'(?P<content>(?P<before_first>[\s{0}])?&lt;(?P<first_tag>/*\s*\w*\s*):(?P<first_tag_lang>\s*\w*\s*)&gt;(?P<inner_text>.*?)&lt;(?P<forward>[\/]*)(?P<second_tag>\s*\w*\s*):(?P<second_tag_lang>\s*\w*\s*)&gt;(?P<after_second>[\s{0}])?)'.format(disallowed_punctuation), re.UNICODE)
+    opening_tag = re.compile(ur'\w*\s*&lt;\s*\w*\s*:\s*\w*\s*&gt;\s*\w*', re.UNICODE)
+    closing_tag = re.compile(ur'\w*\s*&lt;/\s*\w*\s*:\s*\w*\s*&gt;\s*\w*', re.UNICODE)
     found = {}
 
     with io.open(filepath, 'r', encoding='utf') as f:
@@ -82,13 +82,7 @@ def command5(filepath):
                         continue
 
                     # Check for wrong syntax
-                    if (
-                        match.group('first_open') != '&lt;' or
-                        match.group('first_close') != '&gt;' or
-                        match.group('second_open') != '&lt;' or
-                        match.group('second_close') != '&gt;' or
-                        match.group('forward') != '/'
-                    ):
+                    if match.group('forward') != '/':
                         found[ln] = [5, "Tag syntax error", content]
                         continue
 

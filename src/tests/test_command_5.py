@@ -53,6 +53,8 @@ CONTENT = [
     u'</Turn>\n', # 43
     u'醬就好了&lt;lang:English&gt;&gt;Okay&lt;/lang:English&gt;。\n',   # 44
     u'&lt;lang:Japanese&gt;おひさ[overlap]&lt;/lang:Japanese&gt;。\n', # 45
+    u'當時留下來的很多東西，&lt;lang:English&gt;怎麼還能(())\n',              # 46
+    u'但是其實整個金門當&lt;/lang:Japanese&gt;然四面環海，\n'                # 47
 ]
 
 EXCLUDE = [
@@ -63,7 +65,8 @@ EXCLUDE = [
 
 CATCH = [
     8, 10, 12, 18, 20, 22, 24,
-    28, 30, 34, 36, 40, 44
+    28, 30, 34, 36, 40, 44, 46,
+    47
 ]
 
 
