@@ -34,7 +34,9 @@ def command15(filepath):
                     found[ln] = [15, 'Double tilde', match.encode('utf')]
 
     if not tag_exists and not found:
-        found[1] = [15, 'No tildes were found. Please refer to the project page to learn about the proper use of the tilde for partially spoken words. If there were no partially spoken words, feel free to ignore this error.', '']
+        found['warning_message'] = 'No tildes were found. Please refer to the project page \
+to learn about the proper use of the tilde for partially spoken words. \
+If there were no partially spoken words, feel free to ignore this error.'
 
     return found
 
